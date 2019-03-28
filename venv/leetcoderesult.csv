@@ -1,1015 +1,1012 @@
 LeetcodeId,Title,Acceptance,Difficulty,Frequency,Topic,Company
-1,Two Sum    ,0.4270000000000001,Easy,10,HashTable|Array,
-2,Add Two Numbers    ,0.308,Medium,10,Math|Linked List,
-146,LRU Cache    ,0.245,Hard,10,Design,
-200,Number of Islands    ,0.40700000000000003,Medium,10,Depth First|breadth-first-search|Union Find,
-4,Median of Two Sorted Arrays    ,0.258,Hard,10,Binary Search|Array|Divide and Conquer,
-42,Trapping Rain Water    ,0.423,Hard,10,Two Pointers|Array|Stack,
-929,Unique Email Addresses    ,0.748,Easy,10,String,
-904,Fruit Into Baskets    ,0.41,Medium,10,Two Pointers,
-5,Longest Palindromic Substring    ,0.268,Medium,10,Dynamic Programming|String,
-3,Longest Substring Without Repeating Characters    ,0.281,Medium,10,HashTable|Two Pointers|String|Sliding Window,
-15,3Sum    ,0.23600000000000002,Medium,10,Two Pointers|Array,
-138,Copy List with Random Pointer    ,0.261,Medium,10,HashTable|Linked List,
-20,Valid Parentheses    ,0.361,Easy,10,String|Stack,
-56,Merge Intervals    ,0.35100000000000003,Medium,10,Array|Sort,
-21,Merge Two Sorted Lists    ,0.46299999999999997,Easy,10,Linked List,
-53,Maximum Subarray    ,0.43,Easy,10,Array|Dynamic Programming|Divide and Conquer,
-253,Meeting Rooms II    ,0.425,Medium,10,Greedy |Heap|Sort,
-273,Integer to English Words    ,0.24,Hard,10,Math|String,
-206,Reverse Linked List    ,0.5329999999999999,Easy,10,Linked List,
-301,Remove Invalid Parentheses    ,0.387,Hard,10,Depth First|breadth-first-search,
-121,Best Time to Buy and Sell Stock    ,0.465,Easy,10,Array|Dynamic Programming,
-23,Merge k Sorted Lists    ,0.33399999999999996,Hard,10,Linked List|Heap|Divide and Conquer,
-175,Combine Two Tables    ,0.5,Easy,10,,
-7,Reverse Integer    ,0.252,Easy,10,Math,
-238,Product of Array Except Self    ,0.542,Medium,10,Array,
-973,K Closest Points to Origin    ,0.6459999999999999,Medium,10,Heap|Sort|Divide and Conquer,
-269,Alien Dictionary    ,0.304,Hard,10,Graph|Topological Sort,
-11,Container With Most Water    ,0.4320000000000001,Medium,10,Two Pointers|Array,
-297,Serialize and Deserialize Binary Tree    ,0.39799999999999996,Hard,10,Tree|Design,
-924,Minimize Malware Spread    ,0.39299999999999996,Hard,10,Depth First|Union Find,
-76,Minimum Window Substring    ,0.301,Hard,10,HashTable|Two Pointers|String|Sliding Window,
-33,Search in Rotated Sorted Array    ,0.327,Medium,10,Binary Search|Array,
-22,Generate Parentheses    ,0.537,Medium,10,String|Backtracking,
-31,Next Permutation    ,0.302,Medium,10,Array,
-771,Jewels and Stones    ,0.8290000000000001,Easy,10,HashTable,
-811,Subdomain Visit Count    ,0.643,Easy,10,HashTable,
-141,Linked List Cycle    ,0.361,Easy,10,Two Pointers|Linked List,
-322,Coin Change    ,0.295,Medium,10,Dynamic Programming,
-9,Palindrome Number    ,0.424,Easy,10,Math,
-10,Regular Expression Matching    ,0.251,Hard,10,Dynamic Programming|String|Backtracking,
-482,License Key Formatting    ,0.405,Easy,10,,
-289,Game of Life    ,0.44,Medium,10,Array,
-560,Subarray Sum Equals K    ,0.418,Medium,10,HashTable|Array,
-54,Spiral Matrix    ,0.299,Medium,10,Array,
-829,Consecutive Numbers Sum    ,0.324,Hard,10,Math,
-412,Fizz Buzz    ,0.59,Easy,10,,
-46,Permutations    ,0.539,Medium,10,Backtracking,
-642,Design Search Autocomplete System    ,0.364,Hard,10,Design|Trie,
-85,Maximal Rectangle    ,0.326,Hard,10,HashTable|Array|Dynamic Programming|Stack,
-8,String to Integer (atoi)    ,0.145,Medium,10,Math|String,
-49,Group Anagrams    ,0.45299999999999996,Medium,10,HashTable|String,
-399,Evaluate Division    ,0.469,Medium,10,Graph|Union Find,
-17,Letter Combinations of a Phone Number    ,0.408,Medium,10,String|Backtracking,
-215,Kth Largest Element in an Array    ,0.465,Medium,10,Heap|Divide and Conquer,
-88,Merge Sorted Array    ,0.35100000000000003,Easy,10,Two Pointers|Array,
-139,Word Break    ,0.34600000000000003,Medium,10,Dynamic Programming,
-79,Word Search    ,0.306,Medium,10,Array|Backtracking,
-224,Basic Calculator    ,0.32,Hard,10,Math|Stack,
-295,Find Median from Data Stream    ,0.354,Hard,10,Design|Heap,
-975,Odd Even Jump    ,0.5,Hard,10,Dynamic Programming|Stack|Binary Search Tree,
-621,Task Scheduler    ,0.447,Medium,10,Greedy |Array|Queue,
-393,UTF-8 Validation    ,0.355,Medium,10,Bit Manipulation,
-41,First Missing Positive    ,0.284,Hard,10,Array,
-13,Roman to Integer    ,0.518,Easy,10,Math|String,
-151,Reverse Words in a String    ,0.161,Medium,10,String,
-127,Word Ladder    ,0.233,Medium,9,breadth-first-search,
-380,Insert Delete GetRandom O(1)    ,0.42200000000000004,Medium,9,HashTable|Array|Design,
-843,Guess the Word    ,0.426,Hard,9,Minimax,
-103,Binary Tree Zigzag Level Order Traversal    ,0.408,Medium,9,breadth-first-search|Tree|Stack,
-344,Reverse String    ,0.629,Easy,9,Two Pointers|String,
-528,Random Pick with Weight    ,0.428,Medium,9,Binary Search|Random,
-98,Validate Binary Search Tree    ,0.254,Medium,9,Depth First|Tree,
-394,Decode String    ,0.441,Medium,9,Depth First|Stack,
-,,,,9,,
-,,,,9,,
-######################,,,,9,,
-923,3Sum With Multiplicity    ,0.32799999999999996,Medium,9,Two Pointers,
-67,Add Binary    ,0.38299999999999995,Easy,9,Math|String,
-124,Binary Tree Maximum Path Sum    ,0.295,Hard,9,Depth First|Tree,
-283,Move Zeroes    ,0.5379999999999999,Easy,9,Two Pointers|Array,
-193,Valid Phone Numbers    ,0.25,Easy,9,,
-609,Find Duplicate File in System    ,0.544,Medium,9,HashTable|String,
-336,Palindrome Pairs    ,0.304,Hard,9,HashTable|String|Trie,
-192,Word Frequency    ,0.267,Medium,9,,
-72,Edit Distance    ,0.368,Hard,9,Dynamic Programming|String,
-25,Reverse Nodes in k-Group    ,0.35700000000000004,Hard,9,Linked List,
-91,Decode Ways    ,0.22,Medium,9,Dynamic Programming|String,
-173,Binary Search Tree Iterator    ,0.47600000000000003,Medium,9,Tree|Stack|Design,
-236,Lowest Common Ancestor of a Binary Tree    ,0.36,Medium,9,Tree,
-50,"Pow(x, n)    ",0.27699999999999997,Medium,9,Binary Search|Math,
-158,Read N Characters Given Read4 II - Call multiple times    ,0.254,Hard,9,String,
-844,Backspace String Compare    ,0.455,Easy,9,Two Pointers|Stack,
-332,Reconstruct Itinerary    ,0.308,Medium,9,Depth First|Graph,
-755,Pour Water    ,0.39399999999999996,Medium,9,Array,
-772,Basic Calculator III    ,0.43799999999999994,Hard,9,String|Stack,
-716,Max Stack    ,0.39399999999999996,Easy,9,Design,
-68,Text Justification    ,0.22699999999999998,Hard,9,String,
-195,Tenth Line    ,0.34,Easy,9,,
-239,Sliding Window Maximum    ,0.374,Hard,9,Heap|Sliding Window,
-347,Top K Frequent Elements    ,0.5379999999999999,Medium,9,HashTable|Heap,
-176,Second Highest Salary    ,0.265,Easy,9,,
-695,Max Area of Island    ,0.563,Medium,9,Depth First|Array,
-155,Min Stack    ,0.361,Easy,9,Stack|Design,
-312,Burst Balloons    ,0.465,Hard,9,Dynamic Programming|Divide and Conquer,
-212,Word Search II    ,0.278,Hard,9,Backtracking|Trie,
-159,Longest Substring with At Most Two Distinct Characters    ,0.46399999999999997,Hard,9,HashTable|Two Pointers|String|Sliding Window,
-947,Most Stones Removed with Same Row or Column    ,0.54,Medium,9,Depth First|Union Find,
-489,Robot Room Cleaner    ,0.63,Hard,9,Depth First,
-692,Top K Frequent Words    ,0.45,Medium,9,HashTable|Heap|Trie,
-32,Longest Valid Parentheses    ,0.251,Hard,9,Dynamic Programming|String,
-341,Flatten Nested List Iterator    ,0.47100000000000003,Medium,9,Stack|Design,
-857,Minimum Cost to Hire K Workers    ,0.46799999999999997,Hard,9,Heap,
-39,Combination Sum    ,0.47200000000000003,Medium,9,Array|Backtracking,
-143,Reorder List    ,0.301,Medium,9,Linked List,
-43,Multiply Strings    ,0.301,Medium,9,Math|String,
-6,ZigZag Conversion    ,0.31,Medium,9,String,
-636,Exclusive Time of Functions    ,0.48200000000000004,Medium,9,Stack,
-48,Rotate Image    ,0.473,Medium,9,Array,
-362,Design Hit Counter    ,0.584,Medium,9,Design,
-177,Nth Highest Salary    ,0.253,Medium,9,,
-149,Max Points on a Line    ,0.156,Hard,9,HashTable|Math,
-12,Integer to Roman    ,0.501,Medium,9,Math|String,
-277,Find the Celebrity    ,0.359,Medium,9,Array,
-706,Design HashMap    ,0.55,Easy,9,HashTable|Design,
-300,Longest Increasing Subsequence    ,0.40399999999999997,Medium,9,Binary Search|Dynamic Programming,
-16,3Sum Closest    ,0.418,Medium,9,Two Pointers|Array,
-681,Next Closest Time    ,0.424,Medium,9,String,
-37,Sudoku Solver    ,0.36,Hard,9,HashTable|Backtracking,
-126,Word Ladder II    ,0.172,Hard,9,breadth-first-search|Array|String|Backtracking,
-207,Course Schedule    ,0.37,Medium,9,Depth First|breadth-first-search|Graph|Topological Sort,
-443,String Compression    ,0.371,Easy,9,String,
-128,Longest Consecutive Sequence    ,0.41100000000000003,Hard,9,Array|Union Find,
-735,Asteroid Collision    ,0.38,Medium,9,Stack,
-939,Minimum Area Rectangle    ,0.5,Medium,9,HashTable,
-547,Friend Circles    ,0.529,Medium,9,Depth First|Union Find,
-364,Nested List Weight Sum II    ,0.57,Medium,9,Depth First,
-387,First Unique Character in a String    ,0.494,Easy,9,HashTable|String,
-282,Expression Add Operators    ,0.324,Hard,9,Divide and Conquer,
-432,All O`one Data Structure    ,0.29,Hard,9,Design,
-222,Count Complete Tree Nodes    ,0.32,Medium,9,Binary Search|Tree,
-14,Longest Common Prefix    ,0.331,Easy,9,String,
-218,The Skyline Problem    ,0.312,Hard,9,Heap|Divide and Conquer|Segment Tree|Binary Indexed Tree,
-679,24 Game    ,0.42,Hard,9,Depth First,
-92,Reverse Linked List II    ,0.34299999999999997,Medium,9,Linked List,
-349,Intersection of Two Arrays    ,0.534,Easy,9,HashTable|Binary Search|Two Pointers|Sort,
-227,Basic Calculator II    ,0.32799999999999996,Medium,9,String,
-133,Clone Graph    ,0.256,Medium,9,Depth First|breadth-first-search|Graph,
-460,LFU Cache    ,0.28300000000000003,Hard,9,Design,
-38,Count and Say    ,0.39799999999999996,Easy,9,String,
-770,Basic Calculator IV    ,0.449,Hard,9,HashTable|String|Stack,
-348,Design Tic-Tac-Toe    ,0.489,Medium,9,Design,
-55,Jump Game    ,0.315,Medium,9,Greedy |Array,
-647,Palindromic Substrings    ,0.562,Medium,9,Dynamic Programming|String,
-242,Valid Anagram    ,0.513,Easy,9,HashTable|Sort,
-78,Subsets    ,0.515,Medium,9,Array|Backtracking|Bit Manipulation,
-105,Construct Binary Tree from Preorder and Inorder Traversal    ,0.39899999999999997,Medium,9,Depth First|Array|Tree,
-329,Longest Increasing Path in a Matrix    ,0.39399999999999996,Hard,9,Depth First|Topological Sort|Memoization,
-140,Word Break II    ,0.268,Hard,9,Dynamic Programming|Backtracking,
-564,Find the Closest Palindrome    ,0.184,Hard,9,String,
-449,Serialize and Deserialize BST    ,0.461,Medium,9,Tree,
-535,Encode and Decode TinyURL    ,0.7609999999999999,Medium,9,HashTable|Math,
-445,Add Two Numbers II    ,0.495,Medium,9,Linked List,
-162,Find Peak Element    ,0.409,Medium,9,Binary Search|Array,
-258,Add Digits    ,0.537,Easy,9,Math,
-57,Insert Interval    ,0.309,Hard,9,Array|Sort,
-51,N-Queens    ,0.381,Hard,8,Backtracking,
-203,Remove Linked List Elements    ,0.354,Easy,8,Linked List,
-19,Remove Nth Node From End of List    ,0.341,Medium,8,Two Pointers|Linked List,
-199,Binary Tree Right Side View    ,0.47,Medium,8,Depth First|breadth-first-search|Tree,
-974,Subarray Sums Divisible by K    ,0.4270000000000001,Medium,8,HashTable|Array,
-339,Nested List Weight Sum    ,0.674,Easy,8,Depth First,
-45,Jump Game II    ,0.27699999999999997,Hard,8,Greedy |Array,
-324,Wiggle Sort II    ,0.276,Medium,8,Sort,
-543,Diameter of Binary Tree    ,0.46299999999999997,Easy,8,Tree,
-125,Valid Palindrome    ,0.305,Easy,8,Two Pointers|String,
-935,Knight Dialer    ,0.389,Medium,8,Dynamic Programming,
-426,Convert Binary Search Tree to Sorted Doubly Linked List    ,0.505,Medium,8,Tree|Linked List|Divide and Conquer,
-221,Maximal Square    ,0.324,Medium,8,Dynamic Programming,
-34,Find First and Last Position of Element in Sorted Array    ,0.331,Medium,8,Binary Search|Array,
-167,Two Sum II - Input array is sorted    ,0.4970000000000001,Easy,8,Binary Search|Two Pointers|Array,
-410,Split Array Largest Sum    ,0.419,Hard,8,Binary Search|Dynamic Programming,
-44,Wildcard Matching    ,0.225,Hard,8,Greedy |Dynamic Programming|String|Backtracking,
-135,Candy    ,0.27899999999999997,Hard,8,Greedy ,
-97,Interleaving String    ,0.275,Hard,8,Dynamic Programming|String,
-211,Add and Search Word - Data structure design    ,0.295,Medium,8,Backtracking|Design|Trie,
-204,Count Primes    ,0.285,Easy,8,HashTable|Math,
-773,Sliding Puzzle    ,0.51,Hard,8,breadth-first-search,
-415,Add Strings    ,0.433,Easy,8,String,
-228,Summary Ranges    ,0.354,Medium,8,Array,
-314,Binary Tree Vertical Order Traversal    ,0.40399999999999997,Medium,8,HashTable,
-84,Largest Rectangle in Histogram    ,0.305,Hard,8,Array|Stack,
-905,Sort Array By Parity    ,0.722,Easy,8,Array,
-457,Circular Array Loop    ,0.27399999999999997,Medium,8,Two Pointers|Array,
-102,Binary Tree Level Order Traversal    ,0.475,Medium,8,breadth-first-search|Tree,
-234,Palindrome Linked List    ,0.355,Easy,8,Two Pointers|Linked List,
-202,Happy Number    ,0.445,Easy,8,HashTable|Math,
-403,Frog Jump    ,0.35600000000000004,Hard,8,Dynamic Programming,
-458,Poor Pigs    ,0.45,Hard,8,Math,
-18,4Sum    ,0.3,Medium,8,HashTable|Two Pointers|Array,
-785,Is Graph Bipartite?    ,0.426,Medium,8,Depth First|breadth-first-search|Graph,
-210,Course Schedule II    ,0.34,Medium,8,Depth First|breadth-first-search|Graph|Topological Sort,
-93,Restore IP Addresses    ,0.309,Medium,8,String|Backtracking,
-94,Binary Tree Inorder Traversal    ,0.555,Medium,8,HashTable|Tree|Stack,
-65,Valid Number    ,0.139,Hard,8,Math|String,
-316,Remove Duplicate Letters    ,0.321,Hard,8,Greedy |Stack,
-909,Snakes and Ladders    ,0.313,Medium,8,breadth-first-search,
-248,Strobogrammatic Number III    ,0.36,Hard,8,Math|Recursion,
-70,Climbing Stairs    ,0.4370000000000001,Easy,8,Dynamic Programming,
-438,Find All Anagrams in a String    ,0.3670000000000001,Easy,8,HashTable,
-713,Subarray Product Less Than K    ,0.363,Medium,8,Two Pointers|Array,
-751,IP to CIDR    ,0.585,Easy,8,Bit Manipulation,
-529,Minesweeper    ,0.521,Medium,8,Depth First|breadth-first-search,
-279,Perfect Squares    ,0.41200000000000003,Medium,8,breadth-first-search|Math|Dynamic Programming,
-819,Most Common Word    ,0.419,Easy,8,String,
-697,Degree of an Array    ,0.496,Easy,8,Array,
-287,Find the Duplicate Number    ,0.48700000000000004,Medium,8,Binary Search|Two Pointers|Array,
-198,House Robber    ,0.408,Easy,8,Dynamic Programming,
-244,Shortest Word Distance II    ,0.46399999999999997,Medium,8,HashTable|Design,
-205,Isomorphic Strings    ,0.369,Easy,8,HashTable,
-920,Number of Music Playlists    ,0.43,Hard,8,Dynamic Programming,
-29,Divide Two Integers    ,0.161,Medium,8,Binary Search|Math,
-165,Compare Version Numbers    ,0.22899999999999998,Medium,8,String,
-208,Implement Trie (Prefix Tree)    ,0.3720000000000001,Medium,8,Design|Trie,
-251,Flatten 2D Vector    ,0.435,Medium,8,Design,
-918,Maximum Sum Circular Subarray    ,0.306,Medium,8,Array,
-280,Wiggle Sort    ,0.607,Medium,8,Array|Sort,
-315,Count of Smaller Numbers After Self    ,0.375,Hard,8,Divide and Conquer|Binary Search Tree|Segment Tree|Binary Indexed Tree,
-268,Missing Number    ,0.478,Easy,8,Array|Math|Bit Manipulation,
-402,Remove K Digits    ,0.263,Medium,8,Greedy |Stack,
-233,Number of Digit One    ,0.3,Hard,8,Math,
-250,Count Univalue Subtrees    ,0.48,Medium,8,Tree,
-240,Search a 2D Matrix II    ,0.40399999999999997,Medium,8,Binary Search|Divide and Conquer,
-304,Range Sum Query 2D - Immutable    ,0.315,Medium,8,Dynamic Programming,
-523,Continuous Subarray Sum    ,0.242,Medium,8,Math|Dynamic Programming,
-278,First Bad Version    ,0.293,Easy,8,Binary Search,
-64,Minimum Path Sum    ,0.45899999999999996,Medium,8,Array|Dynamic Programming,
-24,Swap Nodes in Pairs    ,0.436,Medium,8,Linked List,
-759,Employee Free Time    ,0.609,Hard,8,Greedy |Heap,
-152,Maximum Product Subarray    ,0.287,Medium,8,Array|Dynamic Programming,
-340,Longest Substring with At Most K Distinct Characters    ,0.39299999999999996,Hard,8,HashTable|String|Sliding Window,
-120,Triangle    ,0.386,Medium,8,Array|Dynamic Programming,
-722,Remove Comments    ,0.306,Medium,8,String,
-71,Simplify Path    ,0.28300000000000003,Medium,8,String|Stack,
-739,Daily Temperatures    ,0.594,Medium,8,HashTable|Stack,
-419,Battleships in a Board    ,0.653,Medium,8,,
-166,Fraction to Recurring Decimal    ,0.193,Medium,8,HashTable|Math,
-465,Optimal Account Balancing    ,0.42100000000000004,Hard,8,,
-116,Populating Next Right Pointers in Each Node    ,0.371,Medium,8,Depth First|Tree,
-468,Validate IP Address    ,0.21100000000000002,Medium,8,String,
-427,Construct Quad Tree    ,0.552,Easy,8,,
-28,Implement strStr()    ,0.315,Easy,8,Two Pointers|String,
-150,Evaluate Reverse Polish Notation    ,0.316,Medium,8,Stack,
-753,Cracking the Safe    ,0.451,Hard,8,Depth First|Math,
-308,Range Sum Query 2D - Mutable    ,0.312,Hard,8,Segment Tree|Binary Indexed Tree,
-122,Best Time to Buy and Sell Stock II    ,0.512,Easy,8,Greedy |Array,
-741,Cherry Pickup    ,0.28300000000000003,Hard,8,Dynamic Programming,
-862,Shortest Subarray with Sum at Least K    ,0.218,Hard,8,Binary Search|Queue,
-539,Minimum Time Difference    ,0.474,Medium,8,String,
-986,Interval List Intersections    ,0.624,Medium,8,Two Pointers,
-928,Minimize Malware Spread II    ,0.38299999999999995,Hard,8,Depth First|Graph|Union Find,
-658,Find K Closest Elements    ,0.375,Medium,8,Binary Search,
-114,Flatten Binary Tree to Linked List    ,0.414,Medium,8,Depth First|Tree,
-26,Remove Duplicates from Sorted Array    ,0.4,Easy,8,Two Pointers|Array,
-148,Sort List    ,0.34299999999999997,Medium,8,Linked List|Sort,
-187,Repeated DNA Sequences    ,0.355,Medium,8,HashTable|Bit Manipulation,
-723,Candy Crush    ,0.624,Medium,7,Two Pointers|Array,
-160,Intersection of Two Linked Lists    ,0.32799999999999996,Easy,7,Linked List,
-736,Parse Lisp Expression    ,0.4370000000000001,Hard,7,String,
-479,Largest Palindrome Product    ,0.272,Hard,7,,
-285,Inorder Successor in BST    ,0.33799999999999997,Medium,7,Tree,
-451,Sort Characters By Frequency    ,0.5529999999999999,Medium,7,HashTable|Heap,
-350,Intersection of Two Arrays II    ,0.47,Easy,7,HashTable|Binary Search|Two Pointers|Sort,
-780,Reaching Points    ,0.273,Hard,7,Math,
-75,Sort Colors    ,0.415,Medium,7,Two Pointers|Array|Sort,
-346,Moving Average from Data Stream    ,0.654,Easy,7,Design|Queue,
-170,Two Sum III - Data structure design    ,0.298,Easy,7,HashTable|Design,
-63,Unique Paths II    ,0.33299999999999996,Medium,7,Array|Dynamic Programming,
-104,Maximum Depth of Binary Tree    ,0.596,Easy,7,Depth First|Tree,
-694,Number of Distinct Islands    ,0.505,Medium,7,HashTable|Depth First,
-787,Cheapest Flights Within K Stops    ,0.341,Medium,7,breadth-first-search|Dynamic Programming|Heap,
-480,Sliding Window Median    ,0.318,Hard,7,Sliding Window,
-593,Valid Square    ,0.402,Medium,7,Math,
-448,Find All Numbers Disappeared in an Array    ,0.529,Easy,7,Array,
-981,Time Based Key-Value Store    ,0.496,Medium,7,HashTable|Binary Search,
-767,Reorganize String    ,0.414,Medium,7,Greedy |String|Heap|Sort,
-35,Search Insert Position    ,0.406,Easy,7,Binary Search|Array,
-62,Unique Paths    ,0.46799999999999997,Medium,7,Array|Dynamic Programming,
-911,Online Election    ,0.45299999999999996,Medium,7,Binary Search,
-463,Island Perimeter    ,0.605,Easy,7,HashTable,
-518,Coin Change 2    ,0.418,Medium,7,,
-136,Single Number    ,0.593,Easy,7,HashTable|Bit Manipulation,
-567,Permutation in String    ,0.379,Medium,7,Two Pointers,
-36,Valid Sudoku    ,0.42200000000000004,Medium,7,HashTable,
-688,Knight Probability in Chessboard    ,0.4320000000000001,Medium,7,Dynamic Programming,
-428,Serialize and Deserialize N-ary Tree    ,0.528,Hard,7,Tree,
-317,Shortest Distance from All Buildings    ,0.371,Hard,7,breadth-first-search,
-69,Sqrt(x)    ,0.309,Easy,7,Binary Search|Math,
-178,Rank Scores    ,0.353,Medium,7,,
-311,Sparse Matrix Multiplication    ,0.557,Medium,7,HashTable,
-101,Symmetric Tree    ,0.429,Easy,7,Depth First|breadth-first-search|Tree,
-493,Reverse Pairs    ,0.22699999999999998,Hard,7,Divide and Conquer|Binary Search Tree|Segment Tree|Binary Indexed Tree,
-509,Fibonacci Number    ,0.6679999999999999,Easy,7,Array,
-836,Rectangle Overlap    ,0.45899999999999996,Easy,7,Math,
-727,Minimum Window Subsequence    ,0.363,Hard,7,Dynamic Programming|Sliding Window,
-366,Find Leaves of Binary Tree    ,0.645,Medium,7,Depth First|Tree,
-232,Implement Queue using Stacks    ,0.424,Easy,7,Stack|Design,
-59,Spiral Matrix II    ,0.457,Medium,7,Array,
-442,Find All Duplicates in an Array    ,0.602,Medium,7,Array,
-142,Linked List Cycle II    ,0.312,Medium,7,Two Pointers|Linked List,
-299,Bulls and Cows    ,0.38799999999999996,Medium,7,HashTable,
-286,Walls and Gates    ,0.488,Medium,7,breadth-first-search,
-490,The Maze    ,0.467,Medium,7,Depth First|breadth-first-search,
-450,Delete Node in a BST    ,0.39399999999999996,Medium,7,Tree,
-284,Peeking Iterator    ,0.39799999999999996,Medium,7,Design,
-726,Number of Atoms    ,0.442,Hard,7,HashTable|Stack|Recursion,
-30,Substring with Concatenation of All Words    ,0.233,Hard,7,HashTable|Two Pointers|String,
-378,Kth Smallest Element in a Sorted Matrix    ,0.48700000000000004,Medium,7,Binary Search|Heap,
-117,Populating Next Right Pointers in Each Node II    ,0.337,Medium,7,Depth First|Tree,
-743,Network Delay Time    ,0.40700000000000003,Medium,7,Depth First|breadth-first-search|Heap|Graph,
-153,Find Minimum in Rotated Sorted Array    ,0.426,Medium,7,Binary Search|Array,
-296,Best Meeting Point    ,0.5429999999999999,Hard,7,Math|Sort,
-545,Boundary of Binary Tree    ,0.345,Medium,7,Tree,
-247,Strobogrammatic Number II    ,0.43799999999999994,Medium,7,Math|Recursion,
-557,Reverse Words in a String III    ,0.633,Easy,7,String,
-359,Logger Rate Limiter    ,0.644,Easy,7,HashTable|Design,
-381,Insert Delete GetRandom O(1) - Duplicates allowed    ,0.316,Hard,7,HashTable|Array|Design,
-532,K-diff Pairs in an Array    ,0.295,Easy,7,Two Pointers|Array,
-709,To Lower Case    ,0.764,Easy,7,String,
-271,Encode and Decode Strings    ,0.261,Medium,7,String,
+1,Two Sum    ,0.427,Easy,10,HashTable|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|snapchat|twitter|goldman-sachs|oracle|ebay|tencent|yelp|vmware|walmart-labs|salesforce|lyft|expedia|cisco|zenefits|paypal|pinterest|zillow|pocket-gems|intuit|mathworks|two-sigma|indeed|nvidia|works-applications|hulu|visa|samsung|netease|sap|dropbox|aetion|quora|yandex|coursera|godaddy|huawei|ixl|capital-one|intel|affirm|ibm|servicenow|tripadvisor|citrix|tableau|box|epic-systems|grab|morgan-stanley|twilio|wish|appdynamics|riot-games|bookingcom|groupon|redfin|zappos|zynga|blackrock|Alation|netflix|Drawbridge|Gilt Groupe|HTC|MAQ Software|Symantec|Deutsche Bank|Blizzard|Fallible|Helix|Jane Street|Jump Trading|Lending Club|Radius|valve|Sina
+2,Add Two Numbers    ,0.308,Medium,10,Math|Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|twitter|goldman-sachs|oracle|tencent|yelp|vmware|walmart-labs|salesforce|lyft|cisco|zenefits|mathworks|nvidia|works-applications|samsung|netease|sap|dropbox|aetion|quora|yandex|godaddy|capital-one|intel|affirm|ibm|tableau|box|grab|appdynamics|riot-games|redfin|zappos|zynga|Flipkart|Gilt Groupe|HTC|MAQ Software|EMC
+146,LRU Cache    ,0.245,Hard,10,Design,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|snapchat|twitter|goldman-sachs|oracle|ebay|yelp|vmware|walmart-labs|salesforce|lyft|cisco|zenefits|paypal|pinterest|zillow|intuit|two-sigma|nvidia|palantir-technologies|hulu|visa|sap|dropbox|quora|yandex|godaddy|jpmorgan|affirm|houzz|citadel|grab|twilio|wish|netflix
+200,Number of Islands    ,0.407,Medium,10,Depth First|breadth-first-search|Union Find,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|snapchat|twitter|goldman-sachs|oracle|ebay|yelp|walmart-labs|lyft|expedia|cisco|zenefits|paypal|pinterest|zillow|pocket-gems|mathworks|two-sigma|nutanix|nvidia|palantir-technologies|works-applications|hulu|visa|coursera|qualtrics|intel|affirm|houzz|citrix|appdynamics|doordash
+4,Median of Two Sorted Arrays    ,0.258,Hard,10,Binary Search|Array|Divide and Conquer,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|snapchat|twitter|goldman-sachs|ebay|tencent|vmware|walmart-labs|lyft|zenefits|pinterest|zillow|pocket-gems|two-sigma|nutanix|works-applications|hulu|netease|dropbox|aetion|rubrik|cloudera|zappos|zynga
+42,Trapping Rain Water    ,0.423,Hard,10,Two Pointers|Array|Stack,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|alibaba|airbnb|baidu|snapchat|twitter|goldman-sachs|oracle|ebay|tencent|salesforce|lyft|zenefits|intuit|nvidia|palantir-technologies|huawei|qualtrics|intel|grab|wish|Dataminr
+929,Unique Email Addresses    ,0.748,Easy,10,String,google|amazon|adobe|apple
+904,Fruit Into Baskets    ,0.41,Medium,10,Two Pointers,google|amazon
+5,Longest Palindromic Substring    ,0.268,Medium,10,Dynamic Programming|String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|twitter|oracle|ebay|tencent|yelp|vmware|walmart-labs|salesforce|lyft|expedia|cisco|zenefits|paypal|works-applications|netease|yandex|godaddy|huawei|jpmorgan|qualtrics|ibm|pure storage|sumologic|Roblox|Goo
+3,Longest Substring Without Repeating Characters    ,0.281,Medium,10,HashTable|Two Pointers|String|Sliding Window,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|snapchat|goldman-sachs|oracle|ebay|tencent|yelp|vmware|walmart-labs|expedia|cisco|paypal|pinterest|works-applications|hulu|aetion|yandex|huawei|ixl|epic-systems|grab|riot-games|bookingcom|zynga|blackrock|Alation|Pure
+15,3Sum    ,0.236,Medium,10,Two Pointers|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|snapchat|goldman-sachs|ebay|tencent|yelp|vmware|walmart-labs|salesforce|expedia|paypal|zillow|intuit|indeed|works-applications|visa|aetion|quora|square|yandex|coursera|qualtrics|akuna capital|box|GE Digital
+138,Copy List with Random Pointer    ,0.261,Medium,10,HashTable|Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|goldman-sachs|ebay|yelp|vmware|expedia|cisco|mathworks|visa|qualtrics|capital-one
+20,Valid Parentheses    ,0.361,Easy,10,String|Stack,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|twitter|goldman-sachs|oracle|ebay|tencent|yelp|vmware|walmart-labs|lyft|expedia|cisco|zenefits|paypal|zillow|mathworks|indeed|visa|samsung|sap|aetion|yandex|godaddy|huawei|jpmorgan|capital-one|rubrik|akuna capital|pure storage|servicenow|tripadvisor|twilio|riot-games|bookingcom|cloudera|qualcomm|zappos|zynga|TripleByte|Gilt Groupe|Blizzard|Lending Club|Yatra
+56,Merge Intervals    ,0.351,Medium,10,Array|Sort,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|snapchat|twitter|goldman-sachs|oracle|ebay|yelp|walmart-labs|salesforce|cisco|zenefits|paypal|pinterest|intuit|nvidia|palantir-technologies|sap|godaddy|servicenow|grab|wish|netflix|Dataminr
+21,Merge Two Sorted Lists    ,0.463,Easy,10,Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|oracle|tencent|yelp|vmware|walmart-labs|salesforce|expedia|cisco|paypal|intuit|indeed|hulu|samsung|yandex|coursera|huawei|capital-one|ibm|groupon|qualcomm|Arista Networks|EMC
+53,Maximum Subarray    ,0.43,Easy,10,Array|Dynamic Programming|Divide and Conquer,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|goldman-sachs|oracle|ebay|tencent|yelp|salesforce|expedia|cisco|zenefits|paypal|zillow|two-sigma|nvidia|hulu|visa|netease|sap|huawei|jpmorgan|capital-one|rubrik|intel|blackrock
+253,Meeting Rooms II    ,0.425,Medium,10,Greedy |Heap|Sort,google|amazon|facebook|microsoft|bloomberg|uber|apple|snapchat|oracle|yelp|cisco|dropbox
+273,Integer to English Words    ,0.24,Hard,10,Math|String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|linkedin|yahoo|airbnb|snapchat|oracle|yelp|paypal|zillow|palantir-technologies|sap|coursera|capital-one|ibm|citrix|tableau|coupang
+206,Reverse Linked List    ,0.533,Easy,10,Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|baidu|snapchat|twitter|goldman-sachs|oracle|ebay|tencent|yelp|vmware|walmart-labs|expedia|cisco|zenefits|paypal|intuit|mathworks|two-sigma|nutanix|nvidia|sap|yandex|intel|pure storage|tripadvisor|citrix|morgan-stanley|qualcomm|zynga|EMC
+301,Remove Invalid Parentheses    ,0.387,Hard,10,Depth First|breadth-first-search,google|amazon|facebook|bloomberg|uber
+121,Best Time to Buy and Sell Stock    ,0.465,Easy,10,Array|Dynamic Programming,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|baidu|snapchat|goldman-sachs|oracle|ebay|tencent|yelp|vmware|walmart-labs|salesforce|lyft|expedia|cisco|paypal|intuit|palantir-technologies|hulu|netease|jpmorgan|qualtrics|akuna capital|tableau|citadel|grab|morgan-stanley|doordash|Deutsche Bank
+23,Merge k Sorted Lists    ,0.334,Hard,10,Linked List|Heap|Divide and Conquer,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|snapchat|twitter|oracle|ebay|tencent|vmware|walmart-labs|salesforce|lyft|paypal|zillow|intuit|mathworks|indeed|nutanix|samsung|dropbox|huawei|ixl|capital-one|box|coupang|wish|TinyCo
+175,Combine Two Tables    ,0.5,Easy,10,,google|amazon|facebook|microsoft|adobe|uber|apple|yahoo|airbnb|baidu|tencent|works-applications
+7,Reverse Integer    ,0.252,Easy,10,Math,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|twitter|oracle|ebay|tencent|lyft|cisco|paypal|zillow|works-applications|netease|aetion|godaddy|huawei|jpmorgan|epic-systems|HTC|Symantec
+238,Product of Array Except Self    ,0.542,Medium,10,Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|snapchat|twitter|ebay|yelp|vmware|walmart-labs|lyft|expedia|zenefits|intuit|indeed|nutanix|nvidia|hulu|visa|intel|tableau|groupon|blackrock
+973,K Closest Points to Origin    ,0.646,Medium,10,Heap|Sort|Divide and Conquer,google|amazon|facebook|apple
+269,Alien Dictionary    ,0.304,Hard,10,Graph|Topological Sort,google|amazon|facebook|microsoft|bloomberg|uber|apple|yahoo|airbnb|snapchat|twitter|oracle|lyft|pinterest|pocket-gems|rubrik
+11,Container With Most Water    ,0.432,Medium,10,Two Pointers|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|alibaba|airbnb|baidu|twitter|goldman-sachs|tencent|walmart-labs|lyft|palantir-technologies|works-applications|samsung|aetion|huawei|intel|citrix|appdynamics|zynga
+297,Serialize and Deserialize Binary Tree    ,0.398,Hard,10,Tree|Design,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|yahoo|oracle|vmware|salesforce|intuit|indeed|quora|tableau|groupon
+924,Minimize Malware Spread    ,0.393,Hard,10,Depth First|Union Find,dropbox
+76,Minimum Window Substring    ,0.301,Hard,10,HashTable|Two Pointers|String|Sliding Window,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|yahoo|alibaba|airbnb|snapchat|vmware|walmart-labs|liveramp|Netsuite
+33,Search in Rotated Sorted Array    ,0.327,Medium,10,Binary Search|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|snapchat|goldman-sachs|ebay|tencent|yelp|vmware|walmart-labs|expedia|cisco|paypal|mathworks|two-sigma|nutanix|nvidia|palantir-technologies|visa|samsung|netease|aetion|ixl|affirm|tripadvisor
+22,Generate Parentheses    ,0.537,Medium,10,String|Backtracking,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|snapchat|ebay|yelp|walmart-labs|salesforce|lyft|zenefits|intuit|nvidia|works-applications|netease|aetion|yandex|ibm
+31,Next Permutation    ,0.302,Medium,10,Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|samsung|quora|rubrik|houzz|sumologic
+771,Jewels and Stones    ,0.829,Easy,10,HashTable,google|amazon|adobe|apple|yahoo|alibaba|baidu
+811,Subdomain Visit Count    ,0.643,Easy,10,HashTable,google|bloomberg|pinterest|intuit|indeed|citrix|Roblox
+141,Linked List Cycle    ,0.361,Easy,10,Two Pointers|Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|goldman-sachs|oracle|ebay|tencent|walmart-labs|expedia|netease|yandex|intel|ibm|morgan-stanley
+322,Coin Change    ,0.295,Medium,10,Dynamic Programming,google|amazon|facebook|microsoft|bloomberg|adobe|apple|linkedin|airbnb|goldman-sachs|ebay|vmware|walmart-labs|hulu|visa|jpmorgan|qualtrics|capital-one|groupon
+9,Palindrome Number    ,0.424,Easy,10,Math,google|amazon|facebook|microsoft|bloomberg|adobe|apple|yahoo|alibaba|airbnb|baidu|goldman-sachs|tencent|cisco|aetion|godaddy|huawei|jpmorgan|affirm|blackrock|MAQ Software
+10,Regular Expression Matching    ,0.251,Hard,10,Dynamic Programming|String|Backtracking,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|airbnb|baidu|twitter|oracle|yelp|vmware|pocket-gems|two-sigma|palantir-technologies|coursera
+482,License Key Formatting    ,0.405,Easy,10,,google|amazon
+289,Game of Life    ,0.44,Medium,10,Array,google|amazon|microsoft|bloomberg|uber|apple|baidu|snapchat|two-sigma|dropbox|square|bookingcom
+560,Subarray Sum Equals K    ,0.418,Medium,10,HashTable|Array,google|amazon|facebook|microsoft|bloomberg|apple|alibaba|snapchat|goldman-sachs|expedia|indeed|yandex|twilio
+54,Spiral Matrix    ,0.299,Medium,10,Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|baidu|ebay|tencent|yelp|walmart-labs|cisco|paypal|zillow|hulu|servicenow|epic-systems|redfin|Dataminr
+829,Consecutive Numbers Sum    ,0.324,Hard,10,Math,adobe|uber|airbnb|visa
+412,Fizz Buzz    ,0.59,Easy,10,,google|amazon|facebook|microsoft|bloomberg|adobe|apple|linkedin|yahoo|oracle|ebay|vmware|cisco|paypal|zillow|capital-one|ibm|qualcomm
+46,Permutations    ,0.539,Medium,10,Backtracking,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|baidu|oracle|ebay|tencent|yelp|vmware|walmart-labs|salesforce|cisco|paypal|two-sigma|netease|sap|godaddy|citadel|epic-systems
+642,Design Search Autocomplete System    ,0.364,Hard,10,Design|Trie,google|amazon|facebook|microsoft|bloomberg|uber|salesforce|lyft|indeed
+85,Maximal Rectangle    ,0.326,Hard,10,HashTable|Array|Dynamic Programming|Stack,google|amazon|facebook|microsoft|adobe|uber|vmware|intuit|indeed|affirm
+8,String to Integer (atoi)    ,0.145,Medium,10,Math|String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|goldman-sachs|ebay|tencent|vmware|cisco|zillow|sap|huawei|citrix|redfin
+49,Group Anagrams    ,0.453,Medium,10,HashTable|String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|airbnb|twitter|goldman-sachs|ebay|yelp|vmware|walmart-labs|salesforce|pinterest|zillow|hulu|yandex|qualtrics|affirm|twilio|bookingcom|netflix
+399,Evaluate Division    ,0.469,Medium,10,Graph|Union Find,google|amazon|facebook|bloomberg|adobe|uber
+17,Letter Combinations of a Phone Number    ,0.408,Medium,10,String|Backtracking,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|snapchat|oracle|ebay|yelp|vmware|walmart-labs|lyft|paypal|pinterest|dropbox|square|godaddy|epic-systems|morgan-stanley|Symantec
+215,Kth Largest Element in an Array    ,0.465,Medium,10,Heap|Divide and Conquer,google|amazon|facebook|microsoft|bloomberg|apple|linkedin|alibaba|airbnb|baidu|snapchat|twitter|goldman-sachs|ebay|tencent|yelp|vmware|pocket-gems|nvidia|ixl
+88,Merge Sorted Array    ,0.351,Easy,10,Two Pointers|Array,google|amazon|facebook|microsoft|bloomberg|adobe|apple|linkedin|airbnb|baidu|goldman-sachs|tencent|yelp|walmart-labs|expedia|cisco|indeed|intel|ibm|citrix|morgan-stanley|quip
+139,Word Break    ,0.346,Medium,10,Dynamic Programming,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|snapchat|twitter|oracle|ebay|yelp|vmware|walmart-labs|lyft|zenefits|paypal|pinterest|zillow|pocket-gems|square|qualtrics|coupang|twilio
+79,Word Search    ,0.306,Medium,10,Array|Backtracking,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|snapchat|oracle|walmart-labs|lyft|pinterest|zillow|square|databricks
+224,Basic Calculator    ,0.32,Hard,10,Math|Stack,google|amazon|facebook|microsoft|adobe|uber|airbnb|paypal|pinterest|pocket-gems|intuit|indeed|Roblox|Jump Trading
+295,Find Median from Data Stream    ,0.354,Hard,10,Design|Heap,google|amazon|facebook|microsoft|bloomberg|uber|apple|yahoo|snapchat|twitter|oracle|ebay|walmart-labs|expedia|pinterest|zillow|two-sigma|akuna capital|Pony.ai
+975,Odd Even Jump    ,0.5,Hard,10,Dynamic Programming|Stack|Binary Search Tree,google
+621,Task Scheduler    ,0.447,Medium,10,Greedy |Array|Queue,google|facebook|microsoft|uber|apple|nutanix|rubrik
+393,UTF-8 Validation    ,0.355,Medium,10,Bit Manipulation,google|facebook|apple|nvidia|palantir-technologies
+41,First Missing Positive    ,0.284,Hard,10,Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|alibaba|airbnb|baidu|vmware|expedia|pocket-gems|databricks
+13,Roman to Integer    ,0.518,Easy,10,Math|String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|goldman-sachs|oracle|tencent|yelp|expedia|zenefits|paypal|zillow|pocket-gems|intuit|mathworks|works-applications|aetion|coursera|qualtrics|pure storage|riot-games|cloudera
+151,Reverse Words in a String    ,0.161,Medium,10,String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|alibaba|baidu|snapchat|goldman-sachs|yelp|walmart-labs|salesforce|cisco|paypal|zillow|pocket-gems|nvidia|yandex|huawei|servicenow|qualcomm
+127,Word Ladder    ,0.233,Medium,9,breadth-first-search,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|airbnb|snapchat|twitter|oracle|ebay|yelp|salesforce|lyft|expedia|zillow|two-sigma|hulu|square|affirm
+380,Insert Delete GetRandom O(1)    ,0.422,Medium,9,HashTable|Array|Design,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|twitter|yelp|walmart-labs|pocket-gems|two-sigma|indeed|quora|databricks
+843,Guess the Word    ,0.426,Hard,9,Minimax,google|amazon|facebook|airbnb
+103,Binary Tree Zigzag Level Order Traversal    ,0.408,Medium,9,breadth-first-search|Tree|Stack,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|goldman-sachs|oracle|ebay|tencent|pinterest|nutanix|nvidia|qualtrics|servicenow|tableau
+344,Reverse String    ,0.629,Easy,9,Two Pointers|String,google|amazon|facebook|microsoft|bloomberg|adobe|apple|linkedin|alibaba|airbnb|baidu|goldman-sachs|ebay|tencent|vmware|walmart-labs|cisco|godaddy|huawei
+528,Random Pick with Weight    ,0.428,Medium,9,Binary Search|Random,google|amazon|facebook|uber|linkedin|yelp|two-sigma|rubrik|doordash
+98,Validate Binary Search Tree    ,0.254,Medium,9,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|snapchat|goldman-sachs|vmware|walmart-labs|zillow|mathworks|nutanix|nvidia|visa|sap|square|qualtrics|capital-one|tripadvisor
+394,Decode String    ,0.441,Medium,9,Depth First|Stack,google|amazon|facebook|microsoft|bloomberg|apple|yahoo|snapchat|oracle|yelp|works-applications|coupang|appdynamics
+923,3Sum With Multiplicity    ,0.328,Medium,9,Two Pointers,quora
+67,Add Binary    ,0.383,Easy,9,Math|String,google|amazon|facebook|microsoft|adobe|uber|alibaba|intuit
+124,Binary Tree Maximum Path Sum    ,0.295,Hard,9,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|alibaba|baidu|snapchat|twitter|tencent|vmware|walmart-labs|pocket-gems|intuit
+283,Move Zeroes    ,0.538,Easy,9,Two Pointers|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|baidu|oracle|ebay|walmart-labs|lyft|paypal|sap
+193,Valid Phone Numbers    ,0.25,Easy,9,,google|amazon|adobe|airbnb
+609,Find Duplicate File in System    ,0.544,Medium,9,HashTable|String,google|twitter|dropbox
+336,Palindrome Pairs    ,0.304,Hard,9,HashTable|String|Trie,google|amazon|facebook|bloomberg|uber|apple|airbnb
+192,Word Frequency    ,0.267,Medium,9,,amazon|facebook|bloomberg|adobe|baidu
+72,Edit Distance    ,0.368,Hard,9,Dynamic Programming|String,google|amazon|facebook|microsoft|bloomberg|adobe|apple|linkedin|yahoo|alibaba|baidu|cisco|netease|square|huawei|TripleByte
+25,Reverse Nodes in k-Group    ,0.357,Hard,9,Linked List,google|amazon|facebook|microsoft|bloomberg|apple|ebay|tencent|vmware|paypal|mathworks|Goo
+91,Decode Ways    ,0.22,Medium,9,Dynamic Programming|String,google|amazon|facebook|microsoft|bloomberg|uber|apple|yahoo|twitter|goldman-sachs|salesforce|expedia|pinterest|square|databricks|liveramp
+173,Binary Search Tree Iterator    ,0.476,Medium,9,Tree|Stack|Design,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|oracle|cisco|qualtrics|appdynamics|cloudera
+236,Lowest Common Ancestor of a Binary Tree    ,0.36,Medium,9,Tree,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|yahoo|alibaba|airbnb|snapchat|goldman-sachs|oracle|ebay|tencent|walmart-labs|salesforce|lyft|paypal|pinterest|zillow|intuit|visa|tableau
+50,"Pow(x, n)    ",0.277,Medium,9,Binary Search|Math,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|snapchat|goldman-sachs|oracle|ebay|tencent|yelp|vmware|walmart-labs|two-sigma
+158,Read N Characters Given Read4 II - Call multiple times    ,0.254,Hard,9,String,google|facebook|microsoft|bloomberg|uber|lyft|pinterest|rubrik
+844,Backspace String Compare    ,0.455,Easy,9,Two Pointers|Stack,google|facebook|uber
+332,Reconstruct Itinerary    ,0.308,Medium,9,Depth First|Graph,google|amazon|facebook|microsoft|bloomberg|uber|snapchat|yelp|expedia|intuit|tripadvisor
+755,Pour Water    ,0.394,Medium,9,Array,airbnb
+772,Basic Calculator III    ,0.438,Hard,9,String|Stack,google|amazon|facebook|microsoft|uber|salesforce|pinterest|pocket-gems|intuit|hulu|houzz|doordash|Jingchi
+716,Max Stack    ,0.394,Easy,9,Design,google|amazon|facebook|microsoft|bloomberg|linkedin|lyft
+68,Text Justification    ,0.227,Hard,9,String,google|amazon|facebook|microsoft|uber|apple|linkedin|airbnb|snapchat|twitter|lyft|square|coursera|box
+195,Tenth Line    ,0.34,Easy,9,,google|facebook|adobe|apple|aetion
+239,Sliding Window Maximum    ,0.374,Hard,9,Heap|Sliding Window,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|alibaba|snapchat|ebay|yelp|lyft|zenefits|pinterest|indeed|nutanix|hulu|coursera|rubrik|servicenow|citadel
+347,Top K Frequent Elements    ,0.538,Medium,9,HashTable|Heap,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|twitter|yelp|pocket-gems|nutanix|dropbox|twilio
+176,Second Highest Salary    ,0.265,Easy,9,,google|amazon|facebook|microsoft|adobe|uber|apple|yahoo|alibaba|airbnb|baidu|walmart-labs|visa
+695,Max Area of Island    ,0.563,Medium,9,Depth First|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|linkedin|alibaba|intuit|qualtrics|affirm|doordash|sumologic
+155,Min Stack    ,0.361,Easy,9,Stack|Design,google|amazon|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|snapchat|goldman-sachs|ebay|walmart-labs|lyft|zenefits|godaddy|rubrik
+312,Burst Balloons    ,0.465,Hard,9,Dynamic Programming|Divide and Conquer,google|amazon|adobe|alibaba|snapchat|tencent|samsung
+212,Word Search II    ,0.278,Hard,9,Backtracking|Trie,google|amazon|facebook|microsoft|uber|apple|yahoo|airbnb|snapchat|oracle|lyft|pocket-gems|houzz
+159,Longest Substring with At Most Two Distinct Characters    ,0.464,Hard,9,HashTable|Two Pointers|String|Sliding Window,google|amazon|facebook|microsoft
+947,Most Stones Removed with Same Row or Column    ,0.54,Medium,9,Depth First|Union Find,google
+489,Robot Room Cleaner    ,0.63,Hard,9,Depth First,google|amazon|facebook
+692,Top K Frequent Words    ,0.45,Medium,9,HashTable|Heap|Trie,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|yahoo|twitter|goldman-sachs|yelp|vmware|salesforce|pocket-gems|tripadvisor
+32,Longest Valid Parentheses    ,0.251,Hard,9,Dynamic Programming|String,google|amazon|facebook|microsoft|adobe|uber|alibaba|salesforce|expedia|samsung|coupang
+341,Flatten Nested List Iterator    ,0.471,Medium,9,Stack|Design,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|airbnb|snapchat|twitter|yelp|hulu|appdynamics
+857,Minimum Cost to Hire K Workers    ,0.468,Hard,9,Heap,google
+39,Combination Sum    ,0.472,Medium,9,Array|Backtracking,google|amazon|facebook|microsoft|uber|apple|linkedin|yahoo|airbnb|baidu|snapchat|tencent|yelp|vmware|quora|ixl
+143,Reorder List    ,0.301,Medium,9,Linked List,google|amazon|facebook|microsoft|bloomberg|cisco|hulu
+43,Multiply Strings    ,0.301,Medium,9,Math|String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|airbnb|twitter|oracle|tencent|walmart-labs|expedia|zillow|mathworks|huawei|houzz|redfin
+6,ZigZag Conversion    ,0.31,Medium,9,String,google|amazon|facebook|adobe|uber|apple|airbnb|twitter|tencent|zenefits|paypal|works-applications
+636,Exclusive Time of Functions    ,0.482,Medium,9,Stack,google|amazon|facebook|microsoft|uber|apple|linkedin
+48,Rotate Image    ,0.473,Medium,9,Array,google|amazon|facebook|microsoft|bloomberg|adobe|apple|baidu|salesforce|nvidia|akuna capital|houzz|servicenow|epic-systems|wish
+362,Design Hit Counter    ,0.584,Medium,9,Design,google|amazon|microsoft|bloomberg|uber|apple|yahoo|oracle|yelp|pinterest|zillow|dropbox|quip
+177,Nth Highest Salary    ,0.253,Medium,9,,amazon|facebook|adobe
+149,Max Points on a Line    ,0.156,Hard,9,HashTable|Math,google|amazon|microsoft|adobe|uber|apple|linkedin|alibaba|twitter|yandex|tripadvisor
+12,Integer to Roman    ,0.501,Medium,9,Math|String,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|twitter|salesforce|expedia|intuit|sap|godaddy|HTC
+277,Find the Celebrity    ,0.359,Medium,9,Array,google|amazon|facebook|microsoft|apple|linkedin|yahoo|airbnb|pinterest
+706,Design HashMap    ,0.55,Easy,9,HashTable|Design,amazon|microsoft|adobe|apple|linkedin|twitter|goldman-sachs|salesforce
+300,Longest Increasing Subsequence    ,0.404,Medium,9,Binary Search|Dynamic Programming,google|amazon|facebook|microsoft|adobe|uber|apple|linkedin|yahoo|airbnb|twitter|yelp|vmware|salesforce|pocket-gems|wish
+16,3Sum Closest    ,0.418,Medium,9,Two Pointers|Array,google|amazon|microsoft|bloomberg|adobe|uber|apple|alibaba|airbnb|goldman-sachs
+681,Next Closest Time    ,0.424,Medium,9,String,google|facebook
+37,Sudoku Solver    ,0.36,Hard,9,HashTable|Backtracking,google|amazon|facebook|microsoft|adobe|uber|yahoo|airbnb|snapchat|vmware|expedia|riot-games|Arista Networks
+126,Word Ladder II    ,0.172,Hard,9,breadth-first-search|Array|String|Backtracking,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|oracle|yelp|lyft|pinterest|box
+207,Course Schedule    ,0.37,Medium,9,Depth First|breadth-first-search|Graph|Topological Sort,google|amazon|facebook|microsoft|uber|apple|linkedin|goldman-sachs|ebay|yelp|salesforce|zenefits|paypal|intuit|nutanix
+443,String Compression    ,0.371,Easy,9,String,amazon|facebook|microsoft|bloomberg|snapchat|goldman-sachs|yelp|lyft|expedia|nutanix|godaddy|citrix
+128,Longest Consecutive Sequence    ,0.411,Hard,9,Array|Union Find,google|amazon|facebook|microsoft|bloomberg|uber|linkedin|baidu|oracle|pocket-gems
+735,Asteroid Collision    ,0.38,Medium,9,Stack,microsoft|uber|ebay|lyft
+939,Minimum Area Rectangle    ,0.5,Medium,9,HashTable,google
+547,Friend Circles    ,0.529,Medium,9,Depth First|Union Find,amazon|facebook|microsoft|bloomberg|linkedin|alibaba|twitter|vmware|pocket-gems|two-sigma
+364,Nested List Weight Sum II    ,0.57,Medium,9,Depth First,linkedin
+387,First Unique Character in a String    ,0.494,Easy,9,HashTable|String,google|amazon|facebook|microsoft|bloomberg|apple|yahoo|alibaba|airbnb|goldman-sachs|oracle|zillow|sap|Flipkart
+282,Expression Add Operators    ,0.324,Hard,9,Divide and Conquer,google|facebook|apple|linkedin
+432,All O`one Data Structure    ,0.29,Hard,9,Design,facebook|microsoft|uber|linkedin
+222,Count Complete Tree Nodes    ,0.32,Medium,9,Binary Search|Tree,google|amazon|facebook|yahoo|alibaba
+14,Longest Common Prefix    ,0.331,Easy,9,String,google|amazon|facebook|microsoft|adobe|apple|yahoo|alibaba|airbnb|baidu|oracle|tencent|yelp|vmware|expedia|pinterest|visa|samsung|aetion|quora|huawei|ixl|citrix|Deutsche Bank
+218,The Skyline Problem    ,0.312,Hard,9,Heap|Divide and Conquer|Segment Tree|Binary Indexed Tree,google|amazon|facebook|microsoft|uber|apple|twitter|goldman-sachs|yelp|palantir-technologies|pure storage|databricks
+679,24 Game    ,0.42,Hard,9,Depth First,google|microsoft|uber|twitter
+92,Reverse Linked List II    ,0.343,Medium,9,Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|apple|yahoo|alibaba|tencent|vmware|cisco
+349,Intersection of Two Arrays    ,0.534,Easy,9,HashTable|Binary Search|Two Pointers|Sort,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|oracle|tencent|yelp|lyft|two-sigma|indeed
+227,Basic Calculator II    ,0.328,Medium,9,String,google|amazon|facebook|microsoft|bloomberg|uber|apple|airbnb|baidu|snapchat|twitter|oracle|yelp|salesforce|pocket-gems|intuit|ixl|houzz|doordash
+133,Clone Graph    ,0.256,Medium,9,Depth First|breadth-first-search|Graph,google|amazon|facebook|microsoft|bloomberg|adobe|uber|linkedin|alibaba|snapchat|twitter|pocket-gems|mathworks
+460,LFU Cache    ,0.283,Hard,9,Design,google|amazon|microsoft|bloomberg|adobe|uber|apple|linkedin|airbnb|snapchat|pinterest
+38,Count and Say    ,0.398,Easy,9,String,google|amazon|facebook|microsoft|bloomberg|adobe|apple|airbnb|ebay|vmware|salesforce|intuit|epic-systems
+770,Basic Calculator IV    ,0.449,Hard,9,HashTable|String|Stack,google|pinterest|intuit|Roblox
+348,Design Tic-Tac-Toe    ,0.489,Medium,9,Design,google|amazon|facebook|microsoft|apple|twitter|TripleByte
+55,Jump Game    ,0.315,Medium,9,Greedy |Array,google|amazon|facebook|microsoft|bloomberg|uber|apple|baidu|snapchat|visa|bookingcom
+647,Palindromic Substrings    ,0.562,Medium,9,Dynamic Programming|String,google|amazon|facebook|microsoft|adobe|uber|apple|linkedin|twitter|expedia|sap|coursera|pure storage
+242,Valid Anagram    ,0.513,Easy,9,HashTable|Sort,google|amazon|facebook|microsoft|bloomberg|uber|apple|yahoo|snapchat|goldman-sachs|oracle|yelp|vmware|expedia|cisco|paypal|samsung
+78,Subsets    ,0.515,Medium,9,Array|Backtracking|Bit Manipulation,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|goldman-sachs|oracle|tencent|walmart-labs|lyft|samsung|godaddy|coupang
+105,Construct Binary Tree from Preorder and Inorder Traversal    ,0.399,Medium,9,Depth First|Array|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|apple|yahoo|alibaba|walmart-labs|citadel|cloudera
+329,Longest Increasing Path in a Matrix    ,0.394,Hard,9,Depth First|Topological Sort|Memoization,google|amazon|facebook|microsoft|bloomberg|uber|apple|yahoo|alibaba|pinterest
+140,Word Break II    ,0.268,Hard,9,Dynamic Programming|Backtracking,google|amazon|facebook|microsoft|bloomberg|uber|apple|alibaba|snapchat|twitter|ebay|zenefits|pinterest|dropbox
+564,Find the Closest Palindrome    ,0.184,Hard,9,String,google|amazon|facebook|microsoft|yelp|pinterest|two-sigma
+449,Serialize and Deserialize BST    ,0.461,Medium,9,Tree,google|amazon|facebook|microsoft|uber|linkedin|yahoo|ebay|zenefits|zillow|qualtrics
+535,Encode and Decode TinyURL    ,0.761,Medium,9,HashTable|Math,google|amazon|facebook|microsoft|adobe|uber|linkedin|alibaba|baidu|palantir-technologies
+445,Add Two Numbers II    ,0.495,Medium,9,Linked List,google|amazon|facebook|microsoft|bloomberg|works-applications
+162,Find Peak Element    ,0.409,Medium,9,Binary Search|Array,google|amazon|facebook|microsoft|bloomberg|adobe|yahoo|lyft|palantir-technologies|quora|ixl|rubrik|houzz
+258,Add Digits    ,0.537,Easy,9,Math,amazon|microsoft|adobe|apple|bookingcom
+57,Insert Interval    ,0.309,Hard,9,Array|Sort,google|amazon|facebook|microsoft|uber|apple|linkedin|twitter|lyft|tableau
+51,N-Queens    ,0.381,Hard,8,Backtracking,amazon|facebook|microsoft|apple|alibaba|ebay|two-sigma|rubrik|tableau
+203,Remove Linked List Elements    ,0.354,Easy,8,Linked List,google|amazon|microsoft|bloomberg|adobe|yahoo|paypal|pure storage
+19,Remove Nth Node From End of List    ,0.341,Medium,8,Two Pointers|Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|alibaba|baidu|ebay|expedia|cisco|zenefits|visa|aetion|servicenow
+199,Binary Tree Right Side View    ,0.47,Medium,8,Depth First|breadth-first-search|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|ebay|tencent|zenefits|paypal|mathworks
+974,Subarray Sums Divisible by K    ,0.427,Medium,8,HashTable|Array,expedia|twilio
+339,Nested List Weight Sum    ,0.674,Easy,8,Depth First,amazon|facebook|linkedin|snapchat
+45,Jump Game II    ,0.277,Hard,8,Greedy |Array,google|amazon|facebook|microsoft|adobe|apple|alibaba|snapchat|goldman-sachs|expedia|huawei
+324,Wiggle Sort II    ,0.276,Medium,8,Sort,google|facebook|airbnb|akuna capital
+543,Diameter of Binary Tree    ,0.463,Easy,8,Tree,google|amazon|facebook|microsoft|bloomberg|adobe|apple|alibaba|snapchat|tencent|samsung|intel
+125,Valid Palindrome    ,0.305,Easy,8,Two Pointers|String,google|amazon|facebook|microsoft|adobe|uber|apple|airbnb|snapchat|zenefits|yandex|tripadvisor
+935,Knight Dialer    ,0.389,Medium,8,Dynamic Programming,google|facebook|box
+426,Convert Binary Search Tree to Sorted Doubly Linked List    ,0.505,Medium,8,Tree|Linked List|Divide and Conquer,google|facebook|microsoft|bloomberg|oracle
+221,Maximal Square    ,0.324,Medium,8,Dynamic Programming,google|amazon|facebook|microsoft|apple|alibaba|airbnb|ebay|yelp|zillow
+34,Find First and Last Position of Element in Sorted Array    ,0.331,Medium,8,Binary Search|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|ebay|qualtrics
+167,Two Sum II - Input array is sorted    ,0.497,Easy,8,Binary Search|Two Pointers|Array,google|amazon|facebook|microsoft|bloomberg|adobe|apple|alibaba|baidu|goldman-sachs|expedia
+410,Split Array Largest Sum    ,0.419,Hard,8,Binary Search|Dynamic Programming,google|facebook|airbnb|baidu
+44,Wildcard Matching    ,0.225,Hard,8,Greedy |Dynamic Programming|String|Backtracking,google|amazon|facebook|microsoft|bloomberg|adobe|uber|alibaba|snapchat|twitter|two-sigma|coursera|citadel
+135,Candy    ,0.279,Hard,8,Greedy ,google|microsoft|uber|snapchat
+97,Interleaving String    ,0.275,Hard,8,Dynamic Programming|String,google|amazon|microsoft|bloomberg|uber|apple|nvidia|aetion
+211,Add and Search Word - Data structure design    ,0.295,Medium,8,Backtracking|Design|Trie,google|amazon|facebook|yahoo|square
+204,Count Primes    ,0.285,Easy,8,HashTable|Math,amazon|microsoft|bloomberg|adobe|apple|yahoo|goldman-sachs|tencent|nvidia
+773,Sliding Puzzle    ,0.51,Hard,8,breadth-first-search,google|amazon|airbnb
+415,Add Strings    ,0.433,Easy,8,String,google|facebook|microsoft|adobe|apple|alibaba|airbnb|snapchat|zillow|nvidia|square
+228,Summary Ranges    ,0.354,Medium,8,Array,google|amazon|microsoft|bloomberg|indeed|capital-one
+314,Binary Tree Vertical Order Traversal    ,0.404,Medium,8,HashTable,google|amazon|facebook|microsoft|bloomberg|snapchat|oracle
+84,Largest Rectangle in Histogram    ,0.305,Hard,8,Array|Stack,google|amazon|facebook|microsoft|bloomberg|adobe|twitter|oracle|walmart-labs|netease
+905,Sort Array By Parity    ,0.722,Easy,8,Array,google|amazon|microsoft|adobe|yahoo
+457,Circular Array Loop    ,0.274,Medium,8,Two Pointers|Array,google|microsoft|nutanix
+102,Binary Tree Level Order Traversal    ,0.475,Medium,8,breadth-first-search|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|oracle|ebay|walmart-labs|salesforce|paypal|tripadvisor
+234,Palindrome Linked List    ,0.355,Easy,8,Two Pointers|Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|apple|alibaba|twitter|vmware|netease|ixl|intel
+202,Happy Number    ,0.445,Easy,8,HashTable|Math,google|amazon|bloomberg|uber|apple|airbnb|twitter|vmware|pinterest|nutanix|jpmorgan|pure storage
+403,Frog Jump    ,0.356,Hard,8,Dynamic Programming,google|amazon|facebook|microsoft|apple|snapchat|oracle
+458,Poor Pigs    ,0.45,Hard,8,Math,baidu
+18,4Sum    ,0.3,Medium,8,HashTable|Two Pointers|Array,google|amazon|facebook|microsoft|adobe|apple|alibaba|airbnb
+785,Is Graph Bipartite?    ,0.426,Medium,8,Depth First|breadth-first-search|Graph,google|amazon|facebook|microsoft|apple|houzz|liveramp
+210,Course Schedule II    ,0.34,Medium,8,Depth First|breadth-first-search|Graph|Topological Sort,google|amazon|facebook|microsoft|bloomberg|uber|apple|salesforce|zenefits|pinterest|intuit|nutanix|square|doordash|redfin
+93,Restore IP Addresses    ,0.309,Medium,8,String|Backtracking,amazon|facebook|microsoft|bloomberg|adobe|baidu|snapchat|wish
+94,Binary Tree Inorder Traversal    ,0.555,Medium,8,HashTable|Tree|Stack,google|amazon|facebook|microsoft|bloomberg|adobe|uber|yahoo|alibaba|oracle|ebay|vmware|palantir-technologies
+65,Valid Number    ,0.139,Hard,8,Math|String,google|facebook|adobe|uber|apple|linkedin|zillow
+316,Remove Duplicate Letters    ,0.321,Hard,8,Greedy |Stack,google|microsoft|bloomberg
+909,Snakes and Ladders    ,0.313,Medium,8,breadth-first-search,google|amazon|hulu
+248,Strobogrammatic Number III    ,0.36,Hard,8,Math|Recursion,google|facebook
+70,Climbing Stairs    ,0.437,Easy,8,Dynamic Programming,google|amazon|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|goldman-sachs|ebay|tencent|walmart-labs|zenefits|nvidia|netease|sap|aetion
+438,Find All Anagrams in a String    ,0.367,Easy,8,HashTable,google|amazon|facebook|microsoft|uber|oracle|zenefits|paypal|works-applications
+713,Subarray Product Less Than K    ,0.363,Medium,8,Two Pointers|Array,facebook|bloomberg|expedia|coursera|affirm|akuna capital|Yatra
+751,IP to CIDR    ,0.585,Easy,8,Bit Manipulation,google|airbnb
+529,Minesweeper    ,0.521,Medium,8,Depth First|breadth-first-search,google|amazon|facebook|microsoft|bloomberg|uber
+279,Perfect Squares    ,0.412,Medium,8,breadth-first-search|Math|Dynamic Programming,google|amazon|facebook|microsoft|adobe|uber|apple|ebay|lyft|godaddy
+819,Most Common Word    ,0.419,Easy,8,String,google|amazon|microsoft
+697,Degree of an Array    ,0.496,Easy,8,Array,amazon|bloomberg|adobe|vmware|walmart-labs|pocket-gems|mathworks|visa|ixl|Drawbridge|GE Digital
+287,Find the Duplicate Number    ,0.487,Medium,8,Binary Search|Two Pointers|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|yahoo|twitter|oracle|cisco|morgan-stanley
+198,House Robber    ,0.408,Easy,8,Dynamic Programming,google|amazon|facebook|microsoft|adobe|apple|linkedin|alibaba|airbnb|baidu|walmart-labs|pocket-gems|mathworks|samsung|quora
+244,Shortest Word Distance II    ,0.464,Medium,8,HashTable|Design,bloomberg|uber|linkedin|indeed
+205,Isomorphic Strings    ,0.369,Easy,8,HashTable,google|amazon|microsoft|bloomberg|linkedin|yahoo|yelp|salesforce|servicenow|wish
+920,Number of Music Playlists    ,0.43,Hard,8,Dynamic Programming,google|coursera
+29,Divide Two Integers    ,0.161,Medium,8,Binary Search|Math,google|amazon|facebook|microsoft|oracle|riot-games
+165,Compare Version Numbers    ,0.229,Medium,8,String,google|amazon|microsoft|apple|intuit|nutanix|Arista Networks
+208,Implement Trie (Prefix Tree)    ,0.372,Medium,8,Design|Trie,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|baidu|snapchat|twitter|yelp|walmart-labs|lyft|zenefits|paypal
+251,Flatten 2D Vector    ,0.435,Medium,8,Design,google|amazon|facebook|uber|apple|linkedin|airbnb|twitter|yelp|salesforce|lyft|zenefits
+918,Maximum Sum Circular Subarray    ,0.306,Medium,8,Array,facebook|two-sigma
+280,Wiggle Sort    ,0.607,Medium,8,Array|Sort,google|amazon|facebook|microsoft|baidu|akuna capital
+315,Count of Smaller Numbers After Self    ,0.375,Hard,8,Divide and Conquer|Binary Search Tree|Segment Tree|Binary Indexed Tree,google|amazon|facebook|adobe|apple|dropbox
+268,Missing Number    ,0.478,Easy,8,Array|Math|Bit Manipulation,google|amazon|facebook|microsoft|bloomberg|adobe|apple|yahoo|oracle|cisco|zillow|ibm|morgan-stanley|qualcomm|Arista Networks
+402,Remove K Digits    ,0.263,Medium,8,Greedy |Stack,google|facebook|microsoft|bloomberg|adobe|snapchat|nutanix|Drawbridge
+233,Number of Digit One    ,0.3,Hard,8,Math,amazon|apple
+250,Count Univalue Subtrees    ,0.48,Medium,8,Tree,google|bloomberg|box
+240,Search a 2D Matrix II    ,0.404,Medium,8,Binary Search|Divide and Conquer,google|amazon|facebook|microsoft|bloomberg|apple|yahoo|alibaba|baidu|goldman-sachs|ebay|tencent|walmart-labs|citadel
+304,Range Sum Query 2D - Immutable    ,0.315,Medium,8,Dynamic Programming,google|facebook|microsoft|baidu|houzz
+523,Continuous Subarray Sum    ,0.242,Medium,8,Math|Dynamic Programming,google|facebook|microsoft|samsung
+278,First Bad Version    ,0.293,Easy,8,Binary Search,google|facebook|bloomberg
+64,Minimum Path Sum    ,0.459,Medium,8,Array|Dynamic Programming,google|amazon|microsoft|bloomberg|adobe|alibaba|goldman-sachs|yelp
+24,Swap Nodes in Pairs    ,0.436,Medium,8,Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|uber|yahoo|alibaba|walmart-labs|lyft
+759,Employee Free Time    ,0.609,Hard,8,Greedy |Heap,google|amazon|microsoft|uber|airbnb|pinterest|intuit
+152,Maximum Product Subarray    ,0.287,Medium,8,Array|Dynamic Programming,google|amazon|facebook|microsoft|adobe|apple|linkedin|alibaba|yelp|vmware|expedia|pocket-gems
+340,Longest Substring with At Most K Distinct Characters    ,0.393,Hard,8,HashTable|String|Sliding Window,google|amazon|facebook|quora|coupang|appdynamics
+120,Triangle    ,0.386,Medium,8,Array|Dynamic Programming,google|amazon|bloomberg|adobe|apple|yahoo
+722,Remove Comments    ,0.306,Medium,8,String,google|facebook|microsoft|uber|goldman-sachs|nutanix|qualtrics
+71,Simplify Path    ,0.283,Medium,8,String|Stack,google|amazon|facebook|microsoft|bloomberg|adobe
+739,Daily Temperatures    ,0.594,Medium,8,HashTable|Stack,google|amazon|microsoft|bloomberg|yahoo
+419,Battleships in a Board    ,0.653,Medium,8,,google|amazon|facebook|microsoft|apple
+166,Fraction to Recurring Decimal    ,0.193,Medium,8,HashTable|Math,google|amazon|facebook|microsoft|adobe|uber|yahoo|goldman-sachs|ixl|rubrik
+465,Optimal Account Balancing    ,0.421,Hard,8,,google|uber
+116,Populating Next Right Pointers in Each Node    ,0.371,Medium,8,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg|uber|apple|vmware|nutanix
+468,Validate IP Address    ,0.211,Medium,8,String,google|facebook|microsoft|uber|linkedin|twitter|vmware|cisco|visa
+427,Construct Quad Tree    ,0.552,Easy,8,,uber|apple
+28,Implement strStr()    ,0.315,Easy,8,Two Pointers|String,google|amazon|facebook|microsoft|bloomberg|adobe|apple|yahoo|alibaba|baidu|tencent|salesforce|zillow|pocket-gems
+150,Evaluate Reverse Polish Notation    ,0.316,Medium,8,Stack,google|amazon|microsoft|adobe|uber|linkedin|yelp|two-sigma|pure storage
+753,Cracking the Safe    ,0.451,Hard,8,Depth First|Math,google|amazon
+308,Range Sum Query 2D - Mutable    ,0.312,Hard,8,Segment Tree|Binary Indexed Tree,google|facebook
+122,Best Time to Buy and Sell Stock II    ,0.512,Easy,8,Greedy |Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|goldman-sachs|oracle|tencent|vmware|zenefits|intuit|palantir-technologies|citadel|grab|morgan-stanley|zappos
+741,Cherry Pickup    ,0.283,Hard,8,Dynamic Programming,uber|akuna capital
+862,Shortest Subarray with Sum at Least K    ,0.218,Hard,8,Binary Search|Queue,facebook|goldman-sachs
+539,Minimum Time Difference    ,0.474,Medium,8,String,google|palantir-technologies
+986,Interval List Intersections    ,0.624,Medium,8,Two Pointers,google|facebook|uber|doordash
+928,Minimize Malware Spread II    ,0.383,Hard,8,Depth First|Graph|Union Find,dropbox
+658,Find K Closest Elements    ,0.375,Medium,8,Binary Search,google|amazon|facebook|microsoft|bloomberg|adobe|uber|linkedin
+114,Flatten Binary Tree to Linked List    ,0.414,Medium,8,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|alibaba|ebay|nutanix
+26,Remove Duplicates from Sorted Array    ,0.4,Easy,8,Two Pointers|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|baidu|tencent|vmware|walmart-labs|cisco|netease|yandex
+148,Sort List    ,0.343,Medium,8,Linked List|Sort,google|amazon|facebook|microsoft|adobe|yahoo|alibaba|baidu|tencent|vmware|pocket-gems|hulu
+187,Repeated DNA Sequences    ,0.355,Medium,8,HashTable|Bit Manipulation,google|amazon|linkedin
+723,Candy Crush    ,0.624,Medium,7,Two Pointers|Array,google|bloomberg|rubrik
+160,Intersection of Two Linked Lists    ,0.328,Easy,7,Linked List,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|yahoo|alibaba|airbnb|baidu|oracle|tencent|salesforce|expedia|sap|intel|qualcomm
+736,Parse Lisp Expression    ,0.437,Hard,7,String,google|apple|affirm
+479,Largest Palindrome Product    ,0.272,Hard,7,,apple|yahoo
+285,Inorder Successor in BST    ,0.338,Medium,7,Tree,google|amazon|facebook|microsoft|pocket-gems|palantir-technologies|Arista Networks
+451,Sort Characters By Frequency    ,0.553,Medium,7,HashTable|Heap,google|amazon|microsoft|bloomberg|uber|linkedin|yahoo|expedia|nvidia
+350,Intersection of Two Arrays II    ,0.47,Easy,7,HashTable|Binary Search|Two Pointers|Sort,google|amazon|facebook|bloomberg|uber|apple|alibaba|oracle|yelp
+780,Reaching Points    ,0.273,Hard,7,Math,google|amazon|uber|salesforce|visa|coursera
+75,Sort Colors    ,0.415,Medium,7,Two Pointers|Array|Sort,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|alibaba|airbnb|oracle|tencent|vmware|walmart-labs|pocket-gems|Flipkart
+346,Moving Average from Data Stream    ,0.654,Easy,7,Design|Queue,google|amazon|facebook|microsoft|bloomberg|uber|twitter|indeed
+170,Two Sum III - Data structure design    ,0.298,Easy,7,HashTable|Design,facebook|linkedin
+63,Unique Paths II    ,0.333,Medium,7,Array|Dynamic Programming,google|amazon|facebook|microsoft|bloomberg|goldman-sachs|lyft|mathworks|godaddy
+104,Maximum Depth of Binary Tree    ,0.596,Easy,7,Depth First|Tree,google|amazon|facebook|bloomberg|adobe|uber|apple|linkedin|yahoo|alibaba|baidu|tencent|lyft
+694,Number of Distinct Islands    ,0.505,Medium,7,HashTable|Depth First,google|amazon|facebook|microsoft|bloomberg|linkedin|lyft
+787,Cheapest Flights Within K Stops    ,0.341,Medium,7,breadth-first-search|Dynamic Programming|Heap,google|amazon|microsoft|airbnb
+480,Sliding Window Median    ,0.318,Hard,7,Sliding Window,google|amazon|facebook|oracle
+593,Valid Square    ,0.402,Medium,7,Math,google|yelp|pure storage
+448,Find All Numbers Disappeared in an Array    ,0.529,Easy,7,Array,google|amazon|facebook|microsoft|adobe|apple
+981,Time Based Key-Value Store    ,0.496,Medium,7,HashTable|Binary Search,google|lyft|zillow|databricks|sumologic|Flexport
+767,Reorganize String    ,0.414,Medium,7,Greedy |String|Heap|Sort,google|amazon|facebook|uber|twitter
+35,Search Insert Position    ,0.406,Easy,7,Binary Search|Array,google|amazon|bloomberg|adobe|apple|yahoo|sap|capital-one|tableau
+62,Unique Paths    ,0.468,Medium,7,Array|Dynamic Programming,google|amazon|facebook|microsoft|bloomberg|adobe|apple|yahoo|alibaba|twitter|goldman-sachs|tencent|vmware|walmart-labs|netease
+911,Online Election    ,0.453,Medium,7,Binary Search,google|apple
+463,Island Perimeter    ,0.605,Easy,7,HashTable,google|amazon|facebook|microsoft|bloomberg|adobe|apple|yahoo|airbnb
+518,Coin Change 2    ,0.418,Medium,7,,google|amazon|facebook|microsoft|uber|yahoo|twitter|ixl
+136,Single Number    ,0.593,Easy,7,HashTable|Bit Manipulation,google|amazon|facebook|microsoft|adobe|alibaba|airbnb|baidu|oracle|vmware|expedia|palantir-technologies|sap|riot-games|zappos
+567,Permutation in String    ,0.379,Medium,7,Two Pointers,google|amazon|facebook|microsoft|bloomberg|yahoo|snapchat
+36,Valid Sudoku    ,0.422,Medium,7,HashTable,google|amazon|facebook|microsoft|bloomberg|uber|apple|snapchat|pinterest
+688,Knight Probability in Chessboard    ,0.432,Medium,7,Dynamic Programming,google|facebook|microsoft|goldman-sachs
+428,Serialize and Deserialize N-ary Tree    ,0.528,Hard,7,Tree,google|amazon|facebook|microsoft|uber|linkedin
+317,Shortest Distance from All Buildings    ,0.371,Hard,7,breadth-first-search,google|amazon|facebook|zenefits
+69,Sqrt(x)    ,0.309,Easy,7,Binary Search|Math,google|amazon|facebook|microsoft|bloomberg|uber|apple|linkedin|alibaba|salesforce|nvidia|hulu
+178,Rank Scores    ,0.353,Medium,7,,amazon|adobe|apple|tencent
+311,Sparse Matrix Multiplication    ,0.557,Medium,7,HashTable,google|facebook|bloomberg|apple|linkedin|goldman-sachs
+101,Symmetric Tree    ,0.429,Easy,7,Depth First|breadth-first-search|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|yahoo|oracle|tencent
+493,Reverse Pairs    ,0.227,Hard,7,Divide and Conquer|Binary Search Tree|Segment Tree|Binary Indexed Tree,google|amazon|facebook|uber|apple
+509,Fibonacci Number    ,0.668,Easy,7,Array,amazon|microsoft|adobe
+836,Rectangle Overlap    ,0.459,Easy,7,Math,google|amazon|microsoft|bloomberg|adobe|nvidia
+727,Minimum Window Subsequence    ,0.363,Hard,7,Dynamic Programming|Sliding Window,google|amazon|ebay
+366,Find Leaves of Binary Tree    ,0.645,Medium,7,Depth First|Tree,google|amazon|bloomberg|linkedin|pocket-gems
+232,Implement Queue using Stacks    ,0.424,Easy,7,Stack|Design,google|amazon|microsoft|bloomberg|uber|apple|ebay|vmware|salesforce|mathworks|yandex
+59,Spiral Matrix II    ,0.457,Medium,7,Array,google|amazon|microsoft|apple|snapchat
+442,Find All Duplicates in an Array    ,0.602,Medium,7,Array,amazon|facebook|microsoft|baidu|pocket-gems|akuna capital
+142,Linked List Cycle II    ,0.312,Medium,7,Two Pointers|Linked List,google|amazon|microsoft|bloomberg|adobe|apple|linkedin|goldman-sachs|tencent
+299,Bulls and Cows    ,0.388,Medium,7,HashTable,google|amazon|zillow
+286,Walls and Gates    ,0.488,Medium,7,breadth-first-search,google|amazon|facebook|microsoft|uber
+490,The Maze    ,0.467,Medium,7,Depth First|breadth-first-search,google|amazon|facebook|microsoft|uber
+450,Delete Node in a BST    ,0.394,Medium,7,Tree,google|amazon|facebook|microsoft|uber|apple|linkedin|yahoo|oracle
+284,Peeking Iterator    ,0.398,Medium,7,Design,google|amazon|microsoft|apple|yahoo|walmart-labs|paypal|square
+726,Number of Atoms    ,0.442,Hard,7,HashTable|Stack|Recursion,google|adobe|pinterest
+30,Substring with Concatenation of All Words    ,0.233,Hard,7,HashTable|Two Pointers|String,google|amazon|facebook|adobe|apple
+378,Kth Smallest Element in a Sorted Matrix    ,0.487,Medium,7,Binary Search|Heap,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|twitter
+117,Populating Next Right Pointers in Each Node II    ,0.337,Medium,7,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg|uber|servicenow
+743,Network Delay Time    ,0.407,Medium,7,Depth First|breadth-first-search|Heap|Graph,google|amazon|pocket-gems|akuna capital
+153,Find Minimum in Rotated Sorted Array    ,0.426,Medium,7,Binary Search|Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|linkedin|baidu|twitter|goldman-sachs|ebay|salesforce
+296,Best Meeting Point    ,0.543,Hard,7,Math|Sort,google|facebook|linkedin|yahoo|twitter
+545,Boundary of Binary Tree    ,0.345,Medium,7,Tree,google|amazon|facebook|microsoft|apple|yahoo|ebay
+247,Strobogrammatic Number II    ,0.438,Medium,7,Math|Recursion,google|facebook
+557,Reverse Words in a String III    ,0.633,Easy,7,String,google|microsoft|adobe|apple|alibaba|tencent|vmware|zappos
+359,Logger Rate Limiter    ,0.644,Easy,7,HashTable|Design,google|uber|yelp
+381,Insert Delete GetRandom O(1) - Duplicates allowed    ,0.316,Hard,7,HashTable|Array|Design,google|amazon|facebook|bloomberg|uber|linkedin|yelp|two-sigma|affirm
+532,K-diff Pairs in an Array    ,0.295,Easy,7,Two Pointers|Array,amazon|bloomberg|salesforce|paypal
+709,To Lower Case    ,0.764,Easy,7,String,adobe|apple
+271,Encode and Decode Strings    ,0.261,Medium,7,String,google|amazon|facebook|bloomberg|twitter|ebay|palantir-technologies|square
 907,Sum of Subarray Minimums    ,0.258,Medium,7,Array|Stack,
-272,Closest Binary Search Tree Value II    ,0.44,Hard,7,Tree|Stack,
-235,Lowest Common Ancestor of a Binary Search Tree    ,0.43799999999999994,Easy,7,Tree,
-353,Design Snake Game    ,0.3,Medium,7,Design|Queue,
-887,Super Egg Drop    ,0.248,Hard,7,Binary Search|Math|Dynamic Programming,
-635,Design Log Storage System    ,0.5329999999999999,Medium,7,String|Design,
-243,Shortest Word Distance    ,0.565,Easy,7,Array,
-209,Minimum Size Subarray Sum    ,0.344,Medium,7,Binary Search|Two Pointers|Array,
-703,Kth Largest Element in a Stream    ,0.457,Easy,7,Heap,
-628,Maximum Product of Three Numbers    ,0.457,Easy,7,Array|Math,
-83,Remove Duplicates from Sorted List    ,0.42100000000000004,Easy,7,Linked List,
-852,Peak Index in a Mountain Array    ,0.6920000000000001,Easy,7,Binary Search,
-417,Pacific Atlantic Water Flow    ,0.37,Medium,7,Depth First|breadth-first-search,
-226,Invert Binary Tree    ,0.574,Easy,7,Tree,
-73,Set Matrix Zeroes    ,0.392,Medium,7,Array,
-678,Valid Parenthesis String    ,0.32299999999999995,Medium,7,String,
-185,Department Top Three Salaries    ,0.243,Hard,7,,
-407,Trapping Rain Water II    ,0.389,Hard,7,breadth-first-search|Heap,
-110,Balanced Binary Tree    ,0.405,Easy,7,Depth First|Tree,
-834,Sum of Distances in Tree    ,0.387,Hard,7,Depth First|Tree,
-932,Beautiful Array    ,0.521,Medium,7,Divide and Conquer,
-524,Longest Word in Dictionary through Deleting    ,0.45299999999999996,Medium,7,Two Pointers|Sort,
-420,Strong Password Checker    ,0.17800000000000002,Hard,7,,
-406,Queue Reconstruction by Height    ,0.5920000000000001,Medium,7,Greedy ,
-731,My Calendar II    ,0.434,Medium,7,Array|Binary Search Tree,
-230,Kth Smallest Element in a BST    ,0.503,Medium,7,Binary Search|Tree,
-680,Valid Palindrome II    ,0.33899999999999997,Easy,7,String,
-157,Read N Characters Given Read4    ,0.287,Easy,7,String,
-246,Strobogrammatic Number    ,0.419,Easy,7,HashTable|Math,
-721,Accounts Merge    ,0.392,Medium,7,Depth First|Union Find,
-698,Partition to K Equal Sum Subsets    ,0.41600000000000004,Medium,7,Dynamic Programming|Recursion,
-66,Plus One    ,0.408,Easy,7,Array,
-379,Design Phone Directory    ,0.402,Medium,7,Design|Linked List,
-777,Swap Adjacent in LR String    ,0.32899999999999996,Medium,7,Brainteaser,
-471,Encode String with Shortest Length    ,0.446,Hard,7,Dynamic Programming,
-931,Minimum Falling Path Sum    ,0.579,Medium,7,Dynamic Programming,
-123,Best Time to Buy and Sell Stock III    ,0.331,Hard,6,Array|Dynamic Programming,
-371,Sum of Two Integers    ,0.511,Easy,6,Bit Manipulation,
-430,Flatten a Multilevel Doubly Linked List    ,0.41,Medium,6,Depth First|Linked List,
-655,Print Binary Tree    ,0.513,Medium,6,Tree,
-384,Shuffle an Array    ,0.4970000000000001,Medium,6,,
-889,Construct Binary Tree from Preorder and Postorder Traversal    ,0.5870000000000001,Medium,6,Tree,
-475,Heaters    ,0.313,Easy,6,Binary Search,
-683,K Empty Slots    ,0.34,Hard,6,Array|Binary Search Tree,
-632,Smallest Range    ,0.46399999999999997,Hard,6,HashTable|Two Pointers|String,
-118,Pascal's Triangle    ,0.45,Easy,6,Array,
-803,Bricks Falling When Hit    ,0.28,Hard,6,Union Find,
-953,Verifying an Alien Dictionary    ,0.5589999999999999,Easy,6,HashTable,
-556,Next Greater Element III    ,0.298,Medium,6,String,
-257,Binary Tree Paths    ,0.45299999999999996,Easy,6,Depth First|Tree,
-807,Max Increase to Keep City Skyline    ,0.8109999999999999,Medium,6,,
+272,Closest Binary Search Tree Value II    ,0.44,Hard,7,Tree|Stack,google|amazon|linkedin|ForUsAll
+235,Lowest Common Ancestor of a Binary Search Tree    ,0.438,Easy,7,Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|linkedin|twitter|tencent|expedia|cisco|blackrock
+353,Design Snake Game    ,0.3,Medium,7,Design|Queue,google|amazon|microsoft|uber|zillow
+887,Super Egg Drop    ,0.248,Hard,7,Binary Search|Math|Dynamic Programming,google
+635,Design Log Storage System    ,0.533,Medium,7,String|Design,google|amazon|snapchat|twitter|zenefits
+243,Shortest Word Distance    ,0.565,Easy,7,Array,amazon|uber|linkedin|indeed
+209,Minimum Size Subarray Sum    ,0.344,Medium,7,Binary Search|Two Pointers|Array,google|facebook|microsoft|bloomberg|adobe|goldman-sachs
+703,Kth Largest Element in a Stream    ,0.457,Easy,7,Heap,google|amazon|facebook|ebay
+628,Maximum Product of Three Numbers    ,0.457,Easy,7,Array|Math,google|amazon|facebook|microsoft|bloomberg|yahoo|goldman-sachs|cisco|intuit|redfin|Symantec
+83,Remove Duplicates from Sorted List    ,0.421,Easy,7,Linked List,google|amazon|microsoft|apple|salesforce|citrix
+852,Peak Index in a Mountain Array    ,0.692,Easy,7,Binary Search,google|amazon|facebook|microsoft|bloomberg|quora
+417,Pacific Atlantic Water Flow    ,0.37,Medium,7,Depth First|breadth-first-search,google|amazon|microsoft|uber|goldman-sachs|oracle|expedia
+226,Invert Binary Tree    ,0.574,Easy,7,Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|linkedin|baidu|ebay
+73,Set Matrix Zeroes    ,0.392,Medium,7,Array,google|amazon|facebook|microsoft|bloomberg|airbnb|snapchat|twitter|oracle|salesforce|expedia|nutanix|tripadvisor
+678,Valid Parenthesis String    ,0.323,Medium,7,String,amazon|facebook|bloomberg|yahoo|alibaba
+185,Department Top Three Salaries    ,0.243,Hard,7,,google|amazon|facebook|adobe|netflix
+407,Trapping Rain Water II    ,0.389,Hard,7,breadth-first-search|Heap,google|microsoft|twitter
+110,Balanced Binary Tree    ,0.405,Easy,7,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|yahoo|alibaba|airbnb|cisco|paypal
+834,Sum of Distances in Tree    ,0.387,Hard,7,Depth First|Tree,google
+932,Beautiful Array    ,0.521,Medium,7,Divide and Conquer,google
+524,Longest Word in Dictionary through Deleting    ,0.453,Medium,7,Two Pointers|Sort,google|amazon|facebook|bloomberg
+420,Strong Password Checker    ,0.178,Hard,7,,
+406,Queue Reconstruction by Height    ,0.592,Medium,7,Greedy ,google|amazon|bloomberg
+731,My Calendar II    ,0.434,Medium,7,Array|Binary Search Tree,google
+230,Kth Smallest Element in a BST    ,0.503,Medium,7,Binary Search|Tree,google|amazon|facebook|microsoft|bloomberg|uber|tencent|walmart-labs|affirm|databricks|TripleByte
+680,Valid Palindrome II    ,0.339,Easy,7,String,google|facebook|microsoft|yahoo|zenefits
+157,Read N Characters Given Read4    ,0.287,Easy,7,String,google|facebook|uber
+246,Strobogrammatic Number    ,0.419,Easy,7,HashTable|Math,google|facebook|airbnb
+721,Accounts Merge    ,0.392,Medium,7,Depth First|Union Find,google|facebook
+698,Partition to K Equal Sum Subsets    ,0.416,Medium,7,Dynamic Programming|Recursion,google|bloomberg|uber|linkedin|vmware
+66,Plus One    ,0.408,Easy,7,Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|airbnb|ebay|zillow
+379,Design Phone Directory    ,0.402,Medium,7,Design|Linked List,google|bloomberg|dropbox
+777,Swap Adjacent in LR String    ,0.329,Medium,7,Brainteaser,google
+471,Encode String with Shortest Length    ,0.446,Hard,7,Dynamic Programming,google
+931,Minimum Falling Path Sum    ,0.579,Medium,7,Dynamic Programming,google|goldman-sachs
+123,Best Time to Buy and Sell Stock III    ,0.331,Hard,6,Array|Dynamic Programming,google|amazon|facebook|microsoft|bloomberg|adobe|tencent|two-sigma
+371,Sum of Two Integers    ,0.511,Easy,6,Bit Manipulation,google|amazon|facebook|adobe|nvidia|hulu
+430,Flatten a Multilevel Doubly Linked List    ,0.41,Medium,6,Depth First|Linked List,facebook|bloomberg|uber
+655,Print Binary Tree    ,0.513,Medium,6,Tree,microsoft|uber|linkedin|houzz|Poynt
+384,Shuffle an Array    ,0.497,Medium,6,,google|amazon|facebook|microsoft|adobe|uber|apple|linkedin|salesforce|cisco
+889,Construct Binary Tree from Preorder and Postorder Traversal    ,0.587,Medium,6,Tree,google|facebook|bloomberg
+475,Heaters    ,0.313,Easy,6,Binary Search,google
+683,K Empty Slots    ,0.34,Hard,6,Array|Binary Search Tree,google|amazon|microsoft
+632,Smallest Range    ,0.464,Hard,6,HashTable|Two Pointers|String,google|facebook|microsoft|lyft|pinterest
+118,Pascal's Triangle    ,0.45,Easy,6,Array,google|amazon|facebook|microsoft|bloomberg|apple|twitter|goldman-sachs|oracle|yelp
+803,Bricks Falling When Hit    ,0.28,Hard,6,Union Find,google
+953,Verifying an Alien Dictionary    ,0.559,Easy,6,HashTable,facebook
+556,Next Greater Element III    ,0.298,Medium,6,String,google|amazon|facebook|bloomberg|adobe
+257,Binary Tree Paths    ,0.453,Easy,6,Depth First|Tree,google|amazon|facebook|apple|yandex
+807,Max Increase to Keep City Skyline    ,0.811,Medium,6,,google|amazon|adobe
 194,Transpose File    ,0.225,Medium,6,,
-605,Can Place Flowers    ,0.307,Easy,6,Array,
-74,Search a 2D Matrix    ,0.34700000000000003,Medium,6,Binary Search|Array,
-718,Maximum Length of Repeated Subarray    ,0.451,Medium,6,HashTable|Binary Search|Array|Dynamic Programming,
-108,Convert Sorted Array to Binary Search Tree    ,0.496,Easy,6,Depth First|Tree,
-496,Next Greater Element I    ,0.589,Easy,6,Stack,
-913,Cat and Mouse    ,0.273,Hard,6,breadth-first-search|Minimax,
-113,Path Sum II    ,0.39799999999999996,Medium,6,Depth First|Tree,
-109,Convert Sorted List to Binary Search Tree    ,0.39899999999999997,Medium,6,Depth First|Linked List,
-416,Partition Equal Subset Sum    ,0.401,Medium,6,Dynamic Programming,
-833,Find And Replace in String    ,0.452,Medium,6,String,
-131,Palindrome Partitioning    ,0.4,Medium,6,Backtracking,
-386,Lexicographical Numbers    ,0.451,Medium,6,,
-797,All Paths From Source to Target    ,0.696,Medium,6,,
-189,Rotate Array    ,0.293,Easy,6,Array,
-328,Odd Even Linked List    ,0.484,Medium,6,Linked List,
-689,Maximum Sum of 3 Non-Overlapping Subarrays    ,0.439,Hard,6,Array|Dynamic Programming,
-527,Word Abbreviation    ,0.48200000000000004,Hard,6,String|Sort,
-611,Valid Triangle Number    ,0.446,Medium,6,Array,
-849,Maximize Distance to Closest Person    ,0.405,Easy,6,Array,
-169,Majority Element    ,0.518,Easy,6,Array|Bit Manipulation|Divide and Conquer,
-392,Is Subsequence    ,0.46299999999999997,Medium,6,Binary Search|Greedy |Dynamic Programming,
-707,Design Linked List    ,0.23600000000000002,Easy,6,Design|Linked List,
-361,Bomb Enemy    ,0.4270000000000001,Medium,6,Dynamic Programming,
-809,Expressive Words    ,0.425,Medium,6,String,
-724,Find Pivot Index    ,0.40700000000000003,Easy,6,Array,
-730,Count Different Palindromic Subsequences    ,0.379,Hard,6,Dynamic Programming|String,
-181,Employees Earning More Than Their Managers    ,0.469,Easy,6,,
-453,Minimum Moves to Equal Array Elements    ,0.49,Easy,6,Math,
-761,Special Binary String    ,0.503,Hard,6,String|Recursion,
-595,Big Countries    ,0.732,Easy,6,,
-837,New 21 Game    ,0.305,Medium,6,Dynamic Programming,
-863,All Nodes Distance K in Binary Tree    ,0.45899999999999996,Medium,6,Depth First|breadth-first-search|Tree,
-95,Unique Binary Search Trees II    ,0.35,Medium,6,Dynamic Programming|Tree,
-163,Missing Ranges    ,0.23,Medium,6,Array,
-674,Longest Continuous Increasing Subsequence    ,0.439,Easy,6,Array,
-662,Maximum Width of Binary Tree    ,0.397,Medium,6,Tree,
-213,House Robber II    ,0.35100000000000003,Medium,6,Dynamic Programming,
-130,Surrounded Regions    ,0.223,Medium,6,Depth First|breadth-first-search|Union Find,
-733,Flood Fill    ,0.501,Easy,6,Depth First,
-365,Water and Jug Problem    ,0.28800000000000003,Medium,6,Math,
-640,Solve the Equation    ,0.4,Medium,6,Math,
-274,H-Index    ,0.344,Medium,6,HashTable|Sort,
-572,Subtree of Another Tree    ,0.414,Easy,6,Tree,
-261,Graph Valid Tree    ,0.396,Medium,6,Depth First|breadth-first-search|Graph|Union Find,
-171,Excel Sheet Column Number    ,0.51,Easy,6,Math,
-766,Toeplitz Matrix    ,0.613,Easy,6,Array,
-763,Partition Labels    ,0.6890000000000001,Medium,6,Two Pointers|Greedy ,
-943,Find the Shortest Superstring    ,0.358,Hard,6,Dynamic Programming,
-876,Middle of the Linked List    ,0.636,Easy,6,Linked List,
-323,Number of Connected Components in an Undirected Graph    ,0.515,Medium,6,Depth First|breadth-first-search|Graph|Union Find,
-855,Exam Room    ,0.374,Medium,6,Map,
-229,Majority Element II    ,0.315,Medium,6,Array,
-86,Partition List    ,0.366,Medium,6,Two Pointers|Linked List,
-917,Reverse Only Letters    ,0.56,Easy,6,String,
-338,Counting Bits    ,0.642,Medium,6,Dynamic Programming|Bit Manipulation,
-225,Implement Stack using Queues    ,0.38299999999999995,Easy,6,Stack|Design,
-363,Max Sum of Rectangle No Larger Than K    ,0.349,Hard,6,Binary Search|Dynamic Programming|Queue,
-700,Search in a Binary Search Tree    ,0.672,Easy,6,Tree,
-710,Random Pick with Blacklist    ,0.308,Hard,6,HashTable|Binary Search|Sort|Random,
-266,Palindrome Permutation    ,0.597,Easy,6,HashTable,
-99,Recover Binary Search Tree    ,0.341,Hard,6,Depth First|Tree,
-794,Valid Tic-Tac-Toe State    ,0.29100000000000004,Medium,6,Math|Recursion,
-498,Diagonal Traverse    ,0.451,Medium,6,,
-708,Insert into a Cyclic Sorted List    ,0.285,Medium,6,Linked List,
-237,Delete Node in a Linked List    ,0.524,Easy,6,Linked List,
-357,Count Numbers with Unique Digits    ,0.467,Medium,6,Math|Dynamic Programming|Backtracking,
-106,Construct Binary Tree from Inorder and Postorder Traversal    ,0.38299999999999995,Medium,6,Depth First|Array|Tree,
-388,Longest Absolute File Path    ,0.389,Medium,6,,
-433,Minimum Genetic Mutation    ,0.376,Medium,6,,
-652,Find Duplicate Subtrees    ,0.446,Medium,6,Tree,
-47,Permutations II    ,0.395,Medium,6,Backtracking,
-252,Meeting Rooms    ,0.516,Easy,6,Sort,
-895,Maximum Frequency Stack    ,0.5329999999999999,Hard,6,HashTable|Stack,
-956,Tallest Billboard    ,0.3720000000000001,Hard,6,Dynamic Programming,
-734,Sentence Similarity    ,0.40299999999999997,Easy,6,HashTable,
-966,Vowel Spellchecker    ,0.401,Medium,6,HashTable|String,
-435,Non-overlapping Intervals    ,0.414,Medium,6,Greedy ,
-373,Find K Pairs with Smallest Sums    ,0.33399999999999996,Medium,6,Heap,
-622,Design Circular Queue    ,0.386,Medium,6,Design|Queue,
-375,Guess Number Higher or Lower II    ,0.373,Medium,6,Dynamic Programming|Minimax,
-437,Path Sum III    ,0.42200000000000004,Easy,6,Tree,
-302,Smallest Rectangle Enclosing Black Pixels    ,0.488,Hard,6,Binary Search,
-395,Longest Substring with At Least K Repeating Characters    ,0.381,Medium,6,,
-319,Bulb Switcher    ,0.4370000000000001,Medium,6,Math|Brainteaser,
-717,1-bit and 2-bit Characters    ,0.49,Easy,5,Array,
-957,Prison Cells After N Days    ,0.379,Medium,5,HashTable,
-977,Squares of a Sorted Array    ,0.727,Easy,5,Two Pointers|Array,
-303,Range Sum Query - Immutable    ,0.37,Easy,5,Dynamic Programming,
-354,Russian Doll Envelopes    ,0.336,Hard,5,Binary Search|Dynamic Programming,
-447,Number of Boomerangs    ,0.495,Easy,5,HashTable,
-684,Redundant Connection    ,0.507,Medium,5,Tree|Graph|Union Find,
-561,Array Partition I    ,0.685,Easy,5,Array,
-214,Shortest Palindrome    ,0.273,Hard,5,String,
-305,Number of Islands II    ,0.42,Hard,5,Union Find,
-845,Longest Mountain in Array    ,0.33899999999999997,Medium,5,Two Pointers,
-321,Create Maximum Number    ,0.252,Hard,5,Greedy |Dynamic Programming,
-488,Zuma Game    ,0.382,Hard,5,Depth First,
-259,3Sum Smaller    ,0.445,Medium,5,Two Pointers|Array,
-503,Next Greater Element II    ,0.503,Medium,5,Stack,
-112,Path Sum    ,0.3720000000000001,Easy,5,Depth First|Tree,
-505,The Maze II    ,0.428,Medium,5,Depth First|breadth-first-search,
-874,Walking Robot Simulation    ,0.312,Easy,5,Greedy ,
-737,Sentence Similarity II    ,0.43,Medium,5,Depth First|Union Find,
-256,Paint House    ,0.483,Easy,5,Dynamic Programming,
-440,K-th Smallest in Lexicographical Order    ,0.263,Hard,5,,
-255,Verify Preorder Sequence in Binary Search Tree    ,0.43,Medium,5,Tree|Stack,
-310,Minimum Height Trees    ,0.299,Medium,5,breadth-first-search|Graph,
-52,N-Queens II    ,0.511,Hard,5,Backtracking,
-184,Department Highest Salary    ,0.275,Medium,5,,
-351,Android Unlock Patterns    ,0.456,Medium,5,Dynamic Programming|Backtracking,
-188,Best Time to Buy and Sell Stock IV    ,0.26,Hard,5,Dynamic Programming,
-377,Combination Sum IV    ,0.4370000000000001,Medium,5,Dynamic Programming,
-582,Kill Process    ,0.5579999999999999,Medium,5,Tree|Queue,
-742,Closest Leaf in a Binary Tree    ,0.381,Medium,5,Tree,
-325,Maximum Size Subarray Sum Equals k    ,0.444,Medium,5,HashTable,
-270,Closest Binary Search Tree Value    ,0.433,Easy,5,Binary Search|Tree,
-799,Champagne Tower    ,0.336,Medium,5,,
-562,Longest Line of Consecutive One in Matrix    ,0.4320000000000001,Medium,5,Array,
-96,Unique Binary Search Trees    ,0.45399999999999996,Medium,5,Dynamic Programming|Tree,
-100,Same Tree    ,0.496,Easy,5,Depth First|Tree,
-516,Longest Palindromic Subsequence    ,0.457,Medium,5,Dynamic Programming,
-398,Random Pick Index    ,0.4920000000000001,Medium,5,Reservoir Sampling,
-828,Unique Letter String    ,0.386,Hard,5,Two Pointers,
-617,Merge Two Binary Trees    ,0.695,Easy,5,Tree,
-81,Search in Rotated Sorted Array II    ,0.325,Medium,5,Binary Search|Array,
-180,Consecutive Numbers    ,0.325,Medium,5,,
-168,Excel Sheet Column Title    ,0.28600000000000003,Easy,5,Math,
-191,Number of 1 Bits    ,0.423,Easy,5,Bit Manipulation,
-900,RLE Iterator    ,0.4920000000000001,Medium,5,Array,
-161,One Edit Distance    ,0.315,Medium,5,String,
-936,Stamping The Sequence    ,0.35600000000000004,Hard,5,Greedy |String,
-179,Largest Number    ,0.254,Medium,5,Sort,
-750,Number Of Corner Rectangles    ,0.64,Medium,5,Dynamic Programming,
-934,Shortest Bridge    ,0.43799999999999994,Medium,5,Depth First|breadth-first-search,
-969,Pancake Sorting    ,0.617,Medium,5,Array|Sort,
-746,Min Cost Climbing Stairs    ,0.46399999999999997,Easy,5,Array|Dynamic Programming,
-616,Add Bold Tag in String    ,0.389,Medium,5,String,
-769,Max Chunks To Make Sorted    ,0.511,Medium,5,Array,
-850,Rectangle Area II    ,0.439,Hard,5,Segment Tree,
-631,Design Excel Sum Formula    ,0.289,Hard,5,Design,
-291,Word Pattern II    ,0.40299999999999997,Hard,5,Backtracking,
-701,Insert into a Binary Search Tree    ,0.7440000000000001,Medium,5,Tree,
-494,Target Sum    ,0.449,Medium,5,Depth First|Dynamic Programming,
-856,Score of Parentheses    ,0.5529999999999999,Medium,5,String|Stack,
-937,Reorder Log Files    ,0.593,Easy,5,String,
-665,Non-decreasing Array    ,0.195,Easy,5,Array,
-847,Shortest Path Visiting All Nodes    ,0.45899999999999996,Hard,5,breadth-first-search|Dynamic Programming,
-190,Reverse Bits    ,0.305,Easy,5,Bit Manipulation,
-132,Palindrome Partitioning II    ,0.26899999999999996,Hard,5,Dynamic Programming,
-588,Design In-Memory File System    ,0.384,Hard,5,Design,
-540,Single Element in a Sorted Array    ,0.5720000000000001,Medium,5,,
-265,Paint House II    ,0.41,Hard,5,Dynamic Programming,
-134,Gas Station    ,0.332,Medium,5,Greedy ,
-871,Minimum Number of Refueling Stops    ,0.282,Hard,5,Dynamic Programming|Heap,
-921,Minimum Add to Make Parentheses Valid    ,0.696,Medium,5,Greedy |Stack,
-979,Distribute Coins in Binary Tree    ,0.659,Medium,5,Depth First|Tree,
+605,Can Place Flowers    ,0.307,Easy,6,Array,linkedin|cisco
+74,Search a 2D Matrix    ,0.347,Medium,6,Binary Search|Array,google|amazon|facebook|microsoft|adobe|uber|apple|baidu|twitter|visa
+718,Maximum Length of Repeated Subarray    ,0.451,Medium,6,HashTable|Binary Search|Array|Dynamic Programming,yahoo|alibaba|pinterest|intuit|indeed|citadel
+108,Convert Sorted Array to Binary Search Tree    ,0.496,Easy,6,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|uber|apple|yahoo|airbnb|baidu|tencent|vmware|walmart-labs|paypal
+496,Next Greater Element I    ,0.589,Easy,6,Stack,google|amazon|bloomberg|mathworks
+913,Cat and Mouse    ,0.273,Hard,6,breadth-first-search|Minimax,google
+113,Path Sum II    ,0.398,Medium,6,Depth First|Tree,google|amazon|facebook|bloomberg|linkedin|tencent|zillow|quora|appdynamics
+109,Convert Sorted List to Binary Search Tree    ,0.399,Medium,6,Depth First|Linked List,google|amazon|facebook|microsoft|bloomberg|adobe|oracle|zenefits|box
+416,Partition Equal Subset Sum    ,0.401,Medium,6,Dynamic Programming,google|amazon|facebook|microsoft|uber|apple|linkedin|yahoo|ebay|paypal
+833,Find And Replace in String    ,0.452,Medium,6,String,google
+131,Palindrome Partitioning    ,0.4,Medium,6,Backtracking,google|amazon|bloomberg|adobe|uber
+386,Lexicographical Numbers    ,0.451,Medium,6,,google|facebook|bloomberg|adobe|baidu
+797,All Paths From Source to Target    ,0.696,Medium,6,,amazon|bloomberg|walmart-labs
+189,Rotate Array    ,0.293,Easy,6,Array,google|amazon|facebook|microsoft|bloomberg|adobe|uber|oracle|cisco
+328,Odd Even Linked List    ,0.484,Medium,6,Linked List,google|amazon|microsoft|bloomberg|adobe|ebay|capital-one|groupon
+689,Maximum Sum of 3 Non-Overlapping Subarrays    ,0.439,Hard,6,Array|Dynamic Programming,google|facebook
+527,Word Abbreviation    ,0.482,Hard,6,String|Sort,google|snapchat
+611,Valid Triangle Number    ,0.446,Medium,6,Array,google|microsoft|bloomberg|linkedin|expedia
+849,Maximize Distance to Closest Person    ,0.405,Easy,6,Array,google
+169,Majority Element    ,0.518,Easy,6,Array|Bit Manipulation|Divide and Conquer,google|amazon|facebook|microsoft|adobe|apple|yahoo|alibaba|baidu|snapchat|twitter|tencent|zenefits
+392,Is Subsequence    ,0.463,Medium,6,Binary Search|Greedy |Dynamic Programming,google|facebook|adobe|snapchat|pinterest
+707,Design Linked List    ,0.236,Easy,6,Design|Linked List,google|amazon
+361,Bomb Enemy    ,0.427,Medium,6,Dynamic Programming,google|amazon|facebook|uber
+809,Expressive Words    ,0.425,Medium,6,String,google
+724,Find Pivot Index    ,0.407,Easy,6,Array,google|facebook|microsoft|bloomberg|apple|baidu|coupang|Radius
+730,Count Different Palindromic Subsequences    ,0.379,Hard,6,Dynamic Programming|String,linkedin|pure storage
+181,Employees Earning More Than Their Managers    ,0.469,Easy,6,,amazon|facebook|adobe|yahoo
+453,Minimum Moves to Equal Array Elements    ,0.49,Easy,6,Math,twitter|pocket-gems|indeed|coursera
+761,Special Binary String    ,0.503,Hard,6,String|Recursion,google|coursera|quip
+595,Big Countries    ,0.732,Easy,6,,google|amazon|microsoft|adobe
+837,New 21 Game    ,0.305,Medium,6,Dynamic Programming,google
+863,All Nodes Distance K in Binary Tree    ,0.459,Medium,6,Depth First|breadth-first-search|Tree,google|amazon|microsoft
+95,Unique Binary Search Trees II    ,0.35,Medium,6,Dynamic Programming|Tree,google|amazon|bloomberg|adobe|yahoo
+163,Missing Ranges    ,0.23,Medium,6,Array,google|amazon|facebook|bloomberg|oracle|two-sigma
+674,Longest Continuous Increasing Subsequence    ,0.439,Easy,6,Array,facebook
+662,Maximum Width of Binary Tree    ,0.397,Medium,6,Tree,google|amazon|facebook|microsoft|bloomberg|snapchat
+213,House Robber II    ,0.351,Medium,6,Dynamic Programming,google|microsoft|adobe|salesforce
+130,Surrounded Regions    ,0.223,Medium,6,Depth First|breadth-first-search|Union Find,google|amazon|facebook|uber|airbnb
+733,Flood Fill    ,0.501,Easy,6,Depth First,google|amazon|facebook|bloomberg|uber|snapchat|zillow
+365,Water and Jug Problem    ,0.288,Medium,6,Math,google|microsoft
+640,Solve the Equation    ,0.4,Medium,6,Math,google|amazon|facebook|uber
+274,H-Index    ,0.344,Medium,6,HashTable|Sort,google|facebook|bloomberg|yahoo|Alation
+572,Subtree of Another Tree    ,0.414,Easy,6,Tree,google|amazon|facebook|microsoft|bloomberg|alibaba|ebay|tencent|samsung
+261,Graph Valid Tree    ,0.396,Medium,6,Depth First|breadth-first-search|Graph|Union Find,google|amazon|facebook|apple|linkedin|zenefits
+171,Excel Sheet Column Number    ,0.51,Easy,6,Math,google|amazon|microsoft|uber|apple|yahoo|twitter|intel|Alation
+766,Toeplitz Matrix    ,0.613,Easy,6,Array,google|facebook
+763,Partition Labels    ,0.689,Medium,6,Two Pointers|Greedy ,amazon
+943,Find the Shortest Superstring    ,0.358,Hard,6,Dynamic Programming,google
+876,Middle of the Linked List    ,0.636,Easy,6,Linked List,walmart-labs
+323,Number of Connected Components in an Undirected Graph    ,0.515,Medium,6,Depth First|breadth-first-search|Graph|Union Find,google|amazon|microsoft|linkedin|twitter
+855,Exam Room    ,0.374,Medium,6,Map,google|quora|quip
+229,Majority Element II    ,0.315,Medium,6,Array,google|amazon|microsoft|adobe|uber|alibaba|zenefits
+86,Partition List    ,0.366,Medium,6,Two Pointers|Linked List,amazon|microsoft
+917,Reverse Only Letters    ,0.56,Easy,6,String,google|microsoft
+338,Counting Bits    ,0.642,Medium,6,Dynamic Programming|Bit Manipulation,microsoft|apple|mathworks
+225,Implement Stack using Queues    ,0.383,Easy,6,Stack|Design,amazon|microsoft|bloomberg|apple|yahoo|oracle|salesforce|mathworks|morgan-stanley|twilio
+363,Max Sum of Rectangle No Larger Than K    ,0.349,Hard,6,Binary Search|Dynamic Programming|Queue,google|facebook|microsoft
+700,Search in a Binary Search Tree    ,0.672,Easy,6,Tree,google|ibm
+710,Random Pick with Blacklist    ,0.308,Hard,6,HashTable|Binary Search|Sort|Random,google|uber
+266,Palindrome Permutation    ,0.597,Easy,6,HashTable,google|amazon|facebook|microsoft|bloomberg|uber
+99,Recover Binary Search Tree    ,0.341,Hard,6,Depth First|Tree,google|amazon|facebook|microsoft|adobe|uber|palantir-technologies
+794,Valid Tic-Tac-Toe State    ,0.291,Medium,6,Math|Recursion,google|amazon|microsoft|TripleByte
+498,Diagonal Traverse    ,0.451,Medium,6,,google|amazon|facebook|bloomberg|adobe
+708,Insert into a Cyclic Sorted List    ,0.285,Medium,6,Linked List,google|facebook|microsoft
+237,Delete Node in a Linked List    ,0.524,Easy,6,Linked List,google|amazon|microsoft|bloomberg|adobe|apple|yahoo|baidu|tencent|vmware|paypal|netease|capital-one
+357,Count Numbers with Unique Digits    ,0.467,Medium,6,Math|Dynamic Programming|Backtracking,google
+106,Construct Binary Tree from Inorder and Postorder Traversal    ,0.383,Medium,6,Depth First|Array|Tree,amazon|facebook|microsoft|adobe
+388,Longest Absolute File Path    ,0.389,Medium,6,,google|bloomberg|uber
+433,Minimum Genetic Mutation    ,0.376,Medium,6,,google|amazon|twitter
+652,Find Duplicate Subtrees    ,0.446,Medium,6,Tree,google|amazon|microsoft|uber|snapchat|lyft
+47,Permutations II    ,0.395,Medium,6,Backtracking,amazon|facebook|microsoft|bloomberg|adobe|linkedin|vmware
+252,Meeting Rooms    ,0.516,Easy,6,Sort,google|amazon|facebook|microsoft|airbnb|twitter|yelp
+895,Maximum Frequency Stack    ,0.533,Hard,6,HashTable|Stack,amazon|salesforce
+956,Tallest Billboard    ,0.372,Hard,6,Dynamic Programming,
+734,Sentence Similarity    ,0.403,Easy,6,HashTable,google
+966,Vowel Spellchecker    ,0.401,Medium,6,HashTable|String,Thumbtack
+435,Non-overlapping Intervals    ,0.414,Medium,6,Greedy ,google|amazon|facebook|bloomberg|apple
+373,Find K Pairs with Smallest Sums    ,0.334,Medium,6,Heap,google|amazon|microsoft|uber|linkedin
+622,Design Circular Queue    ,0.386,Medium,6,Design|Queue,amazon|facebook
+375,Guess Number Higher or Lower II    ,0.373,Medium,6,Dynamic Programming|Minimax,google
+437,Path Sum III    ,0.422,Easy,6,Tree,amazon|facebook|microsoft|uber|alibaba|quora
+302,Smallest Rectangle Enclosing Black Pixels    ,0.488,Hard,6,Binary Search,google
+395,Longest Substring with At Least K Repeating Characters    ,0.381,Medium,6,,google|facebook|uber|baidu
+319,Bulb Switcher    ,0.437,Medium,6,Math|Brainteaser,google|facebook|linkedin|mathworks
+717,1-bit and 2-bit Characters    ,0.49,Easy,5,Array,google|quora|ixl
+957,Prison Cells After N Days    ,0.379,Medium,5,HashTable,amazon
+977,Squares of a Sorted Array    ,0.727,Easy,5,Two Pointers|Array,google|amazon|facebook|adobe|apple
+303,Range Sum Query - Immutable    ,0.37,Easy,5,Dynamic Programming,google|facebook|adobe|palantir-technologies
+354,Russian Doll Envelopes    ,0.336,Hard,5,Binary Search|Dynamic Programming,google|uber|quora
+447,Number of Boomerangs    ,0.495,Easy,5,HashTable,google|amazon|facebook
+684,Redundant Connection    ,0.507,Medium,5,Tree|Graph|Union Find,google
+561,Array Partition I    ,0.685,Easy,5,Array,google|bloomberg|adobe|apple
+214,Shortest Palindrome    ,0.273,Hard,5,String,google|facebook|microsoft|bloomberg|adobe|alibaba|walmart-labs|pocket-gems|two-sigma
+305,Number of Islands II    ,0.42,Hard,5,Union Find,google|amazon|facebook|uber|snapchat
+845,Longest Mountain in Array    ,0.339,Medium,5,Two Pointers,google
+321,Create Maximum Number    ,0.252,Hard,5,Greedy |Dynamic Programming,google
+488,Zuma Game    ,0.382,Hard,5,Depth First,google|bloomberg|baidu
+259,3Sum Smaller    ,0.445,Medium,5,Two Pointers|Array,google|amazon|facebook|coursera
+503,Next Greater Element II    ,0.503,Medium,5,Stack,google|amazon|microsoft|bloomberg|apple|yahoo
+112,Path Sum    ,0.372,Easy,5,Depth First|Tree,google|amazon|facebook|microsoft|adobe|linkedin|yahoo|alibaba|ebay|zillow
+505,The Maze II    ,0.428,Medium,5,Depth First|breadth-first-search,google|amazon|facebook|snapchat
+874,Walking Robot Simulation    ,0.312,Easy,5,Greedy ,Jane Street
+737,Sentence Similarity II    ,0.43,Medium,5,Depth First|Union Find,google|bloomberg
+256,Paint House    ,0.483,Easy,5,Dynamic Programming,linkedin
+440,K-th Smallest in Lexicographical Order    ,0.263,Hard,5,,google|facebook|hulu
+255,Verify Preorder Sequence in Binary Search Tree    ,0.43,Medium,5,Tree|Stack,uber|zenefits|mathworks
+310,Minimum Height Trees    ,0.299,Medium,5,breadth-first-search|Graph,google|facebook
+52,N-Queens II    ,0.511,Hard,5,Backtracking,facebook|zenefits|zillow
+184,Department Highest Salary    ,0.275,Medium,5,,google|amazon|facebook|adobe|apple|zenefits
+351,Android Unlock Patterns    ,0.456,Medium,5,Dynamic Programming|Backtracking,google|microsoft|apple|snapchat
+188,Best Time to Buy and Sell Stock IV    ,0.26,Hard,5,Dynamic Programming,google|amazon|facebook|citadel
+377,Combination Sum IV    ,0.437,Medium,5,Dynamic Programming,google|amazon|facebook|uber|linkedin|snapchat|visa
+582,Kill Process    ,0.558,Medium,5,Tree|Queue,google|microsoft|bloomberg|apple|yahoo|twitter
+742,Closest Leaf in a Binary Tree    ,0.381,Medium,5,Tree,google|amazon|databricks
+325,Maximum Size Subarray Sum Equals k    ,0.444,Medium,5,HashTable,google|amazon|facebook|palantir-technologies
+270,Closest Binary Search Tree Value    ,0.433,Easy,5,Binary Search|Tree,google|amazon|facebook|microsoft|bloomberg|linkedin|snapchat|ebay
+799,Champagne Tower    ,0.336,Medium,5,,google
+562,Longest Line of Consecutive One in Matrix    ,0.432,Medium,5,Array,google|doordash
+96,Unique Binary Search Trees    ,0.454,Medium,5,Dynamic Programming|Tree,google|amazon|adobe|snapchat
+100,Same Tree    ,0.496,Easy,5,Depth First|Tree,google|amazon|facebook|bloomberg|apple|linkedin|cisco
+516,Longest Palindromic Subsequence    ,0.457,Medium,5,Dynamic Programming,amazon|facebook|microsoft|uber|apple|linkedin|alibaba
+398,Random Pick Index    ,0.492,Medium,5,Reservoir Sampling,google|facebook|bloomberg|uber
+828,Unique Letter String    ,0.386,Hard,5,Two Pointers,ForUsAll
+617,Merge Two Binary Trees    ,0.695,Easy,5,Tree,google|amazon|facebook|adobe
+81,Search in Rotated Sorted Array II    ,0.325,Medium,5,Binary Search|Array,google|amazon|facebook|microsoft|adobe|linkedin|alibaba|dropbox
+180,Consecutive Numbers    ,0.325,Medium,5,,google|facebook
+168,Excel Sheet Column Title    ,0.286,Easy,5,Math,google|facebook|microsoft|bloomberg|yahoo|zenefits|Alation
+191,Number of 1 Bits    ,0.423,Easy,5,Bit Manipulation,google|amazon|facebook|microsoft|bloomberg|apple|yahoo|vmware
+900,RLE Iterator    ,0.492,Medium,5,Array,google|amazon
+161,One Edit Distance    ,0.315,Medium,5,String,google|amazon|facebook|microsoft|uber|snapchat|twitter|yelp
+936,Stamping The Sequence    ,0.356,Hard,5,Greedy |String,google
+179,Largest Number    ,0.254,Medium,5,Sort,amazon|facebook|microsoft|bloomberg|apple|alibaba|goldman-sachs|yelp|walmart-labs|salesforce|works-applications
+750,Number Of Corner Rectangles    ,0.64,Medium,5,Dynamic Programming,google|facebook
+934,Shortest Bridge    ,0.438,Medium,5,Depth First|breadth-first-search,uber|McKinsey
+969,Pancake Sorting    ,0.617,Medium,5,Array|Sort,square
+746,Min Cost Climbing Stairs    ,0.464,Easy,5,Array|Dynamic Programming,amazon|adobe|goldman-sachs
+616,Add Bold Tag in String    ,0.389,Medium,5,String,google
+769,Max Chunks To Make Sorted    ,0.511,Medium,5,Array,google
+850,Rectangle Area II    ,0.439,Hard,5,Segment Tree,google
+631,Design Excel Sum Formula    ,0.289,Hard,5,Design,amazon|microsoft
+291,Word Pattern II    ,0.403,Hard,5,Backtracking,facebook|uber|airbnb|dropbox
+701,Insert into a Binary Search Tree    ,0.744,Medium,5,Tree,google|amazon|microsoft|linkedin
+494,Target Sum    ,0.449,Medium,5,Depth First|Dynamic Programming,google|amazon|facebook
+856,Score of Parentheses    ,0.553,Medium,5,String|Stack,
+937,Reorder Log Files    ,0.593,Easy,5,String,amazon
+665,Non-decreasing Array    ,0.195,Easy,5,Array,google|bloomberg
+847,Shortest Path Visiting All Nodes    ,0.459,Hard,5,breadth-first-search|Dynamic Programming,google|amazon
+190,Reverse Bits    ,0.305,Easy,5,Bit Manipulation,google|amazon|facebook|microsoft|bloomberg|apple|airbnb|samsung
+132,Palindrome Partitioning II    ,0.269,Hard,5,Dynamic Programming,google|amazon|adobe
+588,Design In-Memory File System    ,0.384,Hard,5,Design,amazon|airbnb|baidu
+540,Single Element in a Sorted Array    ,0.572,Medium,5,,google|amazon|facebook|bloomberg|adobe
+265,Paint House II    ,0.41,Hard,5,Dynamic Programming,google|facebook|linkedin
+134,Gas Station    ,0.332,Medium,5,Greedy ,google|amazon|microsoft
+871,Minimum Number of Refueling Stops    ,0.282,Hard,5,Dynamic Programming|Heap,microsoft
+921,Minimum Add to Make Parentheses Valid    ,0.696,Medium,5,Greedy |Stack,facebook
+979,Distribute Coins in Binary Tree    ,0.659,Medium,5,Depth First|Tree,google|amazon
 704,Binary Search    ,0.46,Easy,5,Binary Search,
-853,Car Fleet    ,0.38799999999999996,Medium,5,Stack,
-591,Tag Validator    ,0.319,Hard,5,String|Stack,
-87,Scramble String    ,0.312,Hard,5,Dynamic Programming|String,
-914,X of a Kind in a Deck of Cards    ,0.345,Easy,5,Array|Math,
-337,House Robber III    ,0.475,Medium,5,Depth First|Tree,
-144,Binary Tree Preorder Traversal    ,0.506,Medium,5,Tree|Stack,
-714,Best Time to Buy and Sell Stock with Transaction Fee    ,0.498,Medium,5,Greedy |Array|Dynamic Programming,
-137,Single Number II    ,0.45399999999999996,Medium,5,Bit Manipulation,
-890,Find and Replace Pattern    ,0.703,Medium,5,String,
-877,Stone Game    ,0.607,Medium,5,Math|Dynamic Programming|Minimax,
-119,Pascal's Triangle II    ,0.425,Easy,5,Array,
-290,Word Pattern    ,0.34600000000000003,Easy,5,HashTable,
-940,Distinct Subsequences II    ,0.382,Hard,5,Dynamic Programming,
-715,Range Module    ,0.345,Hard,5,Array|Binary Search Tree|Segment Tree,
-568,Maximum Vacation Days    ,0.377,Hard,5,Dynamic Programming,
-825,Friends Of Appropriate Ages    ,0.35600000000000004,Medium,5,Array,
-873,Length of Longest Fibonacci Subsequence    ,0.45799999999999996,Medium,5,Array|Dynamic Programming,
-964,Least Operators to Express Number    ,0.406,Hard,5,Math|Dynamic Programming,
-309,Best Time to Buy and Sell Stock with Cooldown    ,0.436,Medium,5,Dynamic Programming,
-729,My Calendar I    ,0.467,Medium,5,Array,
-824,Goat Latin    ,0.57,Easy,5,String,
-409,Longest Palindrome    ,0.47600000000000003,Easy,5,HashTable,
-40,Combination Sum II    ,0.406,Medium,5,Array|Backtracking,
-686,Repeated String Match    ,0.313,Easy,5,String,
-464,Can I Win    ,0.27,Medium,5,Dynamic Programming|Minimax,
-400,Nth Digit    ,0.302,Easy,5,Math,
-933,Number of Recent Calls    ,0.691,Easy,5,Queue,
-992,Subarrays with K Different Integers    ,0.45799999999999996,Hard,4,HashTable|Two Pointers|Sliding Window,
-826,Most Profit Assigning Work    ,0.35100000000000003,Medium,4,Two Pointers,
-817,Linked List Components    ,0.54,Medium,4,Linked List,
-671,Second Minimum Node In a Binary Tree    ,0.435,Easy,4,Tree,
-186,Reverse Words in a String II    ,0.3670000000000001,Medium,4,String,
-592,Fraction Addition and Subtraction    ,0.466,Medium,4,Math,
-27,Remove Element    ,0.439,Easy,4,Two Pointers|Array,
-383,Ransom Note    ,0.494,Easy,4,String,
-864,Shortest Path to Get All Keys    ,0.35700000000000004,Hard,4,breadth-first-search|Heap,
-223,Rectangle Area    ,0.35600000000000004,Medium,4,Math,
-542,01 Matrix    ,0.349,Medium,4,Depth First|breadth-first-search,
-220,Contains Duplicate III    ,0.195,Medium,4,Binary Search Tree,
-260,Single Number III    ,0.564,Medium,4,Bit Manipulation,
-963,Minimum Area Rectangle II    ,0.428,Medium,4,Math|Geometry,
-690,Employee Importance    ,0.534,Easy,4,HashTable|Depth First|breadth-first-search,
-174,Dungeon Game    ,0.266,Hard,4,Binary Search|Dynamic Programming,
-298,Binary Tree Longest Consecutive Sequence    ,0.4370000000000001,Medium,4,Tree,
-441,Arranging Coins    ,0.376,Easy,4,Binary Search|Math,
-951,Flip Equivalent Binary Trees    ,0.6509999999999999,Medium,4,Tree,
-654,Maximum Binary Tree    ,0.753,Medium,4,Tree,
-946,Validate Stack Sequences    ,0.5760000000000001,Medium,4,Stack,
-866,Prime Palindrome    ,0.19399999999999998,Medium,4,Math,
-983,Minimum Cost For Tickets    ,0.575,Medium,4,Dynamic Programming,
-896,Monotonic Array    ,0.547,Easy,4,Array,
-675,Cut Off Trees for Golf Event    ,0.304,Hard,4,breadth-first-search,
-452,Minimum Number of Arrows to Burst Balloons    ,0.45799999999999996,Medium,4,Greedy ,
-687,Longest Univalue Path    ,0.33399999999999996,Easy,4,Tree|Recursion,
-334,Increasing Triplet Subsequence    ,0.395,Medium,4,,
-659,Split Array into Consecutive Subsequences    ,0.401,Medium,4,Greedy |Heap,
-669,Trim a Binary Search Tree    ,0.599,Easy,4,Tree,
-867,Transpose Matrix    ,0.638,Easy,4,Array,
-765,Couples Holding Hands    ,0.511,Hard,4,Greedy |Graph|Union Find,
-740,Delete and Earn    ,0.452,Medium,4,Dynamic Programming,
-728,Self Dividing Numbers    ,0.693,Easy,4,Math,
-559,Maximum Depth of N-ary Tree    ,0.648,Easy,4,Depth First|breadth-first-search|Tree,
-352,Data Stream as Disjoint Intervals    ,0.431,Hard,4,Binary Search Tree,
-147,Insertion Sort List    ,0.366,Medium,4,Linked List|Sort,
-549,Binary Tree Longest Consecutive Sequence II    ,0.441,Medium,4,Tree,
-533,Lonely Pixel II    ,0.46,Medium,4,Depth First|Array,
-77,Combinations    ,0.465,Medium,4,Backtracking,
-231,Power of Two    ,0.41700000000000004,Easy,4,Math|Bit Manipulation,
-216,Combination Sum III    ,0.507,Medium,4,Array|Backtracking,
-264,Ugly Number II    ,0.358,Medium,4,Math|Dynamic Programming|Heap,
-792,Number of Matching Subsequences    ,0.42100000000000004,Medium,4,Array,
-554,Brick Wall    ,0.474,Medium,4,HashTable,
-941,Valid Mountain Array    ,0.348,Easy,4,Array,
-774,Minimize Max Distance to Gas Station    ,0.40399999999999997,Hard,4,Binary Search,
+853,Car Fleet    ,0.388,Medium,5,Stack,google
+591,Tag Validator    ,0.319,Hard,5,String|Stack,google|microsoft
+87,Scramble String    ,0.312,Hard,5,Dynamic Programming|String,google
+914,X of a Kind in a Deck of Cards    ,0.345,Easy,5,Array|Math,google
+337,House Robber III    ,0.475,Medium,5,Depth First|Tree,google|amazon|facebook|uber|yahoo
+144,Binary Tree Preorder Traversal    ,0.506,Medium,5,Tree|Stack,facebook|adobe|cisco
+714,Best Time to Buy and Sell Stock with Transaction Fee    ,0.498,Medium,5,Greedy |Array|Dynamic Programming,google|facebook|bloomberg
+137,Single Number II    ,0.454,Medium,5,Bit Manipulation,google|amazon|facebook
+890,Find and Replace Pattern    ,0.703,Medium,5,String,google|amazon|apple
+877,Stone Game    ,0.607,Medium,5,Math|Dynamic Programming|Minimax,google
+119,Pascal's Triangle II    ,0.425,Easy,5,Array,google|amazon|adobe|apple|baidu
+290,Word Pattern    ,0.346,Easy,5,HashTable,google|microsoft|uber|alibaba|dropbox|capital-one
+940,Distinct Subsequences II    ,0.382,Hard,5,Dynamic Programming,google
+715,Range Module    ,0.345,Hard,5,Array|Binary Search Tree|Segment Tree,google|linkedin|coupang|Machine Zone
+568,Maximum Vacation Days    ,0.377,Hard,5,Dynamic Programming,google|facebook|uber
+825,Friends Of Appropriate Ages    ,0.356,Medium,5,Array,facebook
+873,Length of Longest Fibonacci Subsequence    ,0.458,Medium,5,Array|Dynamic Programming,baidu|walmart-labs
+964,Least Operators to Express Number    ,0.406,Hard,5,Math|Dynamic Programming,snapchat
+309,Best Time to Buy and Sell Stock with Cooldown    ,0.436,Medium,5,Dynamic Programming,google|amazon|alibaba
+729,My Calendar I    ,0.467,Medium,5,Array,google|amazon|microsoft
+824,Goat Latin    ,0.57,Easy,5,String,facebook
+409,Longest Palindrome    ,0.476,Easy,5,HashTable,google|amazon|microsoft
+40,Combination Sum II    ,0.406,Medium,5,Array|Backtracking,amazon|microsoft|uber|linkedin|snapchat
+686,Repeated String Match    ,0.313,Easy,5,String,google|facebook
+464,Can I Win    ,0.27,Medium,5,Dynamic Programming|Minimax,google|linkedin
+400,Nth Digit    ,0.302,Easy,5,Math,google|adobe|works-applications
+933,Number of Recent Calls    ,0.691,Easy,5,Queue,google|bloomberg
+992,Subarrays with K Different Integers    ,0.458,Hard,4,HashTable|Two Pointers|Sliding Window,amazon
+826,Most Profit Assigning Work    ,0.351,Medium,4,Two Pointers,nutanix|netease
+817,Linked List Components    ,0.54,Medium,4,Linked List,google
+671,Second Minimum Node In a Binary Tree    ,0.435,Easy,4,Tree,microsoft|linkedin
+186,Reverse Words in a String II    ,0.367,Medium,4,String,amazon|facebook|microsoft|uber|apple|tencent
+592,Fraction Addition and Subtraction    ,0.466,Medium,4,Math,goldman-sachs|ixl
+27,Remove Element    ,0.439,Easy,4,Two Pointers|Array,google|amazon|facebook|adobe
+383,Ransom Note    ,0.494,Easy,4,String,google|facebook|apple|hulu
+864,Shortest Path to Get All Keys    ,0.357,Hard,4,breadth-first-search|Heap,google
+223,Rectangle Area    ,0.356,Medium,4,Math,google|amazon|microsoft
+542,01 Matrix    ,0.349,Medium,4,Depth First|breadth-first-search,google|amazon|microsoft|uber
+220,Contains Duplicate III    ,0.195,Medium,4,Binary Search Tree,google|facebook|airbnb|palantir-technologies
+260,Single Number III    ,0.564,Medium,4,Bit Manipulation,facebook|adobe|apple|yahoo
+963,Minimum Area Rectangle II    ,0.428,Medium,4,Math|Geometry,google
+690,Employee Importance    ,0.534,Easy,4,HashTable|Depth First|breadth-first-search,amazon|uber
+174,Dungeon Game    ,0.266,Hard,4,Binary Search|Dynamic Programming,amazon|microsoft
+298,Binary Tree Longest Consecutive Sequence    ,0.437,Medium,4,Tree,google|amazon|facebook
+441,Arranging Coins    ,0.376,Easy,4,Binary Search|Math,goldman-sachs|godaddy
+951,Flip Equivalent Binary Trees    ,0.651,Medium,4,Tree,google
+654,Maximum Binary Tree    ,0.753,Medium,4,Tree,facebook|microsoft|lyft
+946,Validate Stack Sequences    ,0.576,Medium,4,Stack,linkedin
+866,Prime Palindrome    ,0.194,Medium,4,Math,
+983,Minimum Cost For Tickets    ,0.575,Medium,4,Dynamic Programming,amazon|grab
+896,Monotonic Array    ,0.547,Easy,4,Array,facebook
+675,Cut Off Trees for Golf Event    ,0.304,Hard,4,breadth-first-search,amazon
+452,Minimum Number of Arrows to Burst Balloons    ,0.458,Medium,4,Greedy ,google|facebook|microsoft
+687,Longest Univalue Path    ,0.334,Easy,4,Tree|Recursion,google|amazon|facebook|alibaba
+334,Increasing Triplet Subsequence    ,0.395,Medium,4,,google|amazon|facebook|microsoft|airbnb
+659,Split Array into Consecutive Subsequences    ,0.401,Medium,4,Greedy |Heap,google
+669,Trim a Binary Search Tree    ,0.599,Easy,4,Tree,amazon|microsoft|bloomberg
+867,Transpose Matrix    ,0.638,Easy,4,Array,intel
+765,Couples Holding Hands    ,0.511,Hard,4,Greedy |Graph|Union Find,google
+740,Delete and Earn    ,0.452,Medium,4,Dynamic Programming,salesforce|zenefits|pocket-gems|akuna capital|quip
+728,Self Dividing Numbers    ,0.693,Easy,4,Math,epic-systems
+559,Maximum Depth of N-ary Tree    ,0.648,Easy,4,Depth First|breadth-first-search|Tree,google|amazon|sap
+352,Data Stream as Disjoint Intervals    ,0.431,Hard,4,Binary Search Tree,apple|linkedin
+147,Insertion Sort List    ,0.366,Medium,4,Linked List|Sort,bloomberg|adobe|apple|yahoo|airbnb
+549,Binary Tree Longest Consecutive Sequence II    ,0.441,Medium,4,Tree,google|facebook
+533,Lonely Pixel II    ,0.46,Medium,4,Depth First|Array,google
+77,Combinations    ,0.465,Medium,4,Backtracking,google|amazon|facebook|microsoft
+231,Power of Two    ,0.417,Easy,4,Math|Bit Manipulation,google|amazon|microsoft|tencent|ibm
+216,Combination Sum III    ,0.507,Medium,4,Array|Backtracking,microsoft
+264,Ugly Number II    ,0.358,Medium,4,Math|Dynamic Programming|Heap,google|amazon|bloomberg|ebay
+792,Number of Matching Subsequences    ,0.421,Medium,4,Array,google|facebook
+554,Brick Wall    ,0.474,Medium,4,HashTable,facebook|bloomberg|adobe
+941,Valid Mountain Array    ,0.348,Easy,4,Array,google
+774,Minimize Max Distance to Gas Station    ,0.404,Hard,4,Binary Search,google
 372,Super Pow    ,0.355,Medium,4,Math,
-548,Split Array with Equal Sum    ,0.429,Medium,4,Array,
-926,Flip String to Monotone Increasing    ,0.48700000000000004,Medium,4,Array,
-129,Sum Root to Leaf Numbers    ,0.41700000000000004,Medium,4,Depth First|Tree,
-196,Delete Duplicate Emails    ,0.312,Easy,4,,
-938,Range Sum of BST    ,0.805,Medium,4,Binary Search Tree,
-497,Random Point in Non-overlapping Rectangles    ,0.35200000000000004,Medium,4,Binary Search|Random,
-796,Rotate String    ,0.488,Easy,4,,
-249,Group Shifted Strings    ,0.483,Medium,4,HashTable|String,
-908,Smallest Range I    ,0.644,Easy,4,Math,
-513,Find Bottom Left Tree Value    ,0.58,Medium,4,Depth First|breadth-first-search|Tree,
-424,Longest Repeating Character Replacement    ,0.43799999999999994,Medium,4,Two Pointers|Sliding Window,
-459,Repeated Substring Pattern    ,0.395,Easy,4,String,
-958,Check Completeness of a Binary Tree    ,0.46799999999999997,Medium,4,Tree,
-307,Range Sum Query - Mutable    ,0.278,Medium,4,Segment Tree|Binary Indexed Tree,
-172,Factorial Trailing Zeroes    ,0.373,Easy,4,Math,
-776,Split BST    ,0.52,Medium,4,Binary Search Tree,
-558,Quad Tree Intersection    ,0.401,Easy,4,,
-784,Letter Case Permutation    ,0.555,Easy,4,Backtracking|Bit Manipulation,
-262,Trips and Users    ,0.23800000000000002,Hard,4,,
-111,Minimum Depth of Binary Tree    ,0.35,Easy,4,Depth First|breadth-first-search|Tree,
-626,Exchange Seats    ,0.5329999999999999,Medium,4,,
-800,Similar RGB Color    ,0.59,Easy,4,Math|String,
-942,DI String Match    ,0.7020000000000001,Easy,4,Math,
-107,Binary Tree Level Order Traversal II    ,0.45899999999999996,Easy,4,breadth-first-search|Tree,
-968,Binary Tree Cameras    ,0.342,Hard,4,Depth First|Dynamic Programming|Tree,
-477,Total Hamming Distance    ,0.48700000000000004,Medium,4,Bit Manipulation,
-865,Smallest Subtree with all the Deepest Nodes    ,0.547,Medium,4,Tree,
-358,Rearrange String k Distance Apart    ,0.326,Hard,4,HashTable|Greedy |Heap,
-320,Generalized Abbreviation    ,0.483,Medium,4,Backtracking|Bit Manipulation,
-712,Minimum ASCII Delete Sum for Two Strings    ,0.536,Medium,4,Dynamic Programming,
-345,Reverse Vowels of a String    ,0.41,Easy,4,Two Pointers|String,
-60,Permutation Sequence    ,0.325,Medium,4,Math|Backtracking,
-421,Maximum XOR of Two Numbers in an Array    ,0.505,Medium,4,Bit Manipulation|Trie,
-389,Find the Difference    ,0.528,Easy,4,HashTable|Bit Manipulation,
-145,Binary Tree Postorder Traversal    ,0.474,Hard,4,Tree|Stack,
-90,Subsets II    ,0.41700000000000004,Medium,4,Array|Backtracking,
-884,Uncommon Words from Two Sentences    ,0.606,Easy,4,HashTable,
-702,Search in a Sorted Array of Unknown Size    ,0.568,Medium,4,Binary Search,
-627,Swap Salary    ,0.674,Easy,4,,
-484,Find Permutation    ,0.5710000000000001,Medium,4,Greedy ,
-115,Distinct Subsequences    ,0.34600000000000003,Hard,4,Dynamic Programming|String,
+548,Split Array with Equal Sum    ,0.429,Medium,4,Array,facebook|alibaba
+926,Flip String to Monotone Increasing    ,0.487,Medium,4,Array,google
+129,Sum Root to Leaf Numbers    ,0.417,Medium,4,Depth First|Tree,google|amazon|facebook|microsoft|bloomberg
+196,Delete Duplicate Emails    ,0.312,Easy,4,,amazon|alibaba
+938,Range Sum of BST    ,0.805,Medium,4,Binary Search Tree,google|facebook
+497,Random Point in Non-overlapping Rectangles    ,0.352,Medium,4,Binary Search|Random,google
+796,Rotate String    ,0.488,Easy,4,,amazon|microsoft|bloomberg|apple|linkedin
+249,Group Shifted Strings    ,0.483,Medium,4,HashTable|String,google|facebook|uber|apple|rubrik
+908,Smallest Range I    ,0.644,Easy,4,Math,adobe
+513,Find Bottom Left Tree Value    ,0.58,Medium,4,Depth First|breadth-first-search|Tree,microsoft|bloomberg
+424,Longest Repeating Character Replacement    ,0.438,Medium,4,Two Pointers|Sliding Window,google|microsoft|pocket-gems
+459,Repeated Substring Pattern    ,0.395,Easy,4,String,google|amazon
+958,Check Completeness of a Binary Tree    ,0.468,Medium,4,Tree,facebook|microsoft
+307,Range Sum Query - Mutable    ,0.278,Medium,4,Segment Tree|Binary Indexed Tree,google|amazon|facebook|twitter|pocket-gems
+172,Factorial Trailing Zeroes    ,0.373,Easy,4,Math,microsoft|bloomberg|adobe|nutanix|samsung|ibm
+776,Split BST    ,0.52,Medium,4,Binary Search Tree,google|amazon|coupang
+558,Quad Tree Intersection    ,0.401,Easy,4,,sumologic
+784,Letter Case Permutation    ,0.555,Easy,4,Backtracking|Bit Manipulation,facebook|microsoft|bloomberg|yelp
+262,Trips and Users    ,0.238,Hard,4,,adobe|uber
+111,Minimum Depth of Binary Tree    ,0.35,Easy,4,Depth First|breadth-first-search|Tree,google|amazon|facebook|adobe|alibaba|goldman-sachs
+626,Exchange Seats    ,0.533,Medium,4,,amazon|adobe
+800,Similar RGB Color    ,0.59,Easy,4,Math|String,google
+942,DI String Match    ,0.702,Easy,4,Math,google|amazon
+107,Binary Tree Level Order Traversal II    ,0.459,Easy,4,breadth-first-search|Tree,google|amazon|facebook|microsoft|bloomberg|adobe|yahoo|airbnb
+968,Binary Tree Cameras    ,0.342,Hard,4,Depth First|Dynamic Programming|Tree,facebook
+477,Total Hamming Distance    ,0.487,Medium,4,Bit Manipulation,facebook
+865,Smallest Subtree with all the Deepest Nodes    ,0.547,Medium,4,Tree,facebook
+358,Rearrange String k Distance Apart    ,0.326,Hard,4,HashTable|Greedy |Heap,google|facebook
+320,Generalized Abbreviation    ,0.483,Medium,4,Backtracking|Bit Manipulation,google
+712,Minimum ASCII Delete Sum for Two Strings    ,0.536,Medium,4,Dynamic Programming,TripleByte
+345,Reverse Vowels of a String    ,0.41,Easy,4,Two Pointers|String,google|microsoft
+60,Permutation Sequence    ,0.325,Medium,4,Math|Backtracking,google|amazon|facebook|bloomberg|twitter
+421,Maximum XOR of Two Numbers in an Array    ,0.505,Medium,4,Bit Manipulation|Trie,google|works-applications
+389,Find the Difference    ,0.528,Easy,4,HashTable|Bit Manipulation,google|adobe
+145,Binary Tree Postorder Traversal    ,0.474,Hard,4,Tree|Stack,google|amazon|facebook|yahoo|baidu
+90,Subsets II    ,0.417,Medium,4,Array|Backtracking,amazon|facebook|bloomberg
+884,Uncommon Words from Two Sentences    ,0.606,Easy,4,HashTable,expedia
+702,Search in a Sorted Array of Unknown Size    ,0.568,Medium,4,Binary Search,google|ebay
+627,Swap Salary    ,0.674,Easy,4,,google|adobe
+484,Find Permutation    ,0.571,Medium,4,Greedy ,google
+115,Distinct Subsequences    ,0.346,Hard,4,Dynamic Programming|String,google|microsoft|uber|apple
 878,Nth Magical Number    ,0.248,Hard,4,Binary Search|Math,
-61,Rotate List    ,0.267,Medium,4,Two Pointers|Linked List,
-472,Concatenated Words    ,0.336,Hard,4,Depth First|Dynamic Programming|Trie,
-333,Largest BST Subtree    ,0.325,Medium,4,Tree,
-342,Power of Four    ,0.4,Easy,4,Bit Manipulation,
-756,Pyramid Transition Matrix    ,0.507,Medium,4,Depth First|Bit Manipulation,
-544,Output Contest Matches    ,0.7290000000000001,Medium,4,String|Recursion,
-798,Smallest Rotation with Highest Score    ,0.392,Hard,4,,
-201,Bitwise AND of Numbers Range    ,0.35600000000000004,Medium,4,Bit Manipulation,
-950,Reveal Cards In Increasing Order    ,0.7140000000000001,Medium,4,Array,
-922,Sort Array By Parity II    ,0.6679999999999999,Easy,4,Array|Sort,
-413,Arithmetic Slices    ,0.5539999999999999,Medium,3,Math|Dynamic Programming,
-783,Minimum Distance Between BST Nodes    ,0.5,Easy,3,Binary Search Tree,
-832,Flipping an Image    ,0.718,Easy,3,Array,
-425,Word Squares    ,0.4370000000000001,Hard,3,Backtracking|Trie,
-872,Leaf-Similar Trees    ,0.625,Easy,3,Depth First|Tree,
-815,Bus Routes    ,0.392,Hard,3,breadth-first-search,
+61,Rotate List    ,0.267,Medium,4,Two Pointers|Linked List,amazon|microsoft|bloomberg|apple|linkedin|works-applications
+472,Concatenated Words    ,0.336,Hard,4,Depth First|Dynamic Programming|Trie,amazon|apple|snapchat
+333,Largest BST Subtree    ,0.325,Medium,4,Tree,google|amazon|microsoft
+342,Power of Four    ,0.4,Easy,4,Bit Manipulation,uber|two-sigma
+756,Pyramid Transition Matrix    ,0.507,Medium,4,Depth First|Bit Manipulation,google|airbnb
+544,Output Contest Matches    ,0.729,Medium,4,String|Recursion,google
+798,Smallest Rotation with Highest Score    ,0.392,Hard,4,,amazon
+201,Bitwise AND of Numbers Range    ,0.356,Medium,4,Bit Manipulation,
+950,Reveal Cards In Increasing Order    ,0.714,Medium,4,Array,
+922,Sort Array By Parity II    ,0.668,Easy,4,Array|Sort,amazon
+413,Arithmetic Slices    ,0.554,Medium,3,Math|Dynamic Programming,google|amazon|facebook|alibaba|baidu|aetion
+783,Minimum Distance Between BST Nodes    ,0.5,Easy,3,Binary Search Tree,google|amazon
+832,Flipping an Image    ,0.718,Easy,3,Array,google
+425,Word Squares    ,0.437,Hard,3,Backtracking|Trie,google|oracle
+872,Leaf-Similar Trees    ,0.625,Easy,3,Depth First|Tree,google|facebook
+815,Bus Routes    ,0.392,Hard,3,breadth-first-search,google|amazon|uber|airbnb
 182,Duplicate Emails    ,0.531,Easy,3,,
-454,4Sum II    ,0.5,Medium,3,HashTable|Binary Search,
-916,Word Subsets    ,0.445,Medium,3,String,
-390,Elimination Game    ,0.434,Medium,3,,
+454,4Sum II    ,0.5,Medium,3,HashTable|Binary Search,amazon
+916,Word Subsets    ,0.445,Medium,3,String,google
+390,Elimination Game    ,0.434,Medium,3,,bloomberg
 705,Design HashSet    ,0.515,Easy,3,HashTable|Design,
-984,String Without AAA or BBB    ,0.325,Medium,3,Greedy ,
-58,Length of Last Word    ,0.322,Easy,3,String,
-630,Course Schedule III    ,0.312,Hard,3,Greedy ,
-788,Rotated Digits    ,0.534,Easy,3,String,
-552,Student Attendance Record II    ,0.325,Hard,3,Dynamic Programming,
-461,Hamming Distance    ,0.701,Easy,3,Bit Manipulation,
-657,Robot Return to Origin    ,0.71,Easy,3,String,
-719,Find K-th Smallest Pair Distance    ,0.287,Hard,3,Binary Search|Array|Heap,
-197,Rising Temperature    ,0.33899999999999997,Easy,3,,
-156,Binary Tree Upside Down    ,0.498,Medium,3,Tree,
-429,N-ary Tree Level Order Traversal    ,0.586,Easy,3,breadth-first-search|Tree,
-343,Integer Break    ,0.474,Medium,3,Math|Dynamic Programming,
-281,Zigzag Iterator    ,0.556,Medium,3,Design,
-526,Beautiful Arrangement    ,0.541,Medium,3,Backtracking,
-404,Sum of Left Leaves    ,0.488,Easy,3,Tree,
-405,Convert a Number to Hexadecimal    ,0.41700000000000004,Easy,3,Bit Manipulation,
-288,Unique Word Abbreviation    ,0.19699999999999998,Medium,3,HashTable|Design,
-507,Perfect Number    ,0.33899999999999997,Easy,3,Math,
-827,Making A Large Island    ,0.426,Hard,3,Depth First,
-486,Predict the Winner    ,0.467,Medium,3,Dynamic Programming|Minimax,
-804,Unique Morse Code Words    ,0.7440000000000001,Easy,3,String,
-859,Buddy Strings    ,0.275,Easy,3,String,
-791,Custom Sort String    ,0.611,Medium,3,String,
-846,Hand of Straights    ,0.485,Medium,3,Map,
-368,Largest Divisible Subset    ,0.34600000000000003,Medium,3,Math|Dynamic Programming,
-521,Longest Uncommon Subsequence I     ,0.562,Easy,3,String,
-805,Split Array With Same Average    ,0.23800000000000002,Hard,3,Math,
-418,Sentence Screen Fitting    ,0.307,Medium,3,Dynamic Programming,
-536,Construct Binary Tree from String    ,0.441,Medium,3,String|Tree,
-360,Sort Transformed Array    ,0.465,Medium,3,Two Pointers|Math,
-614,Second Degree Follower    ,0.22899999999999998,Medium,3,,
-89,Gray Code    ,0.451,Medium,3,Backtracking,
-485,Max Consecutive Ones    ,0.547,Easy,3,Array,
+984,String Without AAA or BBB    ,0.325,Medium,3,Greedy ,grab|zalando
+58,Length of Last Word    ,0.322,Easy,3,String,adobe|alibaba
+630,Course Schedule III    ,0.312,Hard,3,Greedy ,google|works-applications
+788,Rotated Digits    ,0.534,Easy,3,String,google
+552,Student Attendance Record II    ,0.325,Hard,3,Dynamic Programming,google
+461,Hamming Distance    ,0.701,Easy,3,Bit Manipulation,amazon|facebook|adobe|uber|apple|airbnb|baidu|goldman-sachs|aetion
+657,Robot Return to Origin    ,0.71,Easy,3,String,google|amazon|adobe|alibaba|airbnb|goldman-sachs|indeed|works-applications|qualtrics|liveramp
+719,Find K-th Smallest Pair Distance    ,0.287,Hard,3,Binary Search|Array|Heap,google
+197,Rising Temperature    ,0.339,Easy,3,,
+156,Binary Tree Upside Down    ,0.498,Medium,3,Tree,microsoft|linkedin
+429,N-ary Tree Level Order Traversal    ,0.586,Easy,3,breadth-first-search|Tree,google
+343,Integer Break    ,0.474,Medium,3,Math|Dynamic Programming,google|tencent
+281,Zigzag Iterator    ,0.556,Medium,3,Design,google|facebook|apple|groupon
+526,Beautiful Arrangement    ,0.541,Medium,3,Backtracking,google|uber|mathworks
+404,Sum of Left Leaves    ,0.488,Easy,3,Tree,google|facebook|bloomberg|adobe|apple|mathworks
+405,Convert a Number to Hexadecimal    ,0.417,Easy,3,Bit Manipulation,facebook
+288,Unique Word Abbreviation    ,0.197,Medium,3,HashTable|Design,google
+507,Perfect Number    ,0.339,Easy,3,Math,amazon|Fallible
+827,Making A Large Island    ,0.426,Hard,3,Depth First,google|amazon|uber
+486,Predict the Winner    ,0.467,Medium,3,Dynamic Programming|Minimax,google|apple|yahoo|works-applications
+804,Unique Morse Code Words    ,0.744,Easy,3,String,google
+859,Buddy Strings    ,0.275,Easy,3,String,google
+791,Custom Sort String    ,0.611,Medium,3,String,google|amazon|facebook
+846,Hand of Straights    ,0.485,Medium,3,Map,google
+368,Largest Divisible Subset    ,0.346,Medium,3,Math|Dynamic Programming,google|adobe
+521,Longest Uncommon Subsequence I     ,0.562,Easy,3,String,google
+805,Split Array With Same Average    ,0.238,Hard,3,Math,google|microsoft|apple
+418,Sentence Screen Fitting    ,0.307,Medium,3,Dynamic Programming,google|uber|yelp
+536,Construct Binary Tree from String    ,0.441,Medium,3,String|Tree,amazon|facebook
+360,Sort Transformed Array    ,0.465,Medium,3,Two Pointers|Math,google|facebook
+614,Second Degree Follower    ,0.229,Medium,3,,
+89,Gray Code    ,0.451,Medium,3,Backtracking,google|amazon|microsoft
+485,Max Consecutive Ones    ,0.547,Easy,3,Array,google
 376,Wiggle Subsequence    ,0.371,Medium,3,Greedy |Dynamic Programming,
-82,Remove Duplicates from Sorted List II    ,0.324,Medium,3,Linked List,
-499,The Maze III    ,0.3670000000000001,Hard,3,Depth First|breadth-first-search,
-967,Numbers With Same Consecutive Differences    ,0.361,Medium,3,Dynamic Programming,
-673,Number of Longest Increasing Subsequence    ,0.33299999999999996,Medium,3,Dynamic Programming,
-369,Plus One Linked List    ,0.5579999999999999,Medium,3,Linked List,
+82,Remove Duplicates from Sorted List II    ,0.324,Medium,3,Linked List,google|microsoft|bloomberg|salesforce
+499,The Maze III    ,0.367,Hard,3,Depth First|breadth-first-search,google
+967,Numbers With Same Consecutive Differences    ,0.361,Medium,3,Dynamic Programming,Flipkart
+673,Number of Longest Increasing Subsequence    ,0.333,Medium,3,Dynamic Programming,facebook|alibaba
+369,Plus One Linked List    ,0.558,Medium,3,Linked List,google|amazon
 883,Projection Area of 3D Shapes    ,0.654,Easy,3,Math,
-897,Increasing Order Search Tree    ,0.635,Easy,3,Depth First|Tree,
+897,Increasing Order Search Tree    ,0.635,Easy,3,Depth First|Tree,facebook
 892,Surface Area of 3D Shapes    ,0.557,Easy,3,Math|Geometry,
-725,Split Linked List in Parts    ,0.48700000000000004,Medium,3,Linked List,
-267,Palindrome Permutation II    ,0.33299999999999996,Medium,3,Backtracking,
-813,Largest Sum of Averages    ,0.441,Medium,3,Dynamic Programming,
-183,Customers Who Never Order    ,0.434,Easy,3,,
-414,Third Maximum Number    ,0.28800000000000003,Easy,3,Array,
-639,Decode Ways II    ,0.248,Hard,3,Dynamic Programming,
-318,Maximum Product of Word Lengths    ,0.48,Medium,3,Bit Manipulation,
-355,Design Twitter    ,0.27,Medium,3,HashTable|Design|Heap,
-987,Vertical Order Traversal of a Binary Tree    ,0.32899999999999996,Medium,3,HashTable|Tree,
-530,Minimum Absolute Difference in BST    ,0.5,Easy,3,Binary Search Tree,
-814,Binary Tree Pruning    ,0.7020000000000001,Medium,3,Tree,
-818,Race Car    ,0.342,Hard,3,Dynamic Programming|Heap,
+725,Split Linked List in Parts    ,0.487,Medium,3,Linked List,google|amazon
+267,Palindrome Permutation II    ,0.333,Medium,3,Backtracking,uber
+813,Largest Sum of Averages    ,0.441,Medium,3,Dynamic Programming,google|baidu
+183,Customers Who Never Order    ,0.434,Easy,3,,amazon
+414,Third Maximum Number    ,0.288,Easy,3,Array,google|amazon|facebook|microsoft|bloomberg|goldman-sachs
+639,Decode Ways II    ,0.248,Hard,3,Dynamic Programming,facebook
+318,Maximum Product of Word Lengths    ,0.48,Medium,3,Bit Manipulation,google|works-applications
+355,Design Twitter    ,0.27,Medium,3,HashTable|Design|Heap,amazon|twitter
+987,Vertical Order Traversal of a Binary Tree    ,0.329,Medium,3,HashTable|Tree,amazon|facebook|adobe|samsung
+530,Minimum Absolute Difference in BST    ,0.5,Easy,3,Binary Search Tree,google
+814,Binary Tree Pruning    ,0.702,Medium,3,Tree,adobe|twitter|hulu|capital-one
+818,Race Car    ,0.342,Hard,3,Dynamic Programming|Heap,google
 590,N-ary Tree Postorder Traversal    ,0.665,Easy,3,Tree,
-245,Shortest Word Distance III    ,0.529,Medium,3,Array,
-501,Find Mode in Binary Search Tree    ,0.39,Easy,3,Tree,
-254,Factor Combinations    ,0.44,Medium,3,Backtracking,
-154,Find Minimum in Rotated Sorted Array II    ,0.391,Hard,3,Binary Search|Array,
-276,Paint Fence    ,0.36200000000000004,Easy,3,Dynamic Programming,
-515,Find Largest Value in Each Tree Row    ,0.574,Medium,3,Depth First|breadth-first-search|Tree,
-385,Mini Parser    ,0.316,Medium,3,String|Stack,
-546,Remove Boxes    ,0.377,Hard,3,Depth First|Dynamic Programming,
-504,Base 7    ,0.447,Easy,3,,
-217,Contains Duplicate    ,0.511,Easy,3,HashTable|Array,
-915,Partition Array into Disjoint Intervals    ,0.423,Medium,3,Array,
-500,Keyboard Row    ,0.618,Easy,3,HashTable,
-597,Friend Requests I: Overall Acceptance Rate    ,0.396,Easy,3,,
-367,Valid Perfect Square    ,0.395,Easy,3,Binary Search|Math,
+245,Shortest Word Distance III    ,0.529,Medium,3,Array,linkedin|indeed
+501,Find Mode in Binary Search Tree    ,0.39,Easy,3,Tree,google|snapchat
+254,Factor Combinations    ,0.44,Medium,3,Backtracking,uber|linkedin
+154,Find Minimum in Rotated Sorted Array II    ,0.391,Hard,3,Binary Search|Array,google|facebook|adobe|uber
+276,Paint Fence    ,0.362,Easy,3,Dynamic Programming,google|yahoo
+515,Find Largest Value in Each Tree Row    ,0.574,Medium,3,Depth First|breadth-first-search|Tree,linkedin
+385,Mini Parser    ,0.316,Medium,3,String|Stack,airbnb
+546,Remove Boxes    ,0.377,Hard,3,Depth First|Dynamic Programming,tencent
+504,Base 7    ,0.447,Easy,3,,google
+217,Contains Duplicate    ,0.511,Easy,3,HashTable|Array,google|amazon|microsoft|bloomberg|adobe|yahoo|airbnb|yelp|palantir-technologies
+915,Partition Array into Disjoint Intervals    ,0.423,Medium,3,Array,TandemG
+500,Keyboard Row    ,0.618,Easy,3,HashTable,mathworks
+597,Friend Requests I: Overall Acceptance Rate    ,0.396,Easy,3,,facebook
+367,Valid Perfect Square    ,0.395,Easy,3,Binary Search|Math,microsoft|linkedin
 925,Long Pressed Name    ,0.442,Easy,3,Two Pointers|String,
 823,Binary Trees With Factors    ,0.319,Medium,3,,
-470,Implement Rand10() Using Rand7()    ,0.44299999999999995,Medium,3,Random|Rejection Sampling,
+470,Implement Rand10() Using Rand7()    ,0.443,Medium,3,Random|Rejection Sampling,google
 822,Card Flipping Game    ,0.401,Medium,3,,
-841,Keys and Rooms    ,0.597,Medium,3,Depth First|Graph,
-699,Falling Squares    ,0.396,Hard,3,Binary Search Tree|Segment Tree,
-491,Increasing Subsequences    ,0.41600000000000004,Medium,3,Depth First,
-648,Replace Words    ,0.51,Medium,3,HashTable|Trie,
-978,Longest Turbulent Subarray    ,0.45899999999999996,Medium,3,Array|Dynamic Programming|Sliding Window,
-397,Integer Replacement    ,0.311,Medium,3,Math|Bit Manipulation,
-879,Profitable Schemes    ,0.358,Hard,3,Dynamic Programming,
-661,Image Smoother    ,0.483,Easy,3,Array,
-608,Tree Node    ,0.578,Medium,3,,
-835,Image Overlap    ,0.51,Medium,3,Array,
-531,Lonely Pixel I    ,0.573,Medium,3,Depth First|Array,
-894,All Possible Full Binary Trees    ,0.6990000000000001,Medium,3,Tree|Recursion,
-581,Shortest Unsorted Continuous Subarray    ,0.298,Easy,3,Array,
-638,Shopping Offers    ,0.48,Medium,3,Depth First|Dynamic Programming,
-960,Delete Columns to Make Sorted III    ,0.517,Hard,3,Dynamic Programming,
-579,Find Cumulative Salary of an Employee    ,0.34,Hard,3,,
-423,Reconstruct Original Digits from English    ,0.45399999999999996,Medium,2,Math,
-382,Linked List Random Node    ,0.488,Medium,2,Reservoir Sampling,
-663,Equal Tree Partition    ,0.37799999999999995,Medium,2,Tree,
-919,Complete Binary Tree Inserter    ,0.547,Medium,2,Tree,
-752,Open the Lock    ,0.45,Medium,2,breadth-first-search,
-599,Minimum Index Sum of Two Lists    ,0.474,Easy,2,HashTable,
-313,Super Ugly Number    ,0.40700000000000003,Medium,2,Math|Heap,
-670,Maximum Swap    ,0.39299999999999996,Medium,2,Array|Math,
-881,oats to Save People    ,0.4320000000000001,Medium,2,Two Pointers|Greedy ,
-396,Rotate Function    ,0.35,Medium,2,Math,
-408,Valid Word Abbreviation    ,0.293,Easy,2,String,
-525,Contiguous Array    ,0.424,Medium,2,HashTable,
-653,Two Sum IV - Input is a BST    ,0.521,Easy,2,Tree,
-745,Prefix and Suffix Search    ,0.298,Hard,2,Trie,
-961,N-Repeated Element in Size 2N Array    ,0.731,Easy,2,HashTable,
-786,K-th Smallest Prime Fraction    ,0.391,Hard,2,Binary Search|Heap,
-790,Domino and Tromino Tiling    ,0.353,Medium,2,Dynamic Programming,
-330,Patching Array    ,0.332,Hard,2,Greedy ,
-522,Longest Uncommon Subsequence II    ,0.327,Medium,2,String,
-861,Score After Flipping Matrix    ,0.69,Medium,2,Greedy ,
-976,Largest Perimeter Triangle    ,0.57,Easy,2,Math|Sort,
-575,Distribute Candies    ,0.593,Easy,2,HashTable,
-801,Minimum Swaps To Make Sequences Increasing    ,0.341,Medium,2,Dynamic Programming,
-637,Average of Levels in Binary Tree    ,0.5820000000000001,Easy,2,Tree,
-696,Count Binary Substrings    ,0.528,Easy,2,String,
+841,Keys and Rooms    ,0.597,Medium,3,Depth First|Graph,google|amazon
+699,Falling Squares    ,0.396,Hard,3,Binary Search Tree|Segment Tree,facebook|uber|square
+491,Increasing Subsequences    ,0.416,Medium,3,Depth First,facebook|yahoo
+648,Replace Words    ,0.51,Medium,3,HashTable|Trie,adobe|uber
+978,Longest Turbulent Subarray    ,0.459,Medium,3,Array|Dynamic Programming|Sliding Window,amazon
+397,Integer Replacement    ,0.311,Medium,3,Math|Bit Manipulation,google|baidu
+879,Profitable Schemes    ,0.358,Hard,3,Dynamic Programming,google|linkedin
+661,Image Smoother    ,0.483,Easy,3,Array,amazon|pure storage
+608,Tree Node    ,0.578,Medium,3,,twitter
+835,Image Overlap    ,0.51,Medium,3,Array,google
+531,Lonely Pixel I    ,0.573,Medium,3,Depth First|Array,google
+894,All Possible Full Binary Trees    ,0.699,Medium,3,Tree|Recursion,google
+581,Shortest Unsorted Continuous Subarray    ,0.298,Easy,3,Array,google|bloomberg|liveramp
+638,Shopping Offers    ,0.48,Medium,3,Depth First|Dynamic Programming,google
+960,Delete Columns to Make Sorted III    ,0.517,Hard,3,Dynamic Programming,google
+579,Find Cumulative Salary of an Employee    ,0.34,Hard,3,,amazon
+423,Reconstruct Original Digits from English    ,0.454,Medium,2,Math,
+382,Linked List Random Node    ,0.488,Medium,2,Reservoir Sampling,google|facebook|adobe|apple|linkedin|tencent
+663,Equal Tree Partition    ,0.378,Medium,2,Tree,amazon|facebook|snapchat
+919,Complete Binary Tree Inserter    ,0.547,Medium,2,Tree,google
+752,Open the Lock    ,0.45,Medium,2,breadth-first-search,google|facebook
+599,Minimum Index Sum of Two Lists    ,0.474,Easy,2,HashTable,yelp
+313,Super Ugly Number    ,0.407,Medium,2,Math|Heap,google|amazon
+670,Maximum Swap    ,0.393,Medium,2,Array|Math,facebook
+881,oats to Save People    ,0.432,Medium,2,Two Pointers|Greedy ,google
+396,Rotate Function    ,0.35,Medium,2,Math,amazon
+408,Valid Word Abbreviation    ,0.293,Easy,2,String,google|facebook
+525,Contiguous Array    ,0.424,Medium,2,HashTable,google|facebook|microsoft
+653,Two Sum IV - Input is a BST    ,0.521,Easy,2,Tree,google|amazon|facebook|adobe|snapchat|samsung|servicenow
+745,Prefix and Suffix Search    ,0.298,Hard,2,Trie,google|facebook|uber
+961,N-Repeated Element in Size 2N Array    ,0.731,Easy,2,HashTable,akamai
+786,K-th Smallest Prime Fraction    ,0.391,Hard,2,Binary Search|Heap,Pony.ai
+790,Domino and Tromino Tiling    ,0.353,Medium,2,Dynamic Programming,google
+330,Patching Array    ,0.332,Hard,2,Greedy ,google
+522,Longest Uncommon Subsequence II    ,0.327,Medium,2,String,google
+861,Score After Flipping Matrix    ,0.69,Medium,2,Greedy ,IIT Bombay
+976,Largest Perimeter Triangle    ,0.57,Easy,2,Math|Sort,C3 IoT
+575,Distribute Candies    ,0.593,Easy,2,HashTable,liveramp
+801,Minimum Swaps To Make Sequences Increasing    ,0.341,Medium,2,Dynamic Programming,amazon|facebook
+637,Average of Levels in Binary Tree    ,0.582,Easy,2,Tree,amazon|facebook
+696,Count Binary Substrings    ,0.528,Easy,2,String,adobe|Helix
 431,Encode N-ary Tree to Binary Tree    ,0.614,Hard,2,Tree,
-754,Reach a Number    ,0.318,Easy,2,Math,
-980,Unique Paths III    ,0.722,Hard,2,Depth First|Backtracking,
-972,Equal Rational Numbers    ,0.401,Hard,2,Math,
-839,Similar String Groups    ,0.341,Hard,2,Depth First|Graph|Union Find,
-294,Flip Game II    ,0.478,Medium,2,Backtracking|Minimax,
-263,Ugly Number    ,0.40399999999999997,Easy,2,Math,
-930,Binary Subarrays With Sum    ,0.37,Medium,2,HashTable|Two Pointers,
-685,Redundant Connection II    ,0.302,Hard,2,Depth First|Tree|Graph|Union Find,
-327,Count of Range Sum    ,0.322,Hard,2,Divide and Conquer|Binary Search Tree,
-691,Stickers to Spell Word    ,0.377,Hard,2,Dynamic Programming|Backtracking,
-945,Minimum Increment to Make Array Unique    ,0.42200000000000004,Medium,2,Array,
-764,Largest Plus Sign    ,0.43,Medium,2,Dynamic Programming,
-668,Kth Smallest Number in Multiplication Table    ,0.41200000000000003,Hard,2,Binary Search,
-682,Baseball Game    ,0.605,Easy,2,Stack,
-566,Reshape the Matrix    ,0.586,Easy,2,Array,
-676,Implement Magic Dictionary    ,0.512,Medium,2,HashTable|Trie,
-370,Range Addition    ,0.602,Medium,2,Array,
-495,Teemo Attacking    ,0.519,Medium,2,Array,
-778,Swim in Rising Water    ,0.46799999999999997,Hard,2,Depth First|Binary Search|Heap|Union Find,
-830,Positions of Large Groups    ,0.47600000000000003,Easy,2,Array,
-241,Different Ways to Add Parentheses    ,0.491,Medium,2,Divide and Conquer,
-520,Detect Capital    ,0.523,Easy,2,String,
-667,Beautiful Arrangement II    ,0.516,Medium,2,Array,
-775,Global and Local Inversions    ,0.381,Medium,2,Array|Math,
-563,Binary Tree Tilt    ,0.46799999999999997,Easy,2,Tree,
-510,Inorder Successor in BST II    ,0.539,Medium,2,Tree,
-551,Student Attendance Record I    ,0.452,Easy,2,String,
-331,Verify Preorder Serialization of a Binary Tree    ,0.38299999999999995,Medium,2,Stack,
-356,Line Reflection    ,0.308,Medium,2,HashTable|Math,
-965,Univalued Binary Tree    ,0.675,Easy,2,Tree,
-476,Number Complement    ,0.621,Easy,2,Bit Manipulation,
-893,Groups of Special-Equivalent Strings    ,0.618,Easy,2,String,
-762,Prime Number of Set Bits in Binary Representation    ,0.5820000000000001,Easy,2,Bit Manipulation,
-600,Non-negative Integers without Consecutive Ones    ,0.326,Hard,2,Dynamic Programming,
-677,Map Sum Pairs    ,0.512,Medium,2,Trie,
-768,Max Chunks To Make Sorted II    ,0.45399999999999996,Hard,2,Array,
-808,Soup Servings    ,0.36200000000000004,Medium,2,Dynamic Programming,
-481,Magical String    ,0.45799999999999996,Medium,2,,
-732,My Calendar III    ,0.5379999999999999,Hard,2,Binary Search Tree|Segment Tree,
-990,Satisfiability of Equality Equations    ,0.389,Medium,2,Graph|Union Find,
-927,Three Equal Parts    ,0.303,Hard,2,Binary Search|Greedy |Math,
-80,Remove Duplicates from Sorted Array II    ,0.397,Medium,2,Two Pointers|Array,
-666,Path Sum IV    ,0.516,Medium,2,Tree,
-645,Set Mismatch    ,0.405,Easy,2,HashTable|Math,
-886,Possible Bipartition    ,0.40299999999999997,Medium,2,Depth First,
-602,Friend Requests II: Who Has the Most Friends    ,0.44299999999999995,Medium,2,,
-1002,Find Common Characters    ,0.6779999999999999,Easy,2,HashTable|Array,
-606,Construct String from Binary Tree    ,0.512,Easy,2,String|Tree,
-519,Random Flip Matrix    ,0.325,Medium,2,Random,
-335,Self Crossing    ,0.26899999999999996,Hard,2,Math,
-541,Reverse String II    ,0.451,Easy,2,String,
-306,Additive Number    ,0.282,Medium,2,Backtracking,
-326,Power of Three    ,0.415,Easy,2,Math,
-517,Super Washing Machines    ,0.368,Hard,2,Math|Dynamic Programming,
-646,Maximum Length of Pair Chain    ,0.48200000000000004,Medium,2,Dynamic Programming,
-401,Binary Watch    ,0.451,Easy,2,Backtracking|Bit Manipulation,
-901,Online Stock Span    ,0.475,Medium,2,Stack,
-840,Magic Squares In Grid    ,0.35100000000000003,Easy,2,Array,
-848,Shifting Letters    ,0.39899999999999997,Medium,2,String,
-391,Perfect Rectangle    ,0.28,Hard,2,,
-455,Assign Cookies    ,0.48100000000000004,Easy,2,Greedy ,
-760,Find Anagram Mappings    ,0.7909999999999999,Easy,2,HashTable,
-374,Guess Number Higher or Lower    ,0.389,Easy,2,Binary Search,
-508,Most Frequent Subtree Sum    ,0.54,Medium,2,HashTable|Tree,
-720,Longest Word in Dictionary    ,0.44,Easy,2,HashTable|Trie,
-446,Arithmetic Slices II - Subsequence    ,0.299,Hard,2,Dynamic Programming,
-868,Binary Gap    ,0.594,Easy,2,Math,
+754,Reach a Number    ,0.318,Easy,2,Math,InMobi
+980,Unique Paths III    ,0.722,Hard,2,Depth First|Backtracking,amazon|LimeBike
+972,Equal Rational Numbers    ,0.401,Hard,2,Math,microsoft
+839,Similar String Groups    ,0.341,Hard,2,Depth First|Graph|Union Find,google
+294,Flip Game II    ,0.478,Medium,2,Backtracking|Minimax,google|rubrik
+263,Ugly Number    ,0.404,Easy,2,Math,amazon|adobe
+930,Binary Subarrays With Sum    ,0.37,Medium,2,HashTable|Two Pointers,C3 IoT
+685,Redundant Connection II    ,0.302,Hard,2,Depth First|Tree|Graph|Union Find,google
+327,Count of Range Sum    ,0.322,Hard,2,Divide and Conquer|Binary Search Tree,google
+691,Stickers to Spell Word    ,0.377,Hard,2,Dynamic Programming|Backtracking,ixl
+945,Minimum Increment to Make Array Unique    ,0.422,Medium,2,Array,coursera
+764,Largest Plus Sign    ,0.43,Medium,2,Dynamic Programming,facebook
+668,Kth Smallest Number in Multiplication Table    ,0.412,Hard,2,Binary Search,google
+682,Baseball Game    ,0.605,Easy,2,Stack,amazon
+566,Reshape the Matrix    ,0.586,Easy,2,Array,mathworks
+676,Implement Magic Dictionary    ,0.512,Medium,2,HashTable|Trie,google
+370,Range Addition    ,0.602,Medium,2,Array,google
+495,Teemo Attacking    ,0.519,Medium,2,Array,riot-games
+778,Swim in Rising Water    ,0.468,Hard,2,Depth First|Binary Search|Heap|Union Find,google|amazon
+830,Positions of Large Groups    ,0.476,Easy,2,Array,google|adobe
+241,Different Ways to Add Parentheses    ,0.491,Medium,2,Divide and Conquer,google|adobe|yelp
+520,Detect Capital    ,0.523,Easy,2,String,google
+667,Beautiful Arrangement II    ,0.516,Medium,2,Array,google
+775,Global and Local Inversions    ,0.381,Medium,2,Array|Math,amazon
+563,Binary Tree Tilt    ,0.468,Easy,2,Tree,indeed
+510,Inorder Successor in BST II    ,0.539,Medium,2,Tree,google
+551,Student Attendance Record I    ,0.452,Easy,2,String,google
+331,Verify Preorder Serialization of a Binary Tree    ,0.383,Medium,2,Stack,google|yahoo
+356,Line Reflection    ,0.308,Medium,2,HashTable|Math,google|microsoft|apple
+965,Univalued Binary Tree    ,0.675,Easy,2,Tree,box|twilio
+476,Number Complement    ,0.621,Easy,2,Bit Manipulation,google|cloudera
+893,Groups of Special-Equivalent Strings    ,0.618,Easy,2,String,facebook
+762,Prime Number of Set Bits in Binary Representation    ,0.582,Easy,2,Bit Manipulation,amazon
+600,Non-negative Integers without Consecutive Ones    ,0.326,Hard,2,Dynamic Programming,pocket-gems
+677,Map Sum Pairs    ,0.512,Medium,2,Trie,akuna capital
+768,Max Chunks To Make Sorted II    ,0.454,Hard,2,Array,google
+808,Soup Servings    ,0.362,Medium,2,Dynamic Programming,google
+481,Magical String    ,0.458,Medium,2,,google
+732,My Calendar III    ,0.538,Hard,2,Binary Search Tree|Segment Tree,google
+990,Satisfiability of Equality Equations    ,0.389,Medium,2,Graph|Union Find,sumologic
+927,Three Equal Parts    ,0.303,Hard,2,Binary Search|Greedy |Math,Hotstar
+80,Remove Duplicates from Sorted Array II    ,0.397,Medium,2,Two Pointers|Array,google|facebook|bloomberg|adobe|baidu
+666,Path Sum IV    ,0.516,Medium,2,Tree,alibaba
+645,Set Mismatch    ,0.405,Easy,2,HashTable|Math,amazon
+886,Possible Bipartition    ,0.403,Medium,2,Depth First,facebook|microsoft
+602,Friend Requests II: Who Has the Most Friends    ,0.443,Medium,2,,facebook
+1002,Find Common Characters    ,0.678,Easy,2,HashTable|Array,tripadvisor
+606,Construct String from Binary Tree    ,0.512,Easy,2,String|Tree,amazon|baidu
+519,Random Flip Matrix    ,0.325,Medium,2,Random,google
+335,Self Crossing    ,0.269,Hard,2,Math,
+541,Reverse String II    ,0.451,Easy,2,String,google
+306,Additive Number    ,0.282,Medium,2,Backtracking,epic-systems
+326,Power of Three    ,0.415,Easy,2,Math,google|facebook|apple
+517,Super Washing Machines    ,0.368,Hard,2,Math|Dynamic Programming,amazon
+646,Maximum Length of Pair Chain    ,0.482,Medium,2,Dynamic Programming,amazon
+401,Binary Watch    ,0.451,Easy,2,Backtracking|Bit Manipulation,google
+901,Online Stock Span    ,0.475,Medium,2,Stack,microsoft
+840,Magic Squares In Grid    ,0.351,Easy,2,Array,google
+848,Shifting Letters    ,0.399,Medium,2,String,
+391,Perfect Rectangle    ,0.28,Hard,2,,google
+455,Assign Cookies    ,0.481,Easy,2,Greedy ,
+760,Find Anagram Mappings    ,0.791,Easy,2,HashTable,google
+374,Guess Number Higher or Lower    ,0.389,Easy,2,Binary Search,google
+508,Most Frequent Subtree Sum    ,0.54,Medium,2,HashTable|Tree,amazon
+720,Longest Word in Dictionary    ,0.44,Easy,2,HashTable|Trie,google|amazon|pinterest|quip
+446,Arithmetic Slices II - Subsequence    ,0.299,Hard,2,Dynamic Programming,facebook|alibaba|baidu
+868,Binary Gap    ,0.594,Easy,2,Math,twitter|ebay
 492,Construct the Rectangle    ,0.485,Easy,2,,
-596,Classes More Than 5 Students    ,0.35,Easy,2,,
+596,Classes More Than 5 Students    ,0.35,Easy,2,,amazon
 462,Minimum Moves to Equal Array Elements II    ,0.523,Medium,2,Math,
-219,Contains Duplicate II    ,0.349,Easy,2,HashTable|Array,
-613,Shortest Distance in a Line    ,0.7240000000000001,Easy,2,,
-995,Minimum Number of K Consecutive Bit Flips    ,0.507,Hard,2,Greedy |Sliding Window,
-949,Largest Time for Given Digits    ,0.33299999999999996,Easy,2,Math,
-885,Spiral Matrix III    ,0.637,Medium,1,Math,
-444,Sequence Reconstruction    ,0.20199999999999999,Medium,1,Graph|Topological Sort,
-854,K-Similar Strings    ,0.32899999999999996,Hard,1,breadth-first-search|Graph,
-478,Generate Random Point in a Circle    ,0.361,Medium,1,Math|Random|Rejection Sampling,
-1008,Construct Binary Search Tree from Preorder Traversal    ,0.7290000000000001,Medium,1,Tree,
-601,Human Traffic of Stadium    ,0.35700000000000004,Hard,1,,
-643,Maximum Average Subarray I    ,0.391,Easy,1,Array,
+219,Contains Duplicate II    ,0.349,Easy,2,HashTable|Array,google|adobe|airbnb|palantir-technologies
+613,Shortest Distance in a Line    ,0.724,Easy,2,,
+995,Minimum Number of K Consecutive Bit Flips    ,0.507,Hard,2,Greedy |Sliding Window,akuna capital|Akuna
+949,Largest Time for Given Digits    ,0.333,Easy,2,Math,liveramp
+885,Spiral Matrix III    ,0.637,Medium,1,Math,Dataminr
+444,Sequence Reconstruction    ,0.202,Medium,1,Graph|Topological Sort,google
+854,K-Similar Strings    ,0.329,Hard,1,breadth-first-search|Graph,google
+478,Generate Random Point in a Circle    ,0.361,Medium,1,Math|Random|Rejection Sampling,Leap Motion
+1008,Construct Binary Search Tree from Preorder Traversal    ,0.729,Medium,1,Tree,
+601,Human Traffic of Stadium    ,0.357,Hard,1,,
+643,Maximum Average Subarray I    ,0.391,Easy,1,Array,google|amazon|adobe
 589,N-ary Tree Preorder Traversal    ,0.665,Easy,1,Tree,
-633,Sum of Square Numbers    ,0.32799999999999996,Easy,1,Math,
-1007,Minimum Domino Rotations For Equal Row    ,0.465,Medium,1,Greedy |Array,
-487,Max Consecutive Ones II    ,0.46399999999999997,Medium,1,Two Pointers,
-821,Shortest Distance to a Character    ,0.629,Easy,1,,
-275,H-Index II    ,0.35200000000000004,Medium,1,Binary Search,
-594,Longest Harmonious Subsequence    ,0.4320000000000001,Easy,1,HashTable,
-583,Delete Operation for Two Strings    ,0.444,Medium,1,String,
-565,Array Nesting    ,0.519,Medium,1,Array,
-538,Convert BST to Greater Tree    ,0.502,Easy,1,Tree,
-164,Maximum Gap    ,0.32,Hard,1,Sort,
-650,2 Keys Keyboard    ,0.462,Medium,1,Dynamic Programming,
-456,132 Pattern    ,0.27399999999999997,Medium,1,Stack,
-1004,Max Consecutive Ones III    ,0.518,Medium,1,Two Pointers|Sliding Window,
-996,Number of Squareful Arrays    ,0.47700000000000004,Hard,1,Math|Backtracking|Graph,
-948,Bag of Tokens    ,0.38799999999999996,Medium,1,Greedy ,
+633,Sum of Square Numbers    ,0.328,Easy,1,Math,facebook|linkedin
+1007,Minimum Domino Rotations For Equal Row    ,0.465,Medium,1,Greedy |Array,google
+487,Max Consecutive Ones II    ,0.464,Medium,1,Two Pointers,google
+821,Shortest Distance to a Character    ,0.629,Easy,1,,bloomberg
+275,H-Index II    ,0.352,Medium,1,Binary Search,facebook
+594,Longest Harmonious Subsequence    ,0.432,Easy,1,HashTable,liveramp
+583,Delete Operation for Two Strings    ,0.444,Medium,1,String,google|amazon
+565,Array Nesting    ,0.519,Medium,1,Array,google|apple
+538,Convert BST to Greater Tree    ,0.502,Easy,1,Tree,amazon
+164,Maximum Gap    ,0.32,Hard,1,Sort,microsoft
+650,2 Keys Keyboard    ,0.462,Medium,1,Dynamic Programming,google|microsoft|tencent
+456,132 Pattern    ,0.274,Medium,1,Stack,google
+1004,Max Consecutive Ones III    ,0.518,Medium,1,Two Pointers|Sliding Window,facebook
+996,Number of Squareful Arrays    ,0.477,Hard,1,Math|Backtracking|Graph,apple
+948,Bag of Tokens    ,0.388,Medium,1,Greedy ,google
 898,Bitwise ORs of Subarrays    ,0.332,Medium,1,Dynamic Programming|Bit Manipulation,
-944,Delete Columns to Make Sorted    ,0.695,Easy,1,Greedy ,
-971,Flip Binary Tree To Match Preorder Traversal    ,0.42200000000000004,Medium,1,Depth First|Tree,
-838,Push Dominoes    ,0.43,Medium,1,Two Pointers|Dynamic Programming,
-910,Smallest Range II    ,0.22899999999999998,Medium,1,Greedy |Math,
+944,Delete Columns to Make Sorted    ,0.695,Easy,1,Greedy ,google
+971,Flip Binary Tree To Match Preorder Traversal    ,0.422,Medium,1,Depth First|Tree,
+838,Push Dominoes    ,0.43,Medium,1,Two Pointers|Dynamic Programming,google
+910,Smallest Range II    ,0.229,Medium,1,Greedy |Math,adobe
 436,Find Right Interval    ,0.425,Medium,1,Binary Search,
-994,Rotting Oranges    ,0.462,Easy,1,breadth-first-search,
-473,Matchsticks to Square    ,0.358,Medium,1,Depth First,
-781,Rabbits in Forest    ,0.51,Medium,1,HashTable|Math,
-693,Binary Number with Alternating Bits    ,0.5760000000000001,Easy,1,Bit Manipulation,
-747,Largest Number At Least Twice of Others    ,0.40299999999999997,Easy,1,Array,
-434,Number of Segments in a String    ,0.3670000000000001,Easy,1,String,
-812,Largest Triangle Area    ,0.5529999999999999,Easy,1,Math,
-959,Regions Cut By Slashes    ,0.618,Medium,1,Depth First|Graph|Union Find,
-860,Lemonade Change    ,0.502,Easy,1,Greedy ,
-954,Array of Doubled Pairs    ,0.342,Medium,1,HashTable|Array,
-598,Range Addition II    ,0.485,Easy,1,Math,
-888,Fair Candy Swap    ,0.563,Easy,1,Array,
-962,Maximum Width Ramp    ,0.41,Medium,1,Array,
-744,Find Smallest Letter Greater Than Target    ,0.4370000000000001,Easy,1,Binary Search,
+994,Rotting Oranges    ,0.462,Easy,1,breadth-first-search,google|amazon
+473,Matchsticks to Square    ,0.358,Medium,1,Depth First,Rackspace
+781,Rabbits in Forest    ,0.51,Medium,1,HashTable|Math,wish
+693,Binary Number with Alternating Bits    ,0.576,Easy,1,Bit Manipulation,yahoo
+747,Largest Number At Least Twice of Others    ,0.403,Easy,1,Array,google
+434,Number of Segments in a String    ,0.367,Easy,1,String,
+812,Largest Triangle Area    ,0.553,Easy,1,Math,google
+959,Regions Cut By Slashes    ,0.618,Medium,1,Depth First|Graph|Union Find,uber
+860,Lemonade Change    ,0.502,Easy,1,Greedy ,amazon
+954,Array of Doubled Pairs    ,0.342,Medium,1,HashTable|Array,google
+598,Range Addition II    ,0.485,Easy,1,Math,ixl
+888,Fair Candy Swap    ,0.563,Easy,1,Array,Fidessa
+962,Maximum Width Ramp    ,0.41,Medium,1,Array,google
+744,Find Smallest Letter Greater Than Target    ,0.437,Easy,1,Binary Search,linkedin
 584,Find Customer Referee    ,0.669,Easy,1,,
-292,Nim Game    ,0.555,Easy,1,Minimax|Brainteaser,
-748,Shortest Completing Word    ,0.537,Easy,1,HashTable,
-506,Relative Ranks    ,0.48,Easy,1,,
-620,Not Boring Movies    ,0.615,Easy,1,,
-806,Number of Lines To Write String    ,0.626,Easy,1,,
-997,Find the Town Judge    ,0.48200000000000004,Easy,1,Graph,
-1013,Pairs of Songs With Total Durations Divisible by 60    ,0.433,Easy,1,Array,
-779,K-th Symbol in Grammar    ,0.37799999999999995,Medium,1,Recursion,
-1006,Clumsy Factorial    ,0.55,Medium,1,Math,
-1001,Grid Illumination    ,0.33899999999999997,Hard,1,HashTable,
-1014,Capacity To Ship Packages Within D Days    ,0.503,Medium,1,Binary Search|Array,
-999,Available Captures for Rook    ,0.685,Easy,1,Array,
-989,Add to Array-Form of Integer    ,0.45,Easy,1,Array,
-1003,Check If Word Is Valid After Substitutions    ,0.521,Medium,1,String|Stack,
-993,Cousins in Binary Tree    ,0.529,Easy,1,breadth-first-search|Tree,
-998,Maximum Binary Tree II    ,0.625,Medium,1,Tree,
-1023,Binary String With Substrings Representing 1 To N    New 65.4%,,,1,String,
-1022,Smallest Integer Divisible by K    New.  23.4%,,,1,Math,
-1021,Best Sightseeing Pair    New  42.1%,,,1,Array,
-1020,Partition Array Into Three Parts With Equal Sum    New. 51.9%,,,1,Array,
-1015,Numbers With Repeated Digits    ,0.337,Hard,1,Math|Dynamic Programming,
-1012,Complement of Base 10 Integer    ,0.581,Easy,1,Math,
-1005,Maximize Sum Of Array After K Negations    ,0.49,Easy,1,Greedy ,
-1000,Minimum Cost to Merge Stones    ,0.261,Hard,1,Dynamic Programming,
-991,Broken Calculator    ,0.387,Medium,1,Greedy |Math,
-988,Smallest String Starting From Leaf    ,0.5,Medium,1,Depth First|Tree,
-985,Sum of Even Numbers After Queries    ,0.6659999999999999,Easy,1,Array,
-982,Triples with Bitwise AND Equal To Zero    ,0.531,Hard,1,Dynamic Programming,
+292,Nim Game    ,0.555,Easy,1,Minimax|Brainteaser,adobe
+748,Shortest Completing Word    ,0.537,Easy,1,HashTable,google|linkedin
+506,Relative Ranks    ,0.48,Easy,1,,google|adobe
+620,Not Boring Movies    ,0.615,Easy,1,,adobe
+806,Number of Lines To Write String    ,0.626,Easy,1,,google
+997,Find the Town Judge    ,0.482,Easy,1,Graph,amazon|Arista
+1013,Pairs of Songs With Total Durations Divisible by 60    ,0.433,Easy,1,Array,goldman-sachs
+779,K-th Symbol in Grammar    ,0.378,Medium,1,Recursion,google
+1006,Clumsy Factorial    ,0.55,Medium,1,Math,microsoft
+1001,Grid Illumination    ,0.339,Hard,1,HashTable,dropbox
+1014,Capacity To Ship Packages Within D Days    ,0.503,Medium,1,Binary Search|Array,google
+999,Available Captures for Rook    ,0.685,Easy,1,Array,square
+989,Add to Array-Form of Integer    ,0.45,Easy,1,Array,facebook
+1003,Check If Word Is Valid After Substitutions    ,0.521,Medium,1,String|Stack,nutanix
+993,Cousins in Binary Tree    ,0.529,Easy,1,breadth-first-search|Tree,bloomberg
+998,Maximum Binary Tree II    ,0.625,Medium,1,Tree,facebook
+1023,Binary String With Substrings Representing 1 To N    New 65.4%,,,1,String,google
+1022,Smallest Integer Divisible by K    New.  23.4%,,,1,Math,google
+1021,Best Sightseeing Pair    New  42.1%,,,1,Array,wayfair
+1020,Partition Array Into Three Parts With Equal Sum    New. 51.9%,,,1,Array,microsoft
+1015,Numbers With Repeated Digits    ,0.337,Hard,1,Math|Dynamic Programming,google
+1012,Complement of Base 10 Integer    ,0.581,Easy,1,Math,cloudera
+1005,Maximize Sum Of Array After K Negations    ,0.49,Easy,1,Greedy ,druva
+1000,Minimum Cost to Merge Stones    ,0.261,Hard,1,Dynamic Programming,google
+991,Broken Calculator    ,0.387,Medium,1,Greedy |Math,nutanix
+988,Smallest String Starting From Leaf    ,0.5,Medium,1,Depth First|Tree,google
+985,Sum of Even Numbers After Queries    ,0.666,Easy,1,Array,indeed
+982,Triples with Bitwise AND Equal To Zero    ,0.531,Hard,1,Dynamic Programming,Flipkart
 970,Powerful Integers    ,0.397,Easy,1,HashTable|Math,
-955,Delete Columns to Make Sorted II    ,0.308,Medium,1,Greedy ,
-952,Largest Component Size by Common Factor    ,0.256,Hard,1,Math|Union Find,
-906,Super Palindromes    ,0.298,Hard,1,Math,
+955,Delete Columns to Make Sorted II    ,0.308,Medium,1,Greedy ,google
+952,Largest Component Size by Common Factor    ,0.256,Hard,1,Math|Union Find,google
+906,Super Palindromes    ,0.298,Hard,1,Math,google
 903,Valid Permutations for DI Sequence    ,0.419,Hard,1,Dynamic Programming|Divide and Conquer,
-902,Numbers At Most N Given Digit Set    ,0.27899999999999997,Hard,1,Math|Dynamic Programming,
-899,Orderly Queue    ,0.46399999999999997,Hard,1,Math|String,
-891,Sum of Subsequence Widths    ,0.28300000000000003,Hard,1,Array|Math,
+902,Numbers At Most N Given Digit Set    ,0.279,Hard,1,Math|Dynamic Programming,amazon
+899,Orderly Queue    ,0.464,Hard,1,Math|String,amazon
+891,Sum of Subsequence Widths    ,0.283,Hard,1,Array|Math,Sapient
 882,Reachable Nodes In Subdivided Graph    ,0.369,Hard,1,Heap,
-880,Decoded String at Index    ,0.22899999999999998,Medium,1,Stack,
+880,Decoded String at Index    ,0.229,Medium,1,Stack,National Instruments
 875,Koko Eating Bananas    ,0.452,Medium,1,Binary Search,
-870,Advantage Shuffle    ,0.41600000000000004,Medium,1,Greedy |Array,
+870,Advantage Shuffle    ,0.416,Medium,1,Greedy |Array,
 869,Reordered Power of 2    ,0.503,Medium,1,Math,
-858,Mirror Reflection    ,0.516,Medium,1,Math,
-851,Loud and Rich    ,0.47,Medium,1,Depth First,
-842,Split Array into Fibonacci Sequence    ,0.34600000000000003,Medium,1,Greedy |String|Backtracking,
+858,Mirror Reflection    ,0.516,Medium,1,Math,google
+851,Loud and Rich    ,0.47,Medium,1,Depth First,amazon
+842,Split Array into Fibonacci Sequence    ,0.346,Medium,1,Greedy |String|Backtracking,amazon
 641,Design Circular Deque    ,0.49,Medium,1,Design|Queue,
-831,Masking Personal Information    ,0.41700000000000004,Medium,1,String,
-820,Short Encoding of Words    ,0.46299999999999997,Medium,1,,
-816,Ambiguous Coordinates    ,0.434,Medium,1,String,
-810,Chalkboard XOR Game    ,0.436,Hard,1,Math,
-802,Find Eventual Safe States    ,0.429,Medium,1,Depth First|Graph,
-795,Number of Subarrays with Bounded Maximum    ,0.426,Medium,1,Array,
-793,Preimage Size of Factorial Zeroes Function    ,0.392,Hard,1,Binary Search,
-789,Escape The Ghosts    ,0.5489999999999999,Medium,1,Math,
-782,Transform to Chessboard    ,0.39399999999999996,Hard,1,Array|Math,
-758,Bold Words in String    ,0.419,Easy,1,String,
-757,Set Intersection Size At Least Two    ,0.366,Hard,1,Greedy ,
-749,Contain Virus    ,0.40700000000000003,Hard,0,Depth First,
-738,Monotone Increasing Digits    ,0.414,Medium,0,Greedy ,
-711,Number of Distinct Islands II    ,0.45399999999999996,Hard,0,HashTable|Depth First,
-672,Bulb Switcher II    ,0.496,Medium,0,Math,
-664,Strange Printer    ,0.35700000000000004,Hard,0,Depth First|Dynamic Programming,
-660,Remove 9    ,0.512,Hard,0,Math,
-656,Coin Path    ,0.266,Hard,0,Dynamic Programming,
-651,4 Keys Keyboard    ,0.501,Medium,0,Greedy |Math|Dynamic Programming,
-649,Dota2 Senate    ,0.3720000000000001,Medium,0,Greedy ,
-644,Maximum Average Subarray II    ,0.281,Hard,0,Binary Search|Array,
-634,Find the Derangement of An Array    ,0.373,Medium,0,Math,
-629,K Inverse Pairs Array    ,0.29,Hard,0,Dynamic Programming,
-625,Minimum Factorization    ,0.318,Medium,0,Math|Recursion,
-624,Maximum Distance in Arrays    ,0.37,Easy,0,HashTable|Array,
-623,Add One Row to Tree    ,0.47,Medium,0,Tree,
+831,Masking Personal Information    ,0.417,Medium,1,String,twitter
+820,Short Encoding of Words    ,0.463,Medium,1,,
+816,Ambiguous Coordinates    ,0.434,Medium,1,String,google
+810,Chalkboard XOR Game    ,0.436,Hard,1,Math,Garena
+802,Find Eventual Safe States    ,0.429,Medium,1,Depth First|Graph,google
+795,Number of Subarrays with Bounded Maximum    ,0.426,Medium,1,Array,adobe
+793,Preimage Size of Factorial Zeroes Function    ,0.392,Hard,1,Binary Search,amazon|adobe
+789,Escape The Ghosts    ,0.549,Medium,1,Math,google
+782,Transform to Chessboard    ,0.394,Hard,1,Array|Math,google
+758,Bold Words in String    ,0.419,Easy,1,String,google
+757,Set Intersection Size At Least Two    ,0.366,Hard,1,Greedy ,Drawbridge
+749,Contain Virus    ,0.407,Hard,0,Depth First,bloomberg
+738,Monotone Increasing Digits    ,0.414,Medium,0,Greedy ,amazon
+711,Number of Distinct Islands II    ,0.454,Hard,0,HashTable|Depth First,amazon
+672,Bulb Switcher II    ,0.496,Medium,0,Math,google|microsoft
+664,Strange Printer    ,0.357,Hard,0,Depth First|Dynamic Programming,netease
+660,Remove 9    ,0.512,Hard,0,Math,houzz
+656,Coin Path    ,0.266,Hard,0,Dynamic Programming,google
+651,4 Keys Keyboard    ,0.501,Medium,0,Greedy |Math|Dynamic Programming,google|microsoft
+649,Dota2 Senate    ,0.372,Medium,0,Greedy ,valve
+644,Maximum Average Subarray II    ,0.281,Hard,0,Binary Search|Array,google
+634,Find the Derangement of An Array    ,0.373,Medium,0,Math,ixl
+629,K Inverse Pairs Array    ,0.29,Hard,0,Dynamic Programming,works-applications
+625,Minimum Factorization    ,0.318,Medium,0,Math|Recursion,tencent
+624,Maximum Distance in Arrays    ,0.37,Easy,0,HashTable|Array,yahoo
+623,Add One Row to Tree    ,0.47,Medium,0,Tree,microsoft|Gilt Groupe
 619,Biggest Single Number    ,0.384,Easy,0,,
-618,Students Report By Geography    ,0.42100000000000004,Hard,0,,
+618,Students Report By Geography    ,0.421,Hard,0,,
 615,Average Salary: Departments VS Company    ,0.361,Hard,0,,
 612,Shortest Distance in a Plane    ,0.532,Medium,0,,
 610,Triangle Judgement    ,0.61,Easy,0,,
 607,Sales Person    ,0.555,Easy,0,,
-604,Design Compressed String Iterator    ,0.344,Easy,0,Design,
+604,Design Compressed String Iterator    ,0.344,Easy,0,Design,google
 603,Consecutive Available Seats    ,0.575,Easy,0,,
-587,Erect the Fence    ,0.34299999999999997,Hard,0,Geometry,
-586,Customer Placing the Largest Number of Orders    ,0.657,Easy,0,,
-585,Investments in 2016    ,0.467,Medium,0,,
-580,Count Student Number in Departments    ,0.42100000000000004,Medium,0,,
-578,Get Highest Answer Rate Question    ,0.355,Medium,0,,
-577,Employee Bonus    ,0.578,Easy,0,,
-576,Out of Boundary Paths    ,0.314,Medium,0,Depth First|Dynamic Programming,
+587,Erect the Fence    ,0.343,Hard,0,Geometry,google
+586,Customer Placing the Largest Number of Orders    ,0.657,Easy,0,,twitter
+585,Investments in 2016    ,0.467,Medium,0,,twitter
+580,Count Student Number in Departments    ,0.421,Medium,0,,twitter
+578,Get Highest Answer Rate Question    ,0.355,Medium,0,,facebook
+577,Employee Bonus    ,0.578,Easy,0,,Netsuite
+576,Out of Boundary Paths    ,0.314,Medium,0,Depth First|Dynamic Programming,baidu
 574,Winning Candidate    ,0.359,Medium,0,,
-573,Squirrel Simulation    ,0.532,Medium,0,Math,
-571,Find Median Given Frequency of Numbers    ,0.474,Hard,0,,
-570,Managers with at Least 5 Direct Reports    ,0.617,Medium,0,,
-569,Median Employee Salary    ,0.45799999999999996,Hard,0,,
-555,Split Concatenated Strings    ,0.397,Medium,0,String,
-553,Optimal Division    ,0.551,Medium,0,Math|String,
-537,Complex Number Multiplication    ,0.652,Medium,0,Math|String,
-514,Freedom Trail    ,0.40399999999999997,Hard,0,Depth First|Dynamic Programming|Divide and Conquer,
-502,IPO    ,0.375,Hard,0,Greedy |Heap,
-483,Smallest Good Base    ,0.34,Hard,0,Binary Search|Math,
-474,Ones and Zeroes    ,0.39399999999999996,Medium,0,Dynamic Programming,
-469,Convex Polygon    ,0.35200000000000004,Medium,0,Math,
-467,Unique Substrings in Wraparound String    ,0.335,Medium,0,Dynamic Programming,
-466,Count The Repetitions    ,0.27399999999999997,Hard,0,Dynamic Programming,
-439,Ternary Expression Parser    ,0.532,Medium,0,Depth First|Stack,
-422,Valid Word Square    ,0.365,Easy,0,,
-411,Minimum Unique Word Abbreviation    ,0.34700000000000003,Hard,0,Backtracking|Bit Manipulation,
-293,Flip Game    ,0.586,Ea,0,String,
+573,Squirrel Simulation    ,0.532,Medium,0,Math,square
+571,Find Median Given Frequency of Numbers    ,0.474,Hard,0,,pinterest
+570,Managers with at Least 5 Direct Reports    ,0.617,Medium,0,,bloomberg
+569,Median Employee Salary    ,0.458,Hard,0,,google|amazon
+555,Split Concatenated Strings    ,0.397,Medium,0,String,alibaba
+553,Optimal Division    ,0.551,Medium,0,Math|String,amazon
+537,Complex Number Multiplication    ,0.652,Medium,0,Math|String,amazon
+514,Freedom Trail    ,0.404,Hard,0,Depth First|Dynamic Programming|Divide and Conquer,google
+502,IPO    ,0.375,Hard,0,Greedy |Heap,amazon
+483,Smallest Good Base    ,0.34,Hard,0,Binary Search|Math,google
+474,Ones and Zeroes    ,0.394,Medium,0,Dynamic Programming,google
+469,Convex Polygon    ,0.352,Medium,0,Math,google
+467,Unique Substrings in Wraparound String    ,0.335,Medium,0,Dynamic Programming,MAQ Software
+466,Count The Repetitions    ,0.274,Hard,0,Dynamic Programming,
+439,Ternary Expression Parser    ,0.532,Medium,0,Depth First|Stack,facebook|snapchat
+422,Valid Word Square    ,0.365,Easy,0,,google
+411,Minimum Unique Word Abbreviation    ,0.347,Hard,0,Backtracking|Bit Manipulation,google
+293,Flip Game    ,0.586,Ea,0,String,google
