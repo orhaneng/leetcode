@@ -1009,4 +1009,4 @@ LeetcodeId,Title,Acceptance,Difficulty,Frequency,Topic,Company
 439,Ternary Expression Parser    ,0.532,Medium,0,Depth First|Stack,facebook|snapchat
 422,Valid Word Square    ,0.365,Easy,0,,google
 411,Minimum Unique Word Abbreviation    ,0.347,Hard,0,Backtracking|Bit Manipulation,google
-293,Flip Game    ,0.586,Ea,0,String,google
+293,Flip Game    ,0.586,Easy,0,String,google
