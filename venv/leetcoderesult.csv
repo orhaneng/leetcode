@@ -1,0 +1,1015 @@
+LeetcodeId,Title,Acceptance,Difficulty,Frequency,Topic
+1,Two Sum    ,0.427,Easy,10,HashTable|Array
+2,Add Two Numbers    ,0.308,Medium,10,Math|Linked List
+146,LRU Cache    ,0.245,Hard,10,Design
+200,Number of Islands    ,0.407,Medium,10,Depth First|breadth-first-search|Union Find
+4,Median of Two Sorted Arrays    ,0.258,Hard,10,Binary Search|Array|Divide and Conquer
+42,Trapping Rain Water    ,0.423,Hard,10,Two Pointers|Array|Stack
+929,Unique Email Addresses    ,0.748,Easy,10,String
+904,Fruit Into Baskets    ,0.41,Medium,10,Two Pointers
+5,Longest Palindromic Substring    ,0.268,Medium,10,Dynamic Programming|String
+3,Longest Substring Without Repeating Characters    ,0.281,Medium,10,HashTable|Two Pointers|String|Sliding Window
+15,3Sum    ,0.236,Medium,10,Two Pointers|Array
+138,Copy List with Random Pointer    ,0.261,Medium,10,HashTable|Linked List
+20,Valid Parentheses    ,0.361,Easy,10,String|Stack
+56,Merge Intervals    ,0.351,Medium,10,Array|Sort
+21,Merge Two Sorted Lists    ,0.463,Easy,10,Linked List
+53,Maximum Subarray    ,0.43,Easy,10,Array|Dynamic Programming|Divide and Conquer
+253,Meeting Rooms II    ,0.425,Medium,10,Greedy |Heap|Sort
+273,Integer to English Words    ,0.24,Hard,10,Math|String
+206,Reverse Linked List    ,0.533,Easy,10,Linked List
+301,Remove Invalid Parentheses    ,0.387,Hard,10,Depth First|breadth-first-search
+121,Best Time to Buy and Sell Stock    ,0.465,Easy,10,Array|Dynamic Programming
+23,Merge k Sorted Lists    ,0.334,Hard,10,Linked List|Heap|Divide and Conquer
+175,Combine Two Tables    ,0.5,Easy,10,
+7,Reverse Integer    ,0.252,Easy,10,Math
+238,Product of Array Except Self    ,0.542,Medium,10,Array
+973,K Closest Points to Origin    ,0.646,Medium,10,Heap|Sort|Divide and Conquer
+269,Alien Dictionary    ,0.304,Hard,10,Graph|Topological Sort
+11,Container With Most Water    ,0.432,Medium,10,Two Pointers|Array
+297,Serialize and Deserialize Binary Tree    ,0.398,Hard,10,Tree|Design
+924,Minimize Malware Spread    ,0.393,Hard,10,Depth First|Union Find
+76,Minimum Window Substring    ,0.301,Hard,10,HashTable|Two Pointers|String|Sliding Window
+33,Search in Rotated Sorted Array    ,0.327,Medium,10,Binary Search|Array
+22,Generate Parentheses    ,0.537,Medium,10,String|Backtracking
+31,Next Permutation    ,0.302,Medium,10,Array
+771,Jewels and Stones    ,0.829,Easy,10,HashTable
+811,Subdomain Visit Count    ,0.643,Easy,10,HashTable
+141,Linked List Cycle    ,0.361,Easy,10,Two Pointers|Linked List
+322,Coin Change    ,0.295,Medium,10,Dynamic Programming
+9,Palindrome Number    ,0.424,Easy,10,Math
+10,Regular Expression Matching    ,0.251,Hard,10,Dynamic Programming|String|Backtracking
+482,License Key Formatting    ,0.405,Easy,10,
+289,Game of Life    ,0.44,Medium,10,Array
+560,Subarray Sum Equals K    ,0.418,Medium,10,HashTable|Array
+54,Spiral Matrix    ,0.299,Medium,10,Array
+829,Consecutive Numbers Sum    ,0.324,Hard,10,Math
+412,Fizz Buzz    ,0.59,Easy,10,
+46,Permutations    ,0.539,Medium,10,Backtracking
+642,Design Search Autocomplete System    ,0.364,Hard,10,Design|Trie
+85,Maximal Rectangle    ,0.326,Hard,10,HashTable|Array|Dynamic Programming|Stack
+8,String to Integer (atoi)    ,0.145,Medium,10,Math|String
+49,Group Anagrams    ,0.453,Medium,10,HashTable|String
+399,Evaluate Division    ,0.469,Medium,10,Graph|Union Find
+17,Letter Combinations of a Phone Number    ,0.408,Medium,10,String|Backtracking
+215,Kth Largest Element in an Array    ,0.465,Medium,10,Heap|Divide and Conquer
+88,Merge Sorted Array    ,0.351,Easy,10,Two Pointers|Array
+139,Word Break    ,0.346,Medium,10,Dynamic Programming
+79,Word Search    ,0.306,Medium,10,Array|Backtracking
+224,Basic Calculator    ,0.32,Hard,10,Math|Stack
+295,Find Median from Data Stream    ,0.354,Hard,10,Design|Heap
+975,Odd Even Jump    ,0.5,Hard,10,Dynamic Programming|Stack|Binary Search Tree
+621,Task Scheduler    ,0.447,Medium,10,Greedy |Array|Queue
+393,UTF-8 Validation    ,0.355,Medium,10,Bit Manipulation
+41,First Missing Positive    ,0.284,Hard,10,Array
+13,Roman to Integer    ,0.518,Easy,10,Math|String
+151,Reverse Words in a String    ,0.161,Medium,10,String
+127,Word Ladder    ,0.233,Medium,9,breadth-first-search
+380,Insert Delete GetRandom O(1)    ,0.422,Medium,9,HashTable|Array|Design
+843,Guess the Word    ,0.426,Hard,9,Minimax
+103,Binary Tree Zigzag Level Order Traversal    ,0.408,Medium,9,breadth-first-search|Tree|Stack
+344,Reverse String    ,0.629,Easy,9,Two Pointers|String
+528,Random Pick with Weight    ,0.428,Medium,9,Binary Search|Random
+98,Validate Binary Search Tree    ,0.254,Medium,9,Depth First|Tree
+394,Decode String    ,0.441,Medium,9,Depth First|Stack
+,,,,9,
+,,,,9,
+######################,,,,9,
+923,3Sum With Multiplicity    ,0.328,Medium,9,Two Pointers
+67,Add Binary    ,0.383,Easy,9,Math|String
+124,Binary Tree Maximum Path Sum    ,0.295,Hard,9,Depth First|Tree
+283,Move Zeroes    ,0.538,Easy,9,Two Pointers|Array
+193,Valid Phone Numbers    ,0.25,Easy,9,
+609,Find Duplicate File in System    ,0.544,Medium,9,HashTable|String
+336,Palindrome Pairs    ,0.304,Hard,9,HashTable|String|Trie
+192,Word Frequency    ,0.267,Medium,9,
+72,Edit Distance    ,0.368,Hard,9,Dynamic Programming|String
+25,Reverse Nodes in k-Group    ,0.357,Hard,9,Linked List
+91,Decode Ways    ,0.22,Medium,9,Dynamic Programming|String
+173,Binary Search Tree Iterator    ,0.476,Medium,9,Tree|Stack|Design
+236,Lowest Common Ancestor of a Binary Tree    ,0.36,Medium,9,Tree
+50,"Pow(x, n)    ",0.277,Medium,9,Binary Search|Math
+158,Read N Characters Given Read4 II - Call multiple times    ,0.254,Hard,9,String
+844,Backspace String Compare    ,0.455,Easy,9,Two Pointers|Stack
+332,Reconstruct Itinerary    ,0.308,Medium,9,Depth First|Graph
+755,Pour Water    ,0.394,Medium,9,Array
+772,Basic Calculator III    ,0.438,Hard,9,String|Stack
+716,Max Stack    ,0.394,Easy,9,Design
+68,Text Justification    ,0.227,Hard,9,String
+195,Tenth Line    ,0.34,Easy,9,
+239,Sliding Window Maximum    ,0.374,Hard,9,Heap|Sliding Window
+347,Top K Frequent Elements    ,0.538,Medium,9,HashTable|Heap
+176,Second Highest Salary    ,0.265,Easy,9,
+695,Max Area of Island    ,0.563,Medium,9,Depth First|Array
+155,Min Stack    ,0.361,Easy,9,Stack|Design
+312,Burst Balloons    ,0.465,Hard,9,Dynamic Programming|Divide and Conquer
+212,Word Search II    ,0.278,Hard,9,Backtracking|Trie
+159,Longest Substring with At Most Two Distinct Characters    ,0.464,Hard,9,HashTable|Two Pointers|String|Sliding Window
+947,Most Stones Removed with Same Row or Column    ,0.54,Medium,9,Depth First|Union Find
+489,Robot Room Cleaner    ,0.63,Hard,9,Depth First
+692,Top K Frequent Words    ,0.45,Medium,9,HashTable|Heap|Trie
+32,Longest Valid Parentheses    ,0.251,Hard,9,Dynamic Programming|String
+341,Flatten Nested List Iterator    ,0.471,Medium,9,Stack|Design
+857,Minimum Cost to Hire K Workers    ,0.468,Hard,9,Heap
+39,Combination Sum    ,0.472,Medium,9,Array|Backtracking
+143,Reorder List    ,0.301,Medium,9,Linked List
+43,Multiply Strings    ,0.301,Medium,9,Math|String
+6,ZigZag Conversion    ,0.31,Medium,9,String
+636,Exclusive Time of Functions    ,0.482,Medium,9,Stack
+48,Rotate Image    ,0.473,Medium,9,Array
+362,Design Hit Counter    ,0.584,Medium,9,Design
+177,Nth Highest Salary    ,0.253,Medium,9,
+149,Max Points on a Line    ,0.156,Hard,9,HashTable|Math
+12,Integer to Roman    ,0.501,Medium,9,Math|String
+277,Find the Celebrity    ,0.359,Medium,9,Array
+706,Design HashMap    ,0.55,Easy,9,HashTable|Design
+300,Longest Increasing Subsequence    ,0.404,Medium,9,Binary Search|Dynamic Programming
+16,3Sum Closest    ,0.418,Medium,9,Two Pointers|Array
+681,Next Closest Time    ,0.424,Medium,9,String
+37,Sudoku Solver    ,0.36,Hard,9,HashTable|Backtracking
+126,Word Ladder II    ,0.172,Hard,9,breadth-first-search|Array|String|Backtracking
+207,Course Schedule    ,0.37,Medium,9,Depth First|breadth-first-search|Graph|Topological Sort
+443,String Compression    ,0.371,Easy,9,String
+128,Longest Consecutive Sequence    ,0.411,Hard,9,Array|Union Find
+735,Asteroid Collision    ,0.38,Medium,9,Stack
+939,Minimum Area Rectangle    ,0.5,Medium,9,HashTable
+547,Friend Circles    ,0.529,Medium,9,Depth First|Union Find
+364,Nested List Weight Sum II    ,0.57,Medium,9,Depth First
+387,First Unique Character in a String    ,0.494,Easy,9,HashTable|String
+282,Expression Add Operators    ,0.324,Hard,9,Divide and Conquer
+432,All O`one Data Structure    ,0.29,Hard,9,Design
+222,Count Complete Tree Nodes    ,0.32,Medium,9,Binary Search|Tree
+14,Longest Common Prefix    ,0.331,Easy,9,String
+218,The Skyline Problem    ,0.312,Hard,9,Heap|Divide and Conquer|Segment Tree|Binary Indexed Tree
+679,24 Game    ,0.42,Hard,9,Depth First
+92,Reverse Linked List II    ,0.343,Medium,9,Linked List
+349,Intersection of Two Arrays    ,0.534,Easy,9,HashTable|Binary Search|Two Pointers|Sort
+227,Basic Calculator II    ,0.328,Medium,9,String
+133,Clone Graph    ,0.256,Medium,9,Depth First|breadth-first-search|Graph
+460,LFU Cache    ,0.283,Hard,9,Design
+38,Count and Say    ,0.398,Easy,9,String
+770,Basic Calculator IV    ,0.449,Hard,9,HashTable|String|Stack
+348,Design Tic-Tac-Toe    ,0.489,Medium,9,Design
+55,Jump Game    ,0.315,Medium,9,Greedy |Array
+647,Palindromic Substrings    ,0.562,Medium,9,Dynamic Programming|String
+242,Valid Anagram    ,0.513,Easy,9,HashTable|Sort
+78,Subsets    ,0.515,Medium,9,Array|Backtracking|Bit Manipulation
+105,Construct Binary Tree from Preorder and Inorder Traversal    ,0.399,Medium,9,Depth First|Array|Tree
+329,Longest Increasing Path in a Matrix    ,0.394,Hard,9,Depth First|Topological Sort|Memoization
+140,Word Break II    ,0.268,Hard,9,Dynamic Programming|Backtracking
+564,Find the Closest Palindrome    ,0.184,Hard,9,String
+449,Serialize and Deserialize BST    ,0.461,Medium,9,Tree
+535,Encode and Decode TinyURL    ,0.761,Medium,9,HashTable|Math
+445,Add Two Numbers II    ,0.495,Medium,9,Linked List
+162,Find Peak Element    ,0.409,Medium,9,Binary Search|Array
+258,Add Digits    ,0.537,Easy,9,Math
+57,Insert Interval    ,0.309,Hard,9,Array|Sort
+51,N-Queens    ,0.381,Hard,8,Backtracking
+203,Remove Linked List Elements    ,0.354,Easy,8,Linked List
+19,Remove Nth Node From End of List    ,0.341,Medium,8,Two Pointers|Linked List
+199,Binary Tree Right Side View    ,0.47,Medium,8,Depth First|breadth-first-search|Tree
+974,Subarray Sums Divisible by K    ,0.427,Medium,8,HashTable|Array
+339,Nested List Weight Sum    ,0.674,Easy,8,Depth First
+45,Jump Game II    ,0.277,Hard,8,Greedy |Array
+324,Wiggle Sort II    ,0.276,Medium,8,Sort
+543,Diameter of Binary Tree    ,0.463,Easy,8,Tree
+125,Valid Palindrome    ,0.305,Easy,8,Two Pointers|String
+935,Knight Dialer    ,0.389,Medium,8,Dynamic Programming
+426,Convert Binary Search Tree to Sorted Doubly Linked List    ,0.505,Medium,8,Tree|Linked List|Divide and Conquer
+221,Maximal Square    ,0.324,Medium,8,Dynamic Programming
+34,Find First and Last Position of Element in Sorted Array    ,0.331,Medium,8,Binary Search|Array
+167,Two Sum II - Input array is sorted    ,0.497,Easy,8,Binary Search|Two Pointers|Array
+410,Split Array Largest Sum    ,0.419,Hard,8,Binary Search|Dynamic Programming
+44,Wildcard Matching    ,0.225,Hard,8,Greedy |Dynamic Programming|String|Backtracking
+135,Candy    ,0.279,Hard,8,Greedy 
+97,Interleaving String    ,0.275,Hard,8,Dynamic Programming|String
+211,Add and Search Word - Data structure design    ,0.295,Medium,8,Backtracking|Design|Trie
+204,Count Primes    ,0.285,Easy,8,HashTable|Math
+773,Sliding Puzzle    ,0.51,Hard,8,breadth-first-search
+415,Add Strings    ,0.433,Easy,8,String
+228,Summary Ranges    ,0.354,Medium,8,Array
+314,Binary Tree Vertical Order Traversal    ,0.404,Medium,8,HashTable
+84,Largest Rectangle in Histogram    ,0.305,Hard,8,Array|Stack
+905,Sort Array By Parity    ,0.722,Easy,8,Array
+457,Circular Array Loop    ,0.274,Medium,8,Two Pointers|Array
+102,Binary Tree Level Order Traversal    ,0.475,Medium,8,breadth-first-search|Tree
+234,Palindrome Linked List    ,0.355,Easy,8,Two Pointers|Linked List
+202,Happy Number    ,0.445,Easy,8,HashTable|Math
+403,Frog Jump    ,0.356,Hard,8,Dynamic Programming
+458,Poor Pigs    ,0.45,Hard,8,Math
+18,4Sum    ,0.3,Medium,8,HashTable|Two Pointers|Array
+785,Is Graph Bipartite?    ,0.426,Medium,8,Depth First|breadth-first-search|Graph
+210,Course Schedule II    ,0.34,Medium,8,Depth First|breadth-first-search|Graph|Topological Sort
+93,Restore IP Addresses    ,0.309,Medium,8,String|Backtracking
+94,Binary Tree Inorder Traversal    ,0.555,Medium,8,HashTable|Tree|Stack
+65,Valid Number    ,0.139,Hard,8,Math|String
+316,Remove Duplicate Letters    ,0.321,Hard,8,Greedy |Stack
+909,Snakes and Ladders    ,0.313,Medium,8,breadth-first-search
+248,Strobogrammatic Number III    ,0.36,Hard,8,Math|Recursion
+70,Climbing Stairs    ,0.437,Easy,8,Dynamic Programming
+438,Find All Anagrams in a String    ,0.367,Easy,8,HashTable
+713,Subarray Product Less Than K    ,0.363,Medium,8,Two Pointers|Array
+751,IP to CIDR    ,0.585,Easy,8,Bit Manipulation
+529,Minesweeper    ,0.521,Medium,8,Depth First|breadth-first-search
+279,Perfect Squares    ,0.412,Medium,8,breadth-first-search|Math|Dynamic Programming
+819,Most Common Word    ,0.419,Easy,8,String
+697,Degree of an Array    ,0.496,Easy,8,Array
+287,Find the Duplicate Number    ,0.487,Medium,8,Binary Search|Two Pointers|Array
+198,House Robber    ,0.408,Easy,8,Dynamic Programming
+244,Shortest Word Distance II    ,0.464,Medium,8,HashTable|Design
+205,Isomorphic Strings    ,0.369,Easy,8,HashTable
+920,Number of Music Playlists    ,0.43,Hard,8,Dynamic Programming
+29,Divide Two Integers    ,0.161,Medium,8,Binary Search|Math
+165,Compare Version Numbers    ,0.229,Medium,8,String
+208,Implement Trie (Prefix Tree)    ,0.372,Medium,8,Design|Trie
+251,Flatten 2D Vector    ,0.435,Medium,8,Design
+918,Maximum Sum Circular Subarray    ,0.306,Medium,8,Array
+280,Wiggle Sort    ,0.607,Medium,8,Array|Sort
+315,Count of Smaller Numbers After Self    ,0.375,Hard,8,Divide and Conquer|Binary Search Tree|Segment Tree|Binary Indexed Tree
+268,Missing Number    ,0.478,Easy,8,Array|Math|Bit Manipulation
+402,Remove K Digits    ,0.263,Medium,8,Greedy |Stack
+233,Number of Digit One    ,0.3,Hard,8,Math
+250,Count Univalue Subtrees    ,0.48,Medium,8,Tree
+240,Search a 2D Matrix II    ,0.404,Medium,8,Binary Search|Divide and Conquer
+304,Range Sum Query 2D - Immutable    ,0.315,Medium,8,Dynamic Programming
+523,Continuous Subarray Sum    ,0.242,Medium,8,Math|Dynamic Programming
+278,First Bad Version    ,0.293,Easy,8,Binary Search
+64,Minimum Path Sum    ,0.459,Medium,8,Array|Dynamic Programming
+24,Swap Nodes in Pairs    ,0.436,Medium,8,Linked List
+759,Employee Free Time    ,0.609,Hard,8,Greedy |Heap
+152,Maximum Product Subarray    ,0.287,Medium,8,Array|Dynamic Programming
+340,Longest Substring with At Most K Distinct Characters    ,0.393,Hard,8,HashTable|String|Sliding Window
+120,Triangle    ,0.386,Medium,8,Array|Dynamic Programming
+722,Remove Comments    ,0.306,Medium,8,String
+71,Simplify Path    ,0.283,Medium,8,String|Stack
+739,Daily Temperatures    ,0.594,Medium,8,HashTable|Stack
+419,Battleships in a Board    ,0.653,Medium,8,
+166,Fraction to Recurring Decimal    ,0.193,Medium,8,HashTable|Math
+465,Optimal Account Balancing    ,0.421,Hard,8,
+116,Populating Next Right Pointers in Each Node    ,0.371,Medium,8,Depth First|Tree
+468,Validate IP Address    ,0.211,Medium,8,String
+427,Construct Quad Tree    ,0.552,Easy,8,
+28,Implement strStr()    ,0.315,Easy,8,Two Pointers|String
+150,Evaluate Reverse Polish Notation    ,0.316,Medium,8,Stack
+753,Cracking the Safe    ,0.451,Hard,8,Depth First|Math
+308,Range Sum Query 2D - Mutable    ,0.312,Hard,8,Segment Tree|Binary Indexed Tree
+122,Best Time to Buy and Sell Stock II    ,0.512,Easy,8,Greedy |Array
+741,Cherry Pickup    ,0.283,Hard,8,Dynamic Programming
+862,Shortest Subarray with Sum at Least K    ,0.218,Hard,8,Binary Search|Queue
+539,Minimum Time Difference    ,0.474,Medium,8,String
+986,Interval List Intersections    ,0.624,Medium,8,Two Pointers
+928,Minimize Malware Spread II    ,0.383,Hard,8,Depth First|Graph|Union Find
+658,Find K Closest Elements    ,0.375,Medium,8,Binary Search
+114,Flatten Binary Tree to Linked List    ,0.414,Medium,8,Depth First|Tree
+26,Remove Duplicates from Sorted Array    ,0.4,Easy,8,Two Pointers|Array
+148,Sort List    ,0.343,Medium,8,Linked List|Sort
+187,Repeated DNA Sequences    ,0.355,Medium,8,HashTable|Bit Manipulation
+723,Candy Crush    ,0.624,Medium,7,Two Pointers|Array
+160,Intersection of Two Linked Lists    ,0.328,Easy,7,Linked List
+736,Parse Lisp Expression    ,0.437,Hard,7,String
+479,Largest Palindrome Product    ,0.272,Hard,7,
+285,Inorder Successor in BST    ,0.338,Medium,7,Tree
+451,Sort Characters By Frequency    ,0.553,Medium,7,HashTable|Heap
+350,Intersection of Two Arrays II    ,0.47,Easy,7,HashTable|Binary Search|Two Pointers|Sort
+780,Reaching Points    ,0.273,Hard,7,Math
+75,Sort Colors    ,0.415,Medium,7,Two Pointers|Array|Sort
+346,Moving Average from Data Stream    ,0.654,Easy,7,Design|Queue
+170,Two Sum III - Data structure design    ,0.298,Easy,7,HashTable|Design
+63,Unique Paths II    ,0.333,Medium,7,Array|Dynamic Programming
+104,Maximum Depth of Binary Tree    ,0.596,Easy,7,Depth First|Tree
+694,Number of Distinct Islands    ,0.505,Medium,7,HashTable|Depth First
+787,Cheapest Flights Within K Stops    ,0.341,Medium,7,breadth-first-search|Dynamic Programming|Heap
+480,Sliding Window Median    ,0.318,Hard,7,Sliding Window
+593,Valid Square    ,0.402,Medium,7,Math
+448,Find All Numbers Disappeared in an Array    ,0.529,Easy,7,Array
+981,Time Based Key-Value Store    ,0.496,Medium,7,HashTable|Binary Search
+767,Reorganize String    ,0.414,Medium,7,Greedy |String|Heap|Sort
+35,Search Insert Position    ,0.406,Easy,7,Binary Search|Array
+62,Unique Paths    ,0.468,Medium,7,Array|Dynamic Programming
+911,Online Election    ,0.453,Medium,7,Binary Search
+463,Island Perimeter    ,0.605,Easy,7,HashTable
+518,Coin Change 2    ,0.418,Medium,7,
+136,Single Number    ,0.593,Easy,7,HashTable|Bit Manipulation
+567,Permutation in String    ,0.379,Medium,7,Two Pointers
+36,Valid Sudoku    ,0.422,Medium,7,HashTable
+688,Knight Probability in Chessboard    ,0.432,Medium,7,Dynamic Programming
+428,Serialize and Deserialize N-ary Tree    ,0.528,Hard,7,Tree
+317,Shortest Distance from All Buildings    ,0.371,Hard,7,breadth-first-search
+69,Sqrt(x)    ,0.309,Easy,7,Binary Search|Math
+178,Rank Scores    ,0.353,Medium,7,
+311,Sparse Matrix Multiplication    ,0.557,Medium,7,HashTable
+101,Symmetric Tree    ,0.429,Easy,7,Depth First|breadth-first-search|Tree
+493,Reverse Pairs    ,0.227,Hard,7,Divide and Conquer|Binary Search Tree|Segment Tree|Binary Indexed Tree
+509,Fibonacci Number    ,0.668,Easy,7,Array
+836,Rectangle Overlap    ,0.459,Easy,7,Math
+727,Minimum Window Subsequence    ,0.363,Hard,7,Dynamic Programming|Sliding Window
+366,Find Leaves of Binary Tree    ,0.645,Medium,7,Depth First|Tree
+232,Implement Queue using Stacks    ,0.424,Easy,7,Stack|Design
+59,Spiral Matrix II    ,0.457,Medium,7,Array
+442,Find All Duplicates in an Array    ,0.602,Medium,7,Array
+142,Linked List Cycle II    ,0.312,Medium,7,Two Pointers|Linked List
+299,Bulls and Cows    ,0.388,Medium,7,HashTable
+286,Walls and Gates    ,0.488,Medium,7,breadth-first-search
+490,The Maze    ,0.467,Medium,7,Depth First|breadth-first-search
+450,Delete Node in a BST    ,0.394,Medium,7,Tree
+284,Peeking Iterator    ,0.398,Medium,7,Design
+726,Number of Atoms    ,0.442,Hard,7,HashTable|Stack|Recursion
+30,Substring with Concatenation of All Words    ,0.233,Hard,7,HashTable|Two Pointers|String
+378,Kth Smallest Element in a Sorted Matrix    ,0.487,Medium,7,Binary Search|Heap
+117,Populating Next Right Pointers in Each Node II    ,0.337,Medium,7,Depth First|Tree
+743,Network Delay Time    ,0.407,Medium,7,Depth First|breadth-first-search|Heap|Graph
+153,Find Minimum in Rotated Sorted Array    ,0.426,Medium,7,Binary Search|Array
+296,Best Meeting Point    ,0.543,Hard,7,Math|Sort
+545,Boundary of Binary Tree    ,0.345,Medium,7,Tree
+247,Strobogrammatic Number II    ,0.438,Medium,7,Math|Recursion
+557,Reverse Words in a String III    ,0.633,Easy,7,String
+359,Logger Rate Limiter    ,0.644,Easy,7,HashTable|Design
+381,Insert Delete GetRandom O(1) - Duplicates allowed    ,0.316,Hard,7,HashTable|Array|Design
+532,K-diff Pairs in an Array    ,0.295,Easy,7,Two Pointers|Array
+709,To Lower Case    ,0.764,Easy,7,String
+271,Encode and Decode Strings    ,0.261,Medium,7,String
+907,Sum of Subarray Minimums    ,0.258,Medium,7,Array|Stack
+272,Closest Binary Search Tree Value II    ,0.44,Hard,7,Tree|Stack
+235,Lowest Common Ancestor of a Binary Search Tree    ,0.438,Easy,7,Tree
+353,Design Snake Game    ,0.3,Medium,7,Design|Queue
+887,Super Egg Drop    ,0.248,Hard,7,Binary Search|Math|Dynamic Programming
+635,Design Log Storage System    ,0.533,Medium,7,String|Design
+243,Shortest Word Distance    ,0.565,Easy,7,Array
+209,Minimum Size Subarray Sum    ,0.344,Medium,7,Binary Search|Two Pointers|Array
+703,Kth Largest Element in a Stream    ,0.457,Easy,7,Heap
+628,Maximum Product of Three Numbers    ,0.457,Easy,7,Array|Math
+83,Remove Duplicates from Sorted List    ,0.421,Easy,7,Linked List
+852,Peak Index in a Mountain Array    ,0.692,Easy,7,Binary Search
+417,Pacific Atlantic Water Flow    ,0.37,Medium,7,Depth First|breadth-first-search
+226,Invert Binary Tree    ,0.574,Easy,7,Tree
+73,Set Matrix Zeroes    ,0.392,Medium,7,Array
+678,Valid Parenthesis String    ,0.323,Medium,7,String
+185,Department Top Three Salaries    ,0.243,Hard,7,
+407,Trapping Rain Water II    ,0.389,Hard,7,breadth-first-search|Heap
+110,Balanced Binary Tree    ,0.405,Easy,7,Depth First|Tree
+834,Sum of Distances in Tree    ,0.387,Hard,7,Depth First|Tree
+932,Beautiful Array    ,0.521,Medium,7,Divide and Conquer
+524,Longest Word in Dictionary through Deleting    ,0.453,Medium,7,Two Pointers|Sort
+420,Strong Password Checker    ,0.178,Hard,7,
+406,Queue Reconstruction by Height    ,0.592,Medium,7,Greedy 
+731,My Calendar II    ,0.434,Medium,7,Array|Binary Search Tree
+230,Kth Smallest Element in a BST    ,0.503,Medium,7,Binary Search|Tree
+680,Valid Palindrome II    ,0.339,Easy,7,String
+157,Read N Characters Given Read4    ,0.287,Easy,7,String
+246,Strobogrammatic Number    ,0.419,Easy,7,HashTable|Math
+721,Accounts Merge    ,0.392,Medium,7,Depth First|Union Find
+698,Partition to K Equal Sum Subsets    ,0.416,Medium,7,Dynamic Programming|Recursion
+66,Plus One    ,0.408,Easy,7,Array
+379,Design Phone Directory    ,0.402,Medium,7,Design|Linked List
+777,Swap Adjacent in LR String    ,0.329,Medium,7,Brainteaser
+471,Encode String with Shortest Length    ,0.446,Hard,7,Dynamic Programming
+931,Minimum Falling Path Sum    ,0.579,Medium,7,Dynamic Programming
+123,Best Time to Buy and Sell Stock III    ,0.331,Hard,6,Array|Dynamic Programming
+371,Sum of Two Integers    ,0.511,Easy,6,Bit Manipulation
+430,Flatten a Multilevel Doubly Linked List    ,0.41,Medium,6,Depth First|Linked List
+655,Print Binary Tree    ,0.513,Medium,6,Tree
+384,Shuffle an Array    ,0.497,Medium,6,
+889,Construct Binary Tree from Preorder and Postorder Traversal    ,0.587,Medium,6,Tree
+475,Heaters    ,0.313,Easy,6,Binary Search
+683,K Empty Slots    ,0.34,Hard,6,Array|Binary Search Tree
+632,Smallest Range    ,0.464,Hard,6,HashTable|Two Pointers|String
+118,Pascal's Triangle    ,0.45,Easy,6,Array
+803,Bricks Falling When Hit    ,0.28,Hard,6,Union Find
+953,Verifying an Alien Dictionary    ,0.559,Easy,6,HashTable
+556,Next Greater Element III    ,0.298,Medium,6,String
+257,Binary Tree Paths    ,0.453,Easy,6,Depth First|Tree
+807,Max Increase to Keep City Skyline    ,0.811,Medium,6,
+194,Transpose File    ,0.225,Medium,6,
+605,Can Place Flowers    ,0.307,Easy,6,Array
+74,Search a 2D Matrix    ,0.347,Medium,6,Binary Search|Array
+718,Maximum Length of Repeated Subarray    ,0.451,Medium,6,HashTable|Binary Search|Array|Dynamic Programming
+108,Convert Sorted Array to Binary Search Tree    ,0.496,Easy,6,Depth First|Tree
+496,Next Greater Element I    ,0.589,Easy,6,Stack
+913,Cat and Mouse    ,0.273,Hard,6,breadth-first-search|Minimax
+113,Path Sum II    ,0.398,Medium,6,Depth First|Tree
+109,Convert Sorted List to Binary Search Tree    ,0.399,Medium,6,Depth First|Linked List
+416,Partition Equal Subset Sum    ,0.401,Medium,6,Dynamic Programming
+833,Find And Replace in String    ,0.452,Medium,6,String
+131,Palindrome Partitioning    ,0.4,Medium,6,Backtracking
+386,Lexicographical Numbers    ,0.451,Medium,6,
+797,All Paths From Source to Target    ,0.696,Medium,6,
+189,Rotate Array    ,0.293,Easy,6,Array
+328,Odd Even Linked List    ,0.484,Medium,6,Linked List
+689,Maximum Sum of 3 Non-Overlapping Subarrays    ,0.439,Hard,6,Array|Dynamic Programming
+527,Word Abbreviation    ,0.482,Hard,6,String|Sort
+611,Valid Triangle Number    ,0.446,Medium,6,Array
+849,Maximize Distance to Closest Person    ,0.405,Easy,6,Array
+169,Majority Element    ,0.518,Easy,6,Array|Bit Manipulation|Divide and Conquer
+392,Is Subsequence    ,0.463,Medium,6,Binary Search|Greedy |Dynamic Programming
+707,Design Linked List    ,0.236,Easy,6,Design|Linked List
+361,Bomb Enemy    ,0.427,Medium,6,Dynamic Programming
+809,Expressive Words    ,0.425,Medium,6,String
+724,Find Pivot Index    ,0.407,Easy,6,Array
+730,Count Different Palindromic Subsequences    ,0.379,Hard,6,Dynamic Programming|String
+181,Employees Earning More Than Their Managers    ,0.469,Easy,6,
+453,Minimum Moves to Equal Array Elements    ,0.49,Easy,6,Math
+761,Special Binary String    ,0.503,Hard,6,String|Recursion
+595,Big Countries    ,0.732,Easy,6,
+837,New 21 Game    ,0.305,Medium,6,Dynamic Programming
+863,All Nodes Distance K in Binary Tree    ,0.459,Medium,6,Depth First|breadth-first-search|Tree
+95,Unique Binary Search Trees II    ,0.35,Medium,6,Dynamic Programming|Tree
+163,Missing Ranges    ,0.23,Medium,6,Array
+674,Longest Continuous Increasing Subsequence    ,0.439,Easy,6,Array
+662,Maximum Width of Binary Tree    ,0.397,Medium,6,Tree
+213,House Robber II    ,0.351,Medium,6,Dynamic Programming
+130,Surrounded Regions    ,0.223,Medium,6,Depth First|breadth-first-search|Union Find
+733,Flood Fill    ,0.501,Easy,6,Depth First
+365,Water and Jug Problem    ,0.288,Medium,6,Math
+640,Solve the Equation    ,0.4,Medium,6,Math
+274,H-Index    ,0.344,Medium,6,HashTable|Sort
+572,Subtree of Another Tree    ,0.414,Easy,6,Tree
+261,Graph Valid Tree    ,0.396,Medium,6,Depth First|breadth-first-search|Graph|Union Find
+171,Excel Sheet Column Number    ,0.51,Easy,6,Math
+766,Toeplitz Matrix    ,0.613,Easy,6,Array
+763,Partition Labels    ,0.689,Medium,6,Two Pointers|Greedy 
+943,Find the Shortest Superstring    ,0.358,Hard,6,Dynamic Programming
+876,Middle of the Linked List    ,0.636,Easy,6,Linked List
+323,Number of Connected Components in an Undirected Graph    ,0.515,Medium,6,Depth First|breadth-first-search|Graph|Union Find
+855,Exam Room    ,0.374,Medium,6,Map
+229,Majority Element II    ,0.315,Medium,6,Array
+86,Partition List    ,0.366,Medium,6,Two Pointers|Linked List
+917,Reverse Only Letters    ,0.56,Easy,6,String
+338,Counting Bits    ,0.642,Medium,6,Dynamic Programming|Bit Manipulation
+225,Implement Stack using Queues    ,0.383,Easy,6,Stack|Design
+363,Max Sum of Rectangle No Larger Than K    ,0.349,Hard,6,Binary Search|Dynamic Programming|Queue
+700,Search in a Binary Search Tree    ,0.672,Easy,6,Tree
+710,Random Pick with Blacklist    ,0.308,Hard,6,HashTable|Binary Search|Sort|Random
+266,Palindrome Permutation    ,0.597,Easy,6,HashTable
+99,Recover Binary Search Tree    ,0.341,Hard,6,Depth First|Tree
+794,Valid Tic-Tac-Toe State    ,0.291,Medium,6,Math|Recursion
+498,Diagonal Traverse    ,0.451,Medium,6,
+708,Insert into a Cyclic Sorted List    ,0.285,Medium,6,Linked List
+237,Delete Node in a Linked List    ,0.524,Easy,6,Linked List
+357,Count Numbers with Unique Digits    ,0.467,Medium,6,Math|Dynamic Programming|Backtracking
+106,Construct Binary Tree from Inorder and Postorder Traversal    ,0.383,Medium,6,Depth First|Array|Tree
+388,Longest Absolute File Path    ,0.389,Medium,6,
+433,Minimum Genetic Mutation    ,0.376,Medium,6,
+652,Find Duplicate Subtrees    ,0.446,Medium,6,Tree
+47,Permutations II    ,0.395,Medium,6,Backtracking
+252,Meeting Rooms    ,0.516,Easy,6,Sort
+895,Maximum Frequency Stack    ,0.533,Hard,6,HashTable|Stack
+956,Tallest Billboard    ,0.372,Hard,6,Dynamic Programming
+734,Sentence Similarity    ,0.403,Easy,6,HashTable
+966,Vowel Spellchecker    ,0.401,Medium,6,HashTable|String
+435,Non-overlapping Intervals    ,0.414,Medium,6,Greedy 
+373,Find K Pairs with Smallest Sums    ,0.334,Medium,6,Heap
+622,Design Circular Queue    ,0.386,Medium,6,Design|Queue
+375,Guess Number Higher or Lower II    ,0.373,Medium,6,Dynamic Programming|Minimax
+437,Path Sum III    ,0.422,Easy,6,Tree
+302,Smallest Rectangle Enclosing Black Pixels    ,0.488,Hard,6,Binary Search
+395,Longest Substring with At Least K Repeating Characters    ,0.381,Medium,6,
+319,Bulb Switcher    ,0.437,Medium,6,Math|Brainteaser
+717,1-bit and 2-bit Characters    ,0.49,Easy,5,Array
+957,Prison Cells After N Days    ,0.379,Medium,5,HashTable
+977,Squares of a Sorted Array    ,0.727,Easy,5,Two Pointers|Array
+303,Range Sum Query - Immutable    ,0.37,Easy,5,Dynamic Programming
+354,Russian Doll Envelopes    ,0.336,Hard,5,Binary Search|Dynamic Programming
+447,Number of Boomerangs    ,0.495,Easy,5,HashTable
+684,Redundant Connection    ,0.507,Medium,5,Tree|Graph|Union Find
+561,Array Partition I    ,0.685,Easy,5,Array
+214,Shortest Palindrome    ,0.273,Hard,5,String
+305,Number of Islands II    ,0.42,Hard,5,Union Find
+845,Longest Mountain in Array    ,0.339,Medium,5,Two Pointers
+321,Create Maximum Number    ,0.252,Hard,5,Greedy |Dynamic Programming
+488,Zuma Game    ,0.382,Hard,5,Depth First
+259,3Sum Smaller    ,0.445,Medium,5,Two Pointers|Array
+503,Next Greater Element II    ,0.503,Medium,5,Stack
+112,Path Sum    ,0.372,Easy,5,Depth First|Tree
+505,The Maze II    ,0.428,Medium,5,Depth First|breadth-first-search
+874,Walking Robot Simulation    ,0.312,Easy,5,Greedy 
+737,Sentence Similarity II    ,0.43,Medium,5,Depth First|Union Find
+256,Paint House    ,0.483,Easy,5,Dynamic Programming
+440,K-th Smallest in Lexicographical Order    ,0.263,Hard,5,
+255,Verify Preorder Sequence in Binary Search Tree    ,0.43,Medium,5,Tree|Stack
+310,Minimum Height Trees    ,0.299,Medium,5,breadth-first-search|Graph
+52,N-Queens II    ,0.511,Hard,5,Backtracking
+184,Department Highest Salary    ,0.275,Medium,5,
+351,Android Unlock Patterns    ,0.456,Medium,5,Dynamic Programming|Backtracking
+188,Best Time to Buy and Sell Stock IV    ,0.26,Hard,5,Dynamic Programming
+377,Combination Sum IV    ,0.437,Medium,5,Dynamic Programming
+582,Kill Process    ,0.558,Medium,5,Tree|Queue
+742,Closest Leaf in a Binary Tree    ,0.381,Medium,5,Tree
+325,Maximum Size Subarray Sum Equals k    ,0.444,Medium,5,HashTable
+270,Closest Binary Search Tree Value    ,0.433,Easy,5,Binary Search|Tree
+799,Champagne Tower    ,0.336,Medium,5,
+562,Longest Line of Consecutive One in Matrix    ,0.432,Medium,5,Array
+96,Unique Binary Search Trees    ,0.454,Medium,5,Dynamic Programming|Tree
+100,Same Tree    ,0.496,Easy,5,Depth First|Tree
+516,Longest Palindromic Subsequence    ,0.457,Medium,5,Dynamic Programming
+398,Random Pick Index    ,0.492,Medium,5,Reservoir Sampling
+828,Unique Letter String    ,0.386,Hard,5,Two Pointers
+617,Merge Two Binary Trees    ,0.695,Easy,5,Tree
+81,Search in Rotated Sorted Array II    ,0.325,Medium,5,Binary Search|Array
+180,Consecutive Numbers    ,0.325,Medium,5,
+168,Excel Sheet Column Title    ,0.286,Easy,5,Math
+191,Number of 1 Bits    ,0.423,Easy,5,Bit Manipulation
+900,RLE Iterator    ,0.492,Medium,5,Array
+161,One Edit Distance    ,0.315,Medium,5,String
+936,Stamping The Sequence    ,0.356,Hard,5,Greedy |String
+179,Largest Number    ,0.254,Medium,5,Sort
+750,Number Of Corner Rectangles    ,0.64,Medium,5,Dynamic Programming
+934,Shortest Bridge    ,0.438,Medium,5,Depth First|breadth-first-search
+969,Pancake Sorting    ,0.617,Medium,5,Array|Sort
+746,Min Cost Climbing Stairs    ,0.464,Easy,5,Array|Dynamic Programming
+616,Add Bold Tag in String    ,0.389,Medium,5,String
+769,Max Chunks To Make Sorted    ,0.511,Medium,5,Array
+850,Rectangle Area II    ,0.439,Hard,5,Segment Tree
+631,Design Excel Sum Formula    ,0.289,Hard,5,Design
+291,Word Pattern II    ,0.403,Hard,5,Backtracking
+701,Insert into a Binary Search Tree    ,0.744,Medium,5,Tree
+494,Target Sum    ,0.449,Medium,5,Depth First|Dynamic Programming
+856,Score of Parentheses    ,0.553,Medium,5,String|Stack
+937,Reorder Log Files    ,0.593,Easy,5,String
+665,Non-decreasing Array    ,0.195,Easy,5,Array
+847,Shortest Path Visiting All Nodes    ,0.459,Hard,5,breadth-first-search|Dynamic Programming
+190,Reverse Bits    ,0.305,Easy,5,Bit Manipulation
+132,Palindrome Partitioning II    ,0.269,Hard,5,Dynamic Programming
+588,Design In-Memory File System    ,0.384,Hard,5,Design
+540,Single Element in a Sorted Array    ,0.572,Medium,5,
+265,Paint House II    ,0.41,Hard,5,Dynamic Programming
+134,Gas Station    ,0.332,Medium,5,Greedy 
+871,Minimum Number of Refueling Stops    ,0.282,Hard,5,Dynamic Programming|Heap
+921,Minimum Add to Make Parentheses Valid    ,0.696,Medium,5,Greedy |Stack
+979,Distribute Coins in Binary Tree    ,0.659,Medium,5,Depth First|Tree
+704,Binary Search    ,0.46,Easy,5,Binary Search
+853,Car Fleet    ,0.388,Medium,5,Stack
+591,Tag Validator    ,0.319,Hard,5,String|Stack
+87,Scramble String    ,0.312,Hard,5,Dynamic Programming|String
+914,X of a Kind in a Deck of Cards    ,0.345,Easy,5,Array|Math
+337,House Robber III    ,0.475,Medium,5,Depth First|Tree
+144,Binary Tree Preorder Traversal    ,0.506,Medium,5,Tree|Stack
+714,Best Time to Buy and Sell Stock with Transaction Fee    ,0.498,Medium,5,Greedy |Array|Dynamic Programming
+137,Single Number II    ,0.454,Medium,5,Bit Manipulation
+890,Find and Replace Pattern    ,0.703,Medium,5,String
+877,Stone Game    ,0.607,Medium,5,Math|Dynamic Programming|Minimax
+119,Pascal's Triangle II    ,0.425,Easy,5,Array
+290,Word Pattern    ,0.346,Easy,5,HashTable
+940,Distinct Subsequences II    ,0.382,Hard,5,Dynamic Programming
+715,Range Module    ,0.345,Hard,5,Array|Binary Search Tree|Segment Tree
+568,Maximum Vacation Days    ,0.377,Hard,5,Dynamic Programming
+825,Friends Of Appropriate Ages    ,0.356,Medium,5,Array
+873,Length of Longest Fibonacci Subsequence    ,0.458,Medium,5,Array|Dynamic Programming
+964,Least Operators to Express Number    ,0.406,Hard,5,Math|Dynamic Programming
+309,Best Time to Buy and Sell Stock with Cooldown    ,0.436,Medium,5,Dynamic Programming
+729,My Calendar I    ,0.467,Medium,5,Array
+824,Goat Latin    ,0.57,Easy,5,String
+409,Longest Palindrome    ,0.476,Easy,5,HashTable
+40,Combination Sum II    ,0.406,Medium,5,Array|Backtracking
+686,Repeated String Match    ,0.313,Easy,5,String
+464,Can I Win    ,0.27,Medium,5,Dynamic Programming|Minimax
+400,Nth Digit    ,0.302,Easy,5,Math
+933,Number of Recent Calls    ,0.691,Easy,5,Queue
+992,Subarrays with K Different Integers    ,0.458,Hard,4,HashTable|Two Pointers|Sliding Window
+826,Most Profit Assigning Work    ,0.351,Medium,4,Two Pointers
+817,Linked List Components    ,0.54,Medium,4,Linked List
+671,Second Minimum Node In a Binary Tree    ,0.435,Easy,4,Tree
+186,Reverse Words in a String II    ,0.367,Medium,4,String
+592,Fraction Addition and Subtraction    ,0.466,Medium,4,Math
+27,Remove Element    ,0.439,Easy,4,Two Pointers|Array
+383,Ransom Note    ,0.494,Easy,4,String
+864,Shortest Path to Get All Keys    ,0.357,Hard,4,breadth-first-search|Heap
+223,Rectangle Area    ,0.356,Medium,4,Math
+542,01 Matrix    ,0.349,Medium,4,Depth First|breadth-first-search
+220,Contains Duplicate III    ,0.195,Medium,4,Binary Search Tree
+260,Single Number III    ,0.564,Medium,4,Bit Manipulation
+963,Minimum Area Rectangle II    ,0.428,Medium,4,Math|Geometry
+690,Employee Importance    ,0.534,Easy,4,HashTable|Depth First|breadth-first-search
+174,Dungeon Game    ,0.266,Hard,4,Binary Search|Dynamic Programming
+298,Binary Tree Longest Consecutive Sequence    ,0.437,Medium,4,Tree
+441,Arranging Coins    ,0.376,Easy,4,Binary Search|Math
+951,Flip Equivalent Binary Trees    ,0.651,Medium,4,Tree
+654,Maximum Binary Tree    ,0.753,Medium,4,Tree
+946,Validate Stack Sequences    ,0.576,Medium,4,Stack
+866,Prime Palindrome    ,0.194,Medium,4,Math
+983,Minimum Cost For Tickets    ,0.575,Medium,4,Dynamic Programming
+896,Monotonic Array    ,0.547,Easy,4,Array
+675,Cut Off Trees for Golf Event    ,0.304,Hard,4,breadth-first-search
+452,Minimum Number of Arrows to Burst Balloons    ,0.458,Medium,4,Greedy 
+687,Longest Univalue Path    ,0.334,Easy,4,Tree|Recursion
+334,Increasing Triplet Subsequence    ,0.395,Medium,4,
+659,Split Array into Consecutive Subsequences    ,0.401,Medium,4,Greedy |Heap
+669,Trim a Binary Search Tree    ,0.599,Easy,4,Tree
+867,Transpose Matrix    ,0.638,Easy,4,Array
+765,Couples Holding Hands    ,0.511,Hard,4,Greedy |Graph|Union Find
+740,Delete and Earn    ,0.452,Medium,4,Dynamic Programming
+728,Self Dividing Numbers    ,0.693,Easy,4,Math
+559,Maximum Depth of N-ary Tree    ,0.648,Easy,4,Depth First|breadth-first-search|Tree
+352,Data Stream as Disjoint Intervals    ,0.431,Hard,4,Binary Search Tree
+147,Insertion Sort List    ,0.366,Medium,4,Linked List|Sort
+549,Binary Tree Longest Consecutive Sequence II    ,0.441,Medium,4,Tree
+533,Lonely Pixel II    ,0.46,Medium,4,Depth First|Array
+77,Combinations    ,0.465,Medium,4,Backtracking
+231,Power of Two    ,0.417,Easy,4,Math|Bit Manipulation
+216,Combination Sum III    ,0.507,Medium,4,Array|Backtracking
+264,Ugly Number II    ,0.358,Medium,4,Math|Dynamic Programming|Heap
+792,Number of Matching Subsequences    ,0.421,Medium,4,Array
+554,Brick Wall    ,0.474,Medium,4,HashTable
+941,Valid Mountain Array    ,0.348,Easy,4,Array
+774,Minimize Max Distance to Gas Station    ,0.404,Hard,4,Binary Search
+372,Super Pow    ,0.355,Medium,4,Math
+548,Split Array with Equal Sum    ,0.429,Medium,4,Array
+926,Flip String to Monotone Increasing    ,0.487,Medium,4,Array
+129,Sum Root to Leaf Numbers    ,0.417,Medium,4,Depth First|Tree
+196,Delete Duplicate Emails    ,0.312,Easy,4,
+938,Range Sum of BST    ,0.805,Medium,4,Binary Search Tree
+497,Random Point in Non-overlapping Rectangles    ,0.352,Medium,4,Binary Search|Random
+796,Rotate String    ,0.488,Easy,4,
+249,Group Shifted Strings    ,0.483,Medium,4,HashTable|String
+908,Smallest Range I    ,0.644,Easy,4,Math
+513,Find Bottom Left Tree Value    ,0.58,Medium,4,Depth First|breadth-first-search|Tree
+424,Longest Repeating Character Replacement    ,0.438,Medium,4,Two Pointers|Sliding Window
+459,Repeated Substring Pattern    ,0.395,Easy,4,String
+958,Check Completeness of a Binary Tree    ,0.468,Medium,4,Tree
+307,Range Sum Query - Mutable    ,0.278,Medium,4,Segment Tree|Binary Indexed Tree
+172,Factorial Trailing Zeroes    ,0.373,Easy,4,Math
+776,Split BST    ,0.52,Medium,4,Binary Search Tree
+558,Quad Tree Intersection    ,0.401,Easy,4,
+784,Letter Case Permutation    ,0.555,Easy,4,Backtracking|Bit Manipulation
+262,Trips and Users    ,0.238,Hard,4,
+111,Minimum Depth of Binary Tree    ,0.35,Easy,4,Depth First|breadth-first-search|Tree
+626,Exchange Seats    ,0.533,Medium,4,
+800,Similar RGB Color    ,0.59,Easy,4,Math|String
+942,DI String Match    ,0.702,Easy,4,Math
+107,Binary Tree Level Order Traversal II    ,0.459,Easy,4,breadth-first-search|Tree
+968,Binary Tree Cameras    ,0.342,Hard,4,Depth First|Dynamic Programming|Tree
+477,Total Hamming Distance    ,0.487,Medium,4,Bit Manipulation
+865,Smallest Subtree with all the Deepest Nodes    ,0.547,Medium,4,Tree
+358,Rearrange String k Distance Apart    ,0.326,Hard,4,HashTable|Greedy |Heap
+320,Generalized Abbreviation    ,0.483,Medium,4,Backtracking|Bit Manipulation
+712,Minimum ASCII Delete Sum for Two Strings    ,0.536,Medium,4,Dynamic Programming
+345,Reverse Vowels of a String    ,0.41,Easy,4,Two Pointers|String
+60,Permutation Sequence    ,0.325,Medium,4,Math|Backtracking
+421,Maximum XOR of Two Numbers in an Array    ,0.505,Medium,4,Bit Manipulation|Trie
+389,Find the Difference    ,0.528,Easy,4,HashTable|Bit Manipulation
+145,Binary Tree Postorder Traversal    ,0.474,Hard,4,Tree|Stack
+90,Subsets II    ,0.417,Medium,4,Array|Backtracking
+884,Uncommon Words from Two Sentences    ,0.606,Easy,4,HashTable
+702,Search in a Sorted Array of Unknown Size    ,0.568,Medium,4,Binary Search
+627,Swap Salary    ,0.674,Easy,4,
+484,Find Permutation    ,0.571,Medium,4,Greedy 
+115,Distinct Subsequences    ,0.346,Hard,4,Dynamic Programming|String
+878,Nth Magical Number    ,0.248,Hard,4,Binary Search|Math
+61,Rotate List    ,0.267,Medium,4,Two Pointers|Linked List
+472,Concatenated Words    ,0.336,Hard,4,Depth First|Dynamic Programming|Trie
+333,Largest BST Subtree    ,0.325,Medium,4,Tree
+342,Power of Four    ,0.4,Easy,4,Bit Manipulation
+756,Pyramid Transition Matrix    ,0.507,Medium,4,Depth First|Bit Manipulation
+544,Output Contest Matches    ,0.729,Medium,4,String|Recursion
+798,Smallest Rotation with Highest Score    ,0.392,Hard,4,
+201,Bitwise AND of Numbers Range    ,0.356,Medium,4,Bit Manipulation
+950,Reveal Cards In Increasing Order    ,0.714,Medium,4,Array
+922,Sort Array By Parity II    ,0.668,Easy,4,Array|Sort
+413,Arithmetic Slices    ,0.554,Medium,3,Math|Dynamic Programming
+783,Minimum Distance Between BST Nodes    ,0.5,Easy,3,Binary Search Tree
+832,Flipping an Image    ,0.718,Easy,3,Array
+425,Word Squares    ,0.437,Hard,3,Backtracking|Trie
+872,Leaf-Similar Trees    ,0.625,Easy,3,Depth First|Tree
+815,Bus Routes    ,0.392,Hard,3,breadth-first-search
+182,Duplicate Emails    ,0.531,Easy,3,
+454,4Sum II    ,0.5,Medium,3,HashTable|Binary Search
+916,Word Subsets    ,0.445,Medium,3,String
+390,Elimination Game    ,0.434,Medium,3,
+705,Design HashSet    ,0.515,Easy,3,HashTable|Design
+984,String Without AAA or BBB    ,0.325,Medium,3,Greedy 
+58,Length of Last Word    ,0.322,Easy,3,String
+630,Course Schedule III    ,0.312,Hard,3,Greedy 
+788,Rotated Digits    ,0.534,Easy,3,String
+552,Student Attendance Record II    ,0.325,Hard,3,Dynamic Programming
+461,Hamming Distance    ,0.701,Easy,3,Bit Manipulation
+657,Robot Return to Origin    ,0.71,Easy,3,String
+719,Find K-th Smallest Pair Distance    ,0.287,Hard,3,Binary Search|Array|Heap
+197,Rising Temperature    ,0.339,Easy,3,
+156,Binary Tree Upside Down    ,0.498,Medium,3,Tree
+429,N-ary Tree Level Order Traversal    ,0.586,Easy,3,breadth-first-search|Tree
+343,Integer Break    ,0.474,Medium,3,Math|Dynamic Programming
+281,Zigzag Iterator    ,0.556,Medium,3,Design
+526,Beautiful Arrangement    ,0.541,Medium,3,Backtracking
+404,Sum of Left Leaves    ,0.488,Easy,3,Tree
+405,Convert a Number to Hexadecimal    ,0.417,Easy,3,Bit Manipulation
+288,Unique Word Abbreviation    ,0.197,Medium,3,HashTable|Design
+507,Perfect Number    ,0.339,Easy,3,Math
+827,Making A Large Island    ,0.426,Hard,3,Depth First
+486,Predict the Winner    ,0.467,Medium,3,Dynamic Programming|Minimax
+804,Unique Morse Code Words    ,0.744,Easy,3,String
+859,Buddy Strings    ,0.275,Easy,3,String
+791,Custom Sort String    ,0.611,Medium,3,String
+846,Hand of Straights    ,0.485,Medium,3,Map
+368,Largest Divisible Subset    ,0.346,Medium,3,Math|Dynamic Programming
+521,Longest Uncommon Subsequence I     ,0.562,Easy,3,String
+805,Split Array With Same Average    ,0.238,Hard,3,Math
+418,Sentence Screen Fitting    ,0.307,Medium,3,Dynamic Programming
+536,Construct Binary Tree from String    ,0.441,Medium,3,String|Tree
+360,Sort Transformed Array    ,0.465,Medium,3,Two Pointers|Math
+614,Second Degree Follower    ,0.229,Medium,3,
+89,Gray Code    ,0.451,Medium,3,Backtracking
+485,Max Consecutive Ones    ,0.547,Easy,3,Array
+376,Wiggle Subsequence    ,0.371,Medium,3,Greedy |Dynamic Programming
+82,Remove Duplicates from Sorted List II    ,0.324,Medium,3,Linked List
+499,The Maze III    ,0.367,Hard,3,Depth First|breadth-first-search
+967,Numbers With Same Consecutive Differences    ,0.361,Medium,3,Dynamic Programming
+673,Number of Longest Increasing Subsequence    ,0.333,Medium,3,Dynamic Programming
+369,Plus One Linked List    ,0.558,Medium,3,Linked List
+883,Projection Area of 3D Shapes    ,0.654,Easy,3,Math
+897,Increasing Order Search Tree    ,0.635,Easy,3,Depth First|Tree
+892,Surface Area of 3D Shapes    ,0.557,Easy,3,Math|Geometry
+725,Split Linked List in Parts    ,0.487,Medium,3,Linked List
+267,Palindrome Permutation II    ,0.333,Medium,3,Backtracking
+813,Largest Sum of Averages    ,0.441,Medium,3,Dynamic Programming
+183,Customers Who Never Order    ,0.434,Easy,3,
+414,Third Maximum Number    ,0.288,Easy,3,Array
+639,Decode Ways II    ,0.248,Hard,3,Dynamic Programming
+318,Maximum Product of Word Lengths    ,0.48,Medium,3,Bit Manipulation
+355,Design Twitter    ,0.27,Medium,3,HashTable|Design|Heap
+987,Vertical Order Traversal of a Binary Tree    ,0.329,Medium,3,HashTable|Tree
+530,Minimum Absolute Difference in BST    ,0.5,Easy,3,Binary Search Tree
+814,Binary Tree Pruning    ,0.702,Medium,3,Tree
+818,Race Car    ,0.342,Hard,3,Dynamic Programming|Heap
+590,N-ary Tree Postorder Traversal    ,0.665,Easy,3,Tree
+245,Shortest Word Distance III    ,0.529,Medium,3,Array
+501,Find Mode in Binary Search Tree    ,0.39,Easy,3,Tree
+254,Factor Combinations    ,0.44,Medium,3,Backtracking
+154,Find Minimum in Rotated Sorted Array II    ,0.391,Hard,3,Binary Search|Array
+276,Paint Fence    ,0.362,Easy,3,Dynamic Programming
+515,Find Largest Value in Each Tree Row    ,0.574,Medium,3,Depth First|breadth-first-search|Tree
+385,Mini Parser    ,0.316,Medium,3,String|Stack
+546,Remove Boxes    ,0.377,Hard,3,Depth First|Dynamic Programming
+504,Base 7    ,0.447,Easy,3,
+217,Contains Duplicate    ,0.511,Easy,3,HashTable|Array
+915,Partition Array into Disjoint Intervals    ,0.423,Medium,3,Array
+500,Keyboard Row    ,0.618,Easy,3,HashTable
+597,Friend Requests I: Overall Acceptance Rate    ,0.396,Easy,3,
+367,Valid Perfect Square    ,0.395,Easy,3,Binary Search|Math
+925,Long Pressed Name    ,0.442,Easy,3,Two Pointers|String
+823,Binary Trees With Factors    ,0.319,Medium,3,
+470,Implement Rand10() Using Rand7()    ,0.443,Medium,3,Random|Rejection Sampling
+822,Card Flipping Game    ,0.401,Medium,3,
+841,Keys and Rooms    ,0.597,Medium,3,Depth First|Graph
+699,Falling Squares    ,0.396,Hard,3,Binary Search Tree|Segment Tree
+491,Increasing Subsequences    ,0.416,Medium,3,Depth First
+648,Replace Words    ,0.51,Medium,3,HashTable|Trie
+978,Longest Turbulent Subarray    ,0.459,Medium,3,Array|Dynamic Programming|Sliding Window
+397,Integer Replacement    ,0.311,Medium,3,Math|Bit Manipulation
+879,Profitable Schemes    ,0.358,Hard,3,Dynamic Programming
+661,Image Smoother    ,0.483,Easy,3,Array
+608,Tree Node    ,0.578,Medium,3,
+835,Image Overlap    ,0.51,Medium,3,Array
+531,Lonely Pixel I    ,0.573,Medium,3,Depth First|Array
+894,All Possible Full Binary Trees    ,0.699,Medium,3,Tree|Recursion
+581,Shortest Unsorted Continuous Subarray    ,0.298,Easy,3,Array
+638,Shopping Offers    ,0.48,Medium,3,Depth First|Dynamic Programming
+960,Delete Columns to Make Sorted III    ,0.517,Hard,3,Dynamic Programming
+579,Find Cumulative Salary of an Employee    ,0.34,Hard,3,
+423,Reconstruct Original Digits from English    ,0.454,Medium,2,Math
+382,Linked List Random Node    ,0.488,Medium,2,Reservoir Sampling
+663,Equal Tree Partition    ,0.378,Medium,2,Tree
+919,Complete Binary Tree Inserter    ,0.547,Medium,2,Tree
+752,Open the Lock    ,0.45,Medium,2,breadth-first-search
+599,Minimum Index Sum of Two Lists    ,0.474,Easy,2,HashTable
+313,Super Ugly Number    ,0.407,Medium,2,Math|Heap
+670,Maximum Swap    ,0.393,Medium,2,Array|Math
+881,oats to Save People    ,0.432,Medium,2,Two Pointers|Greedy 
+396,Rotate Function    ,0.35,Medium,2,Math
+408,Valid Word Abbreviation    ,0.293,Easy,2,String
+525,Contiguous Array    ,0.424,Medium,2,HashTable
+653,Two Sum IV - Input is a BST    ,0.521,Easy,2,Tree
+745,Prefix and Suffix Search    ,0.298,Hard,2,Trie
+961,N-Repeated Element in Size 2N Array    ,0.731,Easy,2,HashTable
+786,K-th Smallest Prime Fraction    ,0.391,Hard,2,Binary Search|Heap
+790,Domino and Tromino Tiling    ,0.353,Medium,2,Dynamic Programming
+330,Patching Array    ,0.332,Hard,2,Greedy 
+522,Longest Uncommon Subsequence II    ,0.327,Medium,2,String
+861,Score After Flipping Matrix    ,0.69,Medium,2,Greedy 
+976,Largest Perimeter Triangle    ,0.57,Easy,2,Math|Sort
+575,Distribute Candies    ,0.593,Easy,2,HashTable
+801,Minimum Swaps To Make Sequences Increasing    ,0.341,Medium,2,Dynamic Programming
+637,Average of Levels in Binary Tree    ,0.582,Easy,2,Tree
+696,Count Binary Substrings    ,0.528,Easy,2,String
+431,Encode N-ary Tree to Binary Tree    ,0.614,Hard,2,Tree
+754,Reach a Number    ,0.318,Easy,2,Math
+980,Unique Paths III    ,0.722,Hard,2,Depth First|Backtracking
+972,Equal Rational Numbers    ,0.401,Hard,2,Math
+839,Similar String Groups    ,0.341,Hard,2,Depth First|Graph|Union Find
+294,Flip Game II    ,0.478,Medium,2,Backtracking|Minimax
+263,Ugly Number    ,0.404,Easy,2,Math
+930,Binary Subarrays With Sum    ,0.37,Medium,2,HashTable|Two Pointers
+685,Redundant Connection II    ,0.302,Hard,2,Depth First|Tree|Graph|Union Find
+327,Count of Range Sum    ,0.322,Hard,2,Divide and Conquer|Binary Search Tree
+691,Stickers to Spell Word    ,0.377,Hard,2,Dynamic Programming|Backtracking
+945,Minimum Increment to Make Array Unique    ,0.422,Medium,2,Array
+764,Largest Plus Sign    ,0.43,Medium,2,Dynamic Programming
+668,Kth Smallest Number in Multiplication Table    ,0.412,Hard,2,Binary Search
+682,Baseball Game    ,0.605,Easy,2,Stack
+566,Reshape the Matrix    ,0.586,Easy,2,Array
+676,Implement Magic Dictionary    ,0.512,Medium,2,HashTable|Trie
+370,Range Addition    ,0.602,Medium,2,Array
+495,Teemo Attacking    ,0.519,Medium,2,Array
+778,Swim in Rising Water    ,0.468,Hard,2,Depth First|Binary Search|Heap|Union Find
+830,Positions of Large Groups    ,0.476,Easy,2,Array
+241,Different Ways to Add Parentheses    ,0.491,Medium,2,Divide and Conquer
+520,Detect Capital    ,0.523,Easy,2,String
+667,Beautiful Arrangement II    ,0.516,Medium,2,Array
+775,Global and Local Inversions    ,0.381,Medium,2,Array|Math
+563,Binary Tree Tilt    ,0.468,Easy,2,Tree
+510,Inorder Successor in BST II    ,0.539,Medium,2,Tree
+551,Student Attendance Record I    ,0.452,Easy,2,String
+331,Verify Preorder Serialization of a Binary Tree    ,0.383,Medium,2,Stack
+356,Line Reflection    ,0.308,Medium,2,HashTable|Math
+965,Univalued Binary Tree    ,0.675,Easy,2,Tree
+476,Number Complement    ,0.621,Easy,2,Bit Manipulation
+893,Groups of Special-Equivalent Strings    ,0.618,Easy,2,String
+762,Prime Number of Set Bits in Binary Representation    ,0.582,Easy,2,Bit Manipulation
+600,Non-negative Integers without Consecutive Ones    ,0.326,Hard,2,Dynamic Programming
+677,Map Sum Pairs    ,0.512,Medium,2,Trie
+768,Max Chunks To Make Sorted II    ,0.454,Hard,2,Array
+808,Soup Servings    ,0.362,Medium,2,Dynamic Programming
+481,Magical String    ,0.458,Medium,2,
+732,My Calendar III    ,0.538,Hard,2,Binary Search Tree|Segment Tree
+990,Satisfiability of Equality Equations    ,0.389,Medium,2,Graph|Union Find
+927,Three Equal Parts    ,0.303,Hard,2,Binary Search|Greedy |Math
+80,Remove Duplicates from Sorted Array II    ,0.397,Medium,2,Two Pointers|Array
+666,Path Sum IV    ,0.516,Medium,2,Tree
+645,Set Mismatch    ,0.405,Easy,2,HashTable|Math
+886,Possible Bipartition    ,0.403,Medium,2,Depth First
+602,Friend Requests II: Who Has the Most Friends    ,0.443,Medium,2,
+1002,Find Common Characters    ,0.678,Easy,2,HashTable|Array
+606,Construct String from Binary Tree    ,0.512,Easy,2,String|Tree
+519,Random Flip Matrix    ,0.325,Medium,2,Random
+335,Self Crossing    ,0.269,Hard,2,Math
+541,Reverse String II    ,0.451,Easy,2,String
+306,Additive Number    ,0.282,Medium,2,Backtracking
+326,Power of Three    ,0.415,Easy,2,Math
+517,Super Washing Machines    ,0.368,Hard,2,Math|Dynamic Programming
+646,Maximum Length of Pair Chain    ,0.482,Medium,2,Dynamic Programming
+401,Binary Watch    ,0.451,Easy,2,Backtracking|Bit Manipulation
+901,Online Stock Span    ,0.475,Medium,2,Stack
+840,Magic Squares In Grid    ,0.351,Easy,2,Array
+848,Shifting Letters    ,0.399,Medium,2,String
+391,Perfect Rectangle    ,0.28,Hard,2,
+455,Assign Cookies    ,0.481,Easy,2,Greedy 
+760,Find Anagram Mappings    ,0.791,Easy,2,HashTable
+374,Guess Number Higher or Lower    ,0.389,Easy,2,Binary Search
+508,Most Frequent Subtree Sum    ,0.54,Medium,2,HashTable|Tree
+720,Longest Word in Dictionary    ,0.44,Easy,2,HashTable|Trie
+446,Arithmetic Slices II - Subsequence    ,0.299,Hard,2,Dynamic Programming
+868,Binary Gap    ,0.594,Easy,2,Math
+492,Construct the Rectangle    ,0.485,Easy,2,
+596,Classes More Than 5 Students    ,0.35,Easy,2,
+462,Minimum Moves to Equal Array Elements II    ,0.523,Medium,2,Math
+219,Contains Duplicate II    ,0.349,Easy,2,HashTable|Array
+613,Shortest Distance in a Line    ,0.724,Easy,2,
+995,Minimum Number of K Consecutive Bit Flips    ,0.507,Hard,2,Greedy |Sliding Window
+949,Largest Time for Given Digits    ,0.333,Easy,2,Math
+885,Spiral Matrix III    ,0.637,Medium,1,Math
+444,Sequence Reconstruction    ,0.202,Medium,1,Graph|Topological Sort
+854,K-Similar Strings    ,0.329,Hard,1,breadth-first-search|Graph
+478,Generate Random Point in a Circle    ,0.361,Medium,1,Math|Random|Rejection Sampling
+1008,Construct Binary Search Tree from Preorder Traversal    ,0.729,Medium,1,Tree
+601,Human Traffic of Stadium    ,0.357,Hard,1,
+643,Maximum Average Subarray I    ,0.391,Easy,1,Array
+589,N-ary Tree Preorder Traversal    ,0.665,Easy,1,Tree
+633,Sum of Square Numbers    ,0.328,Easy,1,Math
+1007,Minimum Domino Rotations For Equal Row    ,0.465,Medium,1,Greedy |Array
+487,Max Consecutive Ones II    ,0.464,Medium,1,Two Pointers
+821,Shortest Distance to a Character    ,0.629,Easy,1,
+275,H-Index II    ,0.352,Medium,1,Binary Search
+594,Longest Harmonious Subsequence    ,0.432,Easy,1,HashTable
+583,Delete Operation for Two Strings    ,0.444,Medium,1,String
+565,Array Nesting    ,0.519,Medium,1,Array
+538,Convert BST to Greater Tree    ,0.502,Easy,1,Tree
+164,Maximum Gap    ,0.32,Hard,1,Sort
+650,2 Keys Keyboard    ,0.462,Medium,1,Dynamic Programming
+456,132 Pattern    ,0.274,Medium,1,Stack
+1004,Max Consecutive Ones III    ,0.518,Medium,1,Two Pointers|Sliding Window
+996,Number of Squareful Arrays    ,0.477,Hard,1,Math|Backtracking|Graph
+948,Bag of Tokens    ,0.388,Medium,1,Greedy 
+898,Bitwise ORs of Subarrays    ,0.332,Medium,1,Dynamic Programming|Bit Manipulation
+944,Delete Columns to Make Sorted    ,0.695,Easy,1,Greedy 
+971,Flip Binary Tree To Match Preorder Traversal    ,0.422,Medium,1,Depth First|Tree
+838,Push Dominoes    ,0.43,Medium,1,Two Pointers|Dynamic Programming
+910,Smallest Range II    ,0.229,Medium,1,Greedy |Math
+436,Find Right Interval    ,0.425,Medium,1,Binary Search
+994,Rotting Oranges    ,0.462,Easy,1,breadth-first-search
+473,Matchsticks to Square    ,0.358,Medium,1,Depth First
+781,Rabbits in Forest    ,0.51,Medium,1,HashTable|Math
+693,Binary Number with Alternating Bits    ,0.576,Easy,1,Bit Manipulation
+747,Largest Number At Least Twice of Others    ,0.403,Easy,1,Array
+434,Number of Segments in a String    ,0.367,Easy,1,String
+812,Largest Triangle Area    ,0.553,Easy,1,Math
+959,Regions Cut By Slashes    ,0.618,Medium,1,Depth First|Graph|Union Find
+860,Lemonade Change    ,0.502,Easy,1,Greedy 
+954,Array of Doubled Pairs    ,0.342,Medium,1,HashTable|Array
+598,Range Addition II    ,0.485,Easy,1,Math
+888,Fair Candy Swap    ,0.563,Easy,1,Array
+962,Maximum Width Ramp    ,0.41,Medium,1,Array
+744,Find Smallest Letter Greater Than Target    ,0.437,Easy,1,Binary Search
+584,Find Customer Referee    ,0.669,Easy,1,
+292,Nim Game    ,0.555,Easy,1,Minimax|Brainteaser
+748,Shortest Completing Word    ,0.537,Easy,1,HashTable
+506,Relative Ranks    ,0.48,Easy,1,
+620,Not Boring Movies    ,0.615,Easy,1,
+806,Number of Lines To Write String    ,0.626,Easy,1,
+997,Find the Town Judge    ,0.482,Easy,1,Graph
+1013,Pairs of Songs With Total Durations Divisible by 60    ,0.433,Easy,1,Array
+779,K-th Symbol in Grammar    ,0.378,Medium,1,Recursion
+1006,Clumsy Factorial    ,0.55,Medium,1,Math
+1001,Grid Illumination    ,0.339,Hard,1,HashTable
+1014,Capacity To Ship Packages Within D Days    ,0.503,Medium,1,Binary Search|Array
+999,Available Captures for Rook    ,0.685,Easy,1,Array
+989,Add to Array-Form of Integer    ,0.45,Easy,1,Array
+1003,Check If Word Is Valid After Substitutions    ,0.521,Medium,1,String|Stack
+993,Cousins in Binary Tree    ,0.529,Easy,1,breadth-first-search|Tree
+998,Maximum Binary Tree II    ,0.625,Medium,1,Tree
+1023,Binary String With Substrings Representing 1 To N    New 65.4%,,,1,String
+1022,Smallest Integer Divisible by K    New.  23.4%,,,1,Math
+1021,Best Sightseeing Pair    New  42.1%,,,1,Array
+1020,Partition Array Into Three Parts With Equal Sum    New. 51.9%,,,1,Array
+1015,Numbers With Repeated Digits    ,0.337,Hard,1,Math|Dynamic Programming
+1012,Complement of Base 10 Integer    ,0.581,Easy,1,Math
+1005,Maximize Sum Of Array After K Negations    ,0.49,Easy,1,Greedy 
+1000,Minimum Cost to Merge Stones    ,0.261,Hard,1,Dynamic Programming
+991,Broken Calculator    ,0.387,Medium,1,Greedy |Math
+988,Smallest String Starting From Leaf    ,0.5,Medium,1,Depth First|Tree
+985,Sum of Even Numbers After Queries    ,0.666,Easy,1,Array
+982,Triples with Bitwise AND Equal To Zero    ,0.531,Hard,1,Dynamic Programming
+970,Powerful Integers    ,0.397,Easy,1,HashTable|Math
+955,Delete Columns to Make Sorted II    ,0.308,Medium,1,Greedy 
+952,Largest Component Size by Common Factor    ,0.256,Hard,1,Math|Union Find
+906,Super Palindromes    ,0.298,Hard,1,Math
+903,Valid Permutations for DI Sequence    ,0.419,Hard,1,Dynamic Programming|Divide and Conquer
+902,Numbers At Most N Given Digit Set    ,0.279,Hard,1,Math|Dynamic Programming
+899,Orderly Queue    ,0.464,Hard,1,Math|String
+891,Sum of Subsequence Widths    ,0.283,Hard,1,Array|Math
+882,Reachable Nodes In Subdivided Graph    ,0.369,Hard,1,Heap
+880,Decoded String at Index    ,0.229,Medium,1,Stack
+875,Koko Eating Bananas    ,0.452,Medium,1,Binary Search
+870,Advantage Shuffle    ,0.416,Medium,1,Greedy |Array
+869,Reordered Power of 2    ,0.503,Medium,1,Math
+858,Mirror Reflection    ,0.516,Medium,1,Math
+851,Loud and Rich    ,0.47,Medium,1,Depth First
+842,Split Array into Fibonacci Sequence    ,0.346,Medium,1,Greedy |String|Backtracking
+641,Design Circular Deque    ,0.49,Medium,1,Design|Queue
+831,Masking Personal Information    ,0.417,Medium,1,String
+820,Short Encoding of Words    ,0.463,Medium,1,
+816,Ambiguous Coordinates    ,0.434,Medium,1,String
+810,Chalkboard XOR Game    ,0.436,Hard,1,Math
+802,Find Eventual Safe States    ,0.429,Medium,1,Depth First|Graph
+795,Number of Subarrays with Bounded Maximum    ,0.426,Medium,1,Array
+793,Preimage Size of Factorial Zeroes Function    ,0.392,Hard,1,Binary Search
+789,Escape The Ghosts    ,0.549,Medium,1,Math
+782,Transform to Chessboard    ,0.394,Hard,1,Array|Math
+758,Bold Words in String    ,0.419,Easy,1,String
+757,Set Intersection Size At Least Two    ,0.366,Hard,1,Greedy 
+749,Contain Virus    ,0.407,Hard,0,Depth First
+738,Monotone Increasing Digits    ,0.414,Medium,0,Greedy 
+711,Number of Distinct Islands II    ,0.454,Hard,0,HashTable|Depth First
+672,Bulb Switcher II    ,0.496,Medium,0,Math
+664,Strange Printer    ,0.357,Hard,0,Depth First|Dynamic Programming
+660,Remove 9    ,0.512,Hard,0,Math
+656,Coin Path    ,0.266,Hard,0,Dynamic Programming
+651,4 Keys Keyboard    ,0.501,Medium,0,Greedy |Math|Dynamic Programming
+649,Dota2 Senate    ,0.372,Medium,0,Greedy 
+644,Maximum Average Subarray II    ,0.281,Hard,0,Binary Search|Array
+634,Find the Derangement of An Array    ,0.373,Medium,0,Math
+629,K Inverse Pairs Array    ,0.29,Hard,0,Dynamic Programming
+625,Minimum Factorization    ,0.318,Medium,0,Math|Recursion
+624,Maximum Distance in Arrays    ,0.37,Easy,0,HashTable|Array
+623,Add One Row to Tree    ,0.47,Medium,0,Tree
+619,Biggest Single Number    ,0.384,Easy,0,
+618,Students Report By Geography    ,0.421,Hard,0,
+615,Average Salary: Departments VS Company    ,0.361,Hard,0,
+612,Shortest Distance in a Plane    ,0.532,Medium,0,
+610,Triangle Judgement    ,0.61,Easy,0,
+607,Sales Person    ,0.555,Easy,0,
+604,Design Compressed String Iterator    ,0.344,Easy,0,Design
+603,Consecutive Available Seats    ,0.575,Easy,0,
+587,Erect the Fence    ,0.343,Hard,0,Geometry
+586,Customer Placing the Largest Number of Orders    ,0.657,Easy,0,
+585,Investments in 2016    ,0.467,Medium,0,
+580,Count Student Number in Departments    ,0.421,Medium,0,
+578,Get Highest Answer Rate Question    ,0.355,Medium,0,
+577,Employee Bonus    ,0.578,Easy,0,
+576,Out of Boundary Paths    ,0.314,Medium,0,Depth First|Dynamic Programming
+574,Winning Candidate    ,0.359,Medium,0,
+573,Squirrel Simulation    ,0.532,Medium,0,Math
+571,Find Median Given Frequency of Numbers    ,0.474,Hard,0,
+570,Managers with at Least 5 Direct Reports    ,0.617,Medium,0,
+569,Median Employee Salary    ,0.458,Hard,0,
+555,Split Concatenated Strings    ,0.397,Medium,0,String
+553,Optimal Division    ,0.551,Medium,0,Math|String
+537,Complex Number Multiplication    ,0.652,Medium,0,Math|String
+514,Freedom Trail    ,0.404,Hard,0,Depth First|Dynamic Programming|Divide and Conquer
+502,IPO    ,0.375,Hard,0,Greedy |Heap
+483,Smallest Good Base    ,0.34,Hard,0,Binary Search|Math
+474,Ones and Zeroes    ,0.394,Medium,0,Dynamic Programming
+469,Convex Polygon    ,0.352,Medium,0,Math
+467,Unique Substrings in Wraparound String    ,0.335,Medium,0,Dynamic Programming
+466,Count The Repetitions    ,0.274,Hard,0,Dynamic Programming
+439,Ternary Expression Parser    ,0.532,Medium,0,Depth First|Stack
+422,Valid Word Square    ,0.365,Easy,0,
+411,Minimum Unique Word Abbreviation    ,0.347,Hard,0,Backtracking|Bit Manipulation
+293,Flip Game    ,0.586,Ea,0,String
